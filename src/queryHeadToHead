@@ -1,0 +1,55 @@
+// queryHeadToHead.js
+const fs = require('fs');
+const path = require('path');
+
+function queryHeadToHead(player1Id, player2Id, options = {}) {
+  const headToHeadFilePath = path.join(__dirname, 'headToHead.json');
+  if (!fs.existsSync(headToHeadFilePath)) {
+    console.error('Head-to-head data file not found. Please run analyze.js first.');
+    return [];
+  }
+
+  const rawData = fs.readFileSync(headToHeadFilePath);
+  const headToHead = JSON.parse(rawData);
+
+  const player1Data = headToHead[player1Id];
+  if (!player1Data) {
+    console.error(`No data found for player with ID ${player1Id}`);
+    return [];
+  }
+
+  const matchesAgainstPlayer2 = player1Data.opponents[player2Id];
+  if (!matchesAgainstPlayer2) {
+    console.log(`No matches found between ${player1Data.name} and player with ID ${player2Id}`);
+    return [];
+  }
+
+  // Apply filters
+  let matches = matchesAgainstPlayer2;
+
+  if (options.bestOf) {
+    matches = matches.filter(match => match.bestOf === options.bestOf);
+  }
+
+  if (options.lastNMatches) {
+    matches = matches.slice(-options.lastNMatches);
+  }
+
+  if (options.lastNEvents) {
+    // Sort matches by event ID (assuming higher IDs are more recent)
+    matches.sort((a, b) => b.eventId - a.eventId);
+    matches = matches.slice(0, options.lastNEvents);
+  }
+
+  if (options.sinceDate) {
+    matches = matches.filter(match => match.completedAt >= options.sinceDate);
+  }
+
+  if (options.beforeDate) {
+    matches = matches.filter(match => match.completedAt <= options.beforeDate);
+  }
+
+  return matches;
+}
+
+module.exports = queryHeadToHead;
