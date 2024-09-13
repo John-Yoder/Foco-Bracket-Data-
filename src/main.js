@@ -7,11 +7,11 @@ const getSetScore = require('./getSetScore');
 const sleep = require('./sleep');
 
 (async () => {
-  const tournaments = [
-    { tournamentName: 'foco-weekly-wednesday-201', eventName: 'melee-singles' },
-    { tournamentName: 'foco-weekly-wednesday-202', eventName: 'melee-singles' },
-    // Add more tournaments here
-  ];
+    const tournaments = [];
+  
+    for (let i = 201; i <= 210; i++) {
+      tournaments.push({ tournamentName: `foco-weekly-wednesday-${i}`, eventName: 'melee-singles' });
+    }
 
   const dataFilePath = path.join(__dirname, 'data.json');
   let allEventData = {};
@@ -52,7 +52,7 @@ const sleep = require('./sleep');
           setScore: setScoreData,
         });
       }
-      await sleep(200); // Adjust delay as needed
+      await sleep(800); // Adjust delay as needed
     }
 
     allEventData[eventKey] = {
@@ -63,7 +63,7 @@ const sleep = require('./sleep');
       sets: eventSets,
     };
 
-    await sleep(500); // Adjust delay as needed
+    await sleep(1000); // Adjust delay as needed
   }
 
   // Save data to file
