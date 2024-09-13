@@ -1,7 +1,5 @@
-const sleep = (ms) => {
-    const date = Date.now()
-    let currentDate = null
-    do {
-        currentDate = Date.now()
-    } while (currentDate - date < ms)
-}
+// sleep.js
+module.exports = function sleep(ms) {
+    return new Promise((resolve) => setTimeout(resolve, ms));
+  };
+  
