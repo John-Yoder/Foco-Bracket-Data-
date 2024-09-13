@@ -54,7 +54,7 @@ const getEventSets = (eventId) => {
 }
 
 module.exports = {
-    getEventResults
+    getEventSets
 };
 
 getEventSets(636204);
