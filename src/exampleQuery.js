@@ -2,14 +2,14 @@
 const queryHeadToHead = require('./queryHeadToHead');
 
 function example() {
-  const player1Id = '123456'; // Replace with actual player ID for Player 1
-  const player2Id = '654321'; // Replace with actual player ID for Player 2
+  const player1Id = '8552829'; // Replace with actual player ID for Player 1
+  const player2Id = '8557021'; // Replace with actual player ID for Player 2
 
   // Options for filtering
   const options = {
-    lastNMatches: 10,       // Get only the last 10 matches
-    bestOf: 'Best of 5',     // Filter for Best of 5 sets
-    lastNEvents: 5,          // Limit to the last 5 events (based on event ID or date)
+    //lastNMatches: 10,       // Get only the last 10 matches
+    //bestOf: 'Best of 5',     // Filter for Best of 5 sets
+    //lastNEvents: 5,          // Limit to the last 5 events (based on event ID or date)
   };
 
   // Perform the query
