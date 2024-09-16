@@ -52,8 +52,17 @@ function computePlayerStats(matches) {
           wins: 0,
           losses: 0,
           winRate: 0,
+          totalGamesWon: 0,
+          totalGamesLost: 0,
+          gameWinRate: 0,
           straightGameWins: 0,
+          straightGameLosses: 0,
+          straightGameMatches: 0,
+          straightGameWinRate: 0,
           decidingGameWins: 0,
+          decidingGameLosses: 0,
+          decidingGameMatches: 0,
+          decidingGameWinRate: 0,
           matches: [], // Store match details for further analysis
           timeBasedStats: {
             last6Months: { matchesPlayed: 0, wins: 0, winRate: 0 },
@@ -66,28 +75,57 @@ function computePlayerStats(matches) {
       const stats = playerStats[playerKey];
       stats.matchesPlayed += 1;
 
+      // Update total games won and lost
+      stats.totalGamesWon += player.score.for;
+      stats.totalGamesLost += player.score.against;
+
+      // Recalculate game win rate
+      const totalGamesPlayed = stats.totalGamesWon + stats.totalGamesLost;
+      stats.gameWinRate = totalGamesPlayed > 0 ? (stats.totalGamesWon / totalGamesPlayed) * 100 : 0;
+
+      const totalMatchGames = player.score.for + player.score.against;
+
       if (player.result === 'win') {
         stats.wins += 1;
 
         // Check for straight game wins (e.g., 3-0, 2-0)
         if (player.score.against === 0) {
           stats.straightGameWins += 1;
+          stats.straightGameMatches += 1;
         }
 
         // Check for deciding game wins (e.g., 3-2, 2-1)
-        const totalGames = player.score.for + player.score.against;
         if (
-          (bestOf === 'Best of 5' && totalGames === 5) ||
-          (bestOf === 'Best of 3' && totalGames === 3)
+          (bestOf === 'Best of 5' && totalMatchGames === 5) ||
+          (bestOf === 'Best of 3' && totalMatchGames === 3)
         ) {
           stats.decidingGameWins += 1;
+          stats.decidingGameMatches += 1;
         }
+
       } else if (player.result === 'loss') {
         stats.losses += 1;
+
+        // Check for straight game losses (e.g., 0-3, 0-2)
+        if (player.score.for === 0) {
+          stats.straightGameLosses += 1;
+          stats.straightGameMatches += 1;
+        }
+
+        // Check for deciding game losses (e.g., 2-3, 1-2)
+        if (
+          (bestOf === 'Best of 5' && totalMatchGames === 5) ||
+          (bestOf === 'Best of 3' && totalMatchGames === 3)
+        ) {
+          stats.decidingGameLosses += 1;
+          stats.decidingGameMatches += 1;
+        }
       }
 
-      // Recalculate win rate
+      // Recalculate win rates
       stats.winRate = stats.matchesPlayed > 0 ? (stats.wins / stats.matchesPlayed) * 100 : 0;
+      stats.straightGameWinRate = stats.straightGameMatches > 0 ? (stats.straightGameWins / stats.straightGameMatches) * 100 : 0;
+      stats.decidingGameWinRate = stats.decidingGameMatches > 0 ? (stats.decidingGameWins / stats.decidingGameMatches) * 100 : 0;
 
       // Store match details
       stats.matches.push({

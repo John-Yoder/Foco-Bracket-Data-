@@ -2,13 +2,13 @@
 const queryHeadToHeadByName = require('./queryHeadToHead');
 
 function exampleHeadToHeadQuery() {
-  const player1Name = 'PlayerOne'; // Replace with actual player name
-  const player2Name = 'PlayerTwo'; // Replace with actual player name
+  const player1Name = 'DayNeptune930'; // Replace with actual player name
+  const player2Name = 'James Jr'; // Replace with actual player name
 
   const options = {
-    lastNMatches: 10,       // Get only the last 10 matches
-    bestOf: 'Best of 5',    // Filter for Best of 5 sets
-    lastNEvents: 5,         // Limit to the last 5 events
+    //lastNMatches: 10,       // Get only the last 10 matches
+    //bestOf: 'Best of 5',    // Filter for Best of 5 sets
+    //lastNEvents: 5,         // Limit to the last 5 events
     // Add more filters as needed
   };
 
