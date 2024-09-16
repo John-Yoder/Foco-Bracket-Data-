@@ -1,58 +1,62 @@
 // getSetScore.js
 require('dotenv').config();
-const fetch = (...args) =>
-  import('node-fetch').then(({ default: fetch }) => fetch(...args));
 const startggURL = 'https://api.start.gg/gql/alpha';
-const startggKey = "709731062d65fab7d19ae2f024121883";
+const startggKey = '709731062d65fab7d19ae2f024121883'; // Replace with your actual API key
 
 async function getSetScore(setId) {
-  const response = await fetch(startggURL, {
-    method: 'POST',
-    headers: {
-      'content-type': 'application/json',
-      Accept: 'application/json',
-      Authorization: 'Bearer ' + startggKey,
-    },
-    body: JSON.stringify({
-      query: `
-        query Set($setId: ID!) {
-          set(id: $setId) {
-            id
-            slots {
+  const { default: fetch } = await import('node-fetch');
+
+  try {
+    const response = await fetch(startggURL, {
+      method: 'POST',
+      headers: {
+        'content-type': 'application/json',
+        Accept: 'application/json',
+        Authorization: 'Bearer ' + startggKey,
+      },
+      body: JSON.stringify({
+        query: `
+          query Set($setId: ID!) {
+            set(id: $setId) {
               id
-              standing {
+              slots {
                 id
-                placement
-                stats {
-                  score {
-                    label
-                    value
+                standing {
+                  id
+                  placement
+                  stats {
+                    score {
+                      label
+                      value
+                    }
                   }
                 }
               }
             }
           }
-        }
-      `,
-      variables: {
-        setId: setId,
-      },
-    }),
-  }).then((res) => res.json());
+        `,
+        variables: {
+          setId: setId,
+        },
+      }),
+    });
 
-  if (response.errors) {
-    console.error(`Error fetching set score for set ${setId}:`, response.errors);
-    return null;
+    const data = await response.json();
+    if (data.errors) {
+      console.error(`Error fetching set score for set ${setId}:`, data.errors);
+      return null; // Return null to skip this set
+    }
+
+    if (!data.data.set) {
+      console.error(`Set data not found for set ID ${setId}.`);
+      return null; // Return null if set data is missing
+    }
+
+    return data.data.set;
+  } catch (error) {
+    console.error(`Exception fetching set score for set ${setId}:`, error);
+    return null; // Return null to skip this set
   }
-
-  console.log(response.data.set);
-  return response.data.set;
 }
 
 module.exports = getSetScore;
-
-// Example usage
-(async () => {
-  const setScore = await getSetScore('41560843');
-  console.log(setScore);
-})();
