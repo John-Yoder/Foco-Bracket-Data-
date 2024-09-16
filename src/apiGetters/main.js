@@ -4,14 +4,14 @@ const path = require('path');
 const getEventId = require('./getEventId');
 const getEventSets = require('./getEventSets');
 const getSetScore = require('./getSetScore');
-const sleep = require('./sleep');
+const sleep = require('../sleep');
 
 (async () => {
-  const tournaments = [
-    { tournamentName: 'foco-weekly-wednesday-220', eventName: 'melee-singles' },
-    // Add more tournaments here
-  ];
+  const tournaments = [];
 
+    for (let i = 201; i <= 350; i++) {
+      tournaments.push({ tournamentName: `foco-weekly-wednesday-${i}`, eventName: 'melee-singles' });
+    }
   const dataFilePath = path.join(__dirname, 'data.json');
   let allEventData = {};
 
@@ -60,7 +60,7 @@ const sleep = require('./sleep');
       } else {
         console.log(`Skipping set ID ${set.id} due to errors.`);
       }
-      await sleep(200); // Adjust delay as needed
+      await sleep(800); // Adjust delay as needed
     }
 
     allEventData[eventKey] = {
@@ -71,7 +71,7 @@ const sleep = require('./sleep');
       sets: eventSets,
     };
 
-    await sleep(500); // Adjust delay as needed
+    await sleep(800); // Adjust delay as needed
   }
 
   // Save data to file

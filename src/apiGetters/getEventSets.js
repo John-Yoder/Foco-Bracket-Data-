@@ -2,7 +2,7 @@
 require('dotenv').config();
 const startggURL = 'https://api.start.gg/gql/alpha';
 const startggKey = '709731062d65fab7d19ae2f024121883'; // Replace with your actual API key
-const sleep = require('./sleep');
+const sleep = require('../sleep');
 
 async function getEventSets(eventId) {
   const { default: fetch } = await import('node-fetch');
