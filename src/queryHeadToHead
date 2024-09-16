@@ -53,3 +53,4 @@ function queryHeadToHead(player1Id, player2Id, options = {}) {
 }
 
 module.exports = queryHeadToHead;
+

@@ -8,7 +8,7 @@ const sleep = require('./sleep');
 
 (async () => {
   const tournaments = [
-    { tournamentName: 'foco-weekly-wednesday-200', eventName: 'melee-singles' },
+    { tournamentName: 'foco-weekly-wednesday-220', eventName: 'melee-singles' },
     // Add more tournaments here
   ];
 

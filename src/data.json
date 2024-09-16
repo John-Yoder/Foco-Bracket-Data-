@@ -4662,5 +4662,442 @@
         }
       }
     ]
+  },
+  "foco-weekly-wednesday-220_melee-singles": {
+    "tournamentName": "foco-weekly-wednesday-220",
+    "eventName": "Melee Singles",
+    "eventId": 692400,
+    "startAt": 1646830800,
+    "sets": [
+      {
+        "id": "preview_1700344_1_0",
+        "slots": [
+          {
+            "id": "preview_1700344_1_0-0",
+            "entrant": {
+              "id": 9494210,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "preview_1700344_1_0-1",
+            "entrant": {
+              "id": 9497223,
+              "name": "GetCrabby"
+            }
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_1_0",
+          "slots": [
+            {
+              "id": "preview_1700344_1_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_1_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_1_1",
+        "slots": [
+          {
+            "id": "preview_1700344_1_1-0",
+            "entrant": {
+              "id": 9493930,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "preview_1700344_1_1-1",
+            "entrant": {
+              "id": 9493881,
+              "name": "Fuji"
+            }
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_1_1",
+          "slots": [
+            {
+              "id": "preview_1700344_1_1-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_1_1-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_1_2",
+        "slots": [
+          {
+            "id": "preview_1700344_1_2-0",
+            "entrant": {
+              "id": 9495060,
+              "name": "DSJ"
+            }
+          },
+          {
+            "id": "preview_1700344_1_2-1",
+            "entrant": {
+              "id": 9493874,
+              "name": "GLEN"
+            }
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_1_2",
+          "slots": [
+            {
+              "id": "preview_1700344_1_2-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_1_2-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_1_3",
+        "slots": [
+          {
+            "id": "preview_1700344_1_3-0",
+            "entrant": {
+              "id": 9495919,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "preview_1700344_1_3-1",
+            "entrant": {
+              "id": 9493889,
+              "name": "UNCO | Neur0n"
+            }
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_1_3",
+          "slots": [
+            {
+              "id": "preview_1700344_1_3-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_1_3-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_-3_0",
+        "slots": [
+          {
+            "id": "preview_1700344_-3_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_1700344_-3_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_-3_0",
+          "slots": [
+            {
+              "id": "preview_1700344_-3_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_-3_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_-3_1",
+        "slots": [
+          {
+            "id": "preview_1700344_-3_1-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_1700344_-3_1-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_-3_1",
+          "slots": [
+            {
+              "id": "preview_1700344_-3_1-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_-3_1-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_-4_0",
+        "slots": [
+          {
+            "id": "preview_1700344_-4_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_1700344_-4_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_-4_0",
+          "slots": [
+            {
+              "id": "preview_1700344_-4_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_-4_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_-4_1",
+        "slots": [
+          {
+            "id": "preview_1700344_-4_1-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_1700344_-4_1-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_-4_1",
+          "slots": [
+            {
+              "id": "preview_1700344_-4_1-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_-4_1-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_2_0",
+        "slots": [
+          {
+            "id": "preview_1700344_2_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_1700344_2_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_2_0",
+          "slots": [
+            {
+              "id": "preview_1700344_2_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_2_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_2_1",
+        "slots": [
+          {
+            "id": "preview_1700344_2_1-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_1700344_2_1-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_2_1",
+          "slots": [
+            {
+              "id": "preview_1700344_2_1-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_2_1-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_-5_0",
+        "slots": [
+          {
+            "id": "preview_1700344_-5_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_1700344_-5_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_-5_0",
+          "slots": [
+            {
+              "id": "preview_1700344_-5_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_-5_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_-6_0",
+        "slots": [
+          {
+            "id": "preview_1700344_-6_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_1700344_-6_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_-6_0",
+          "slots": [
+            {
+              "id": "preview_1700344_-6_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_-6_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_3_0",
+        "slots": [
+          {
+            "id": "preview_1700344_3_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_1700344_3_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_3_0",
+          "slots": [
+            {
+              "id": "preview_1700344_3_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_3_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_4_0",
+        "slots": [
+          {
+            "id": "preview_1700344_4_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_1700344_4_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_4_0",
+          "slots": [
+            {
+              "id": "preview_1700344_4_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_4_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_1700344_4_1",
+        "slots": [
+          {
+            "id": "preview_1700344_4_1-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_1700344_4_1-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_1700344_4_1",
+          "slots": [
+            {
+              "id": "preview_1700344_4_1-0",
+              "standing": null
+            },
+            {
+              "id": "preview_1700344_4_1-1",
+              "standing": null
+            }
+          ]
+        }
+      }
+    ]
   }
 }
