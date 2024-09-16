@@ -7,11 +7,10 @@ const getSetScore = require('./getSetScore');
 const sleep = require('./sleep');
 
 (async () => {
-    const tournaments = [];
-  
-    for (let i = 201; i <= 210; i++) {
-      tournaments.push({ tournamentName: `foco-weekly-wednesday-${i}`, eventName: 'melee-singles' });
-    }
+  const tournaments = [
+    { tournamentName: 'foco-weekly-wednesday-200', eventName: 'melee-singles' },
+    // Add more tournaments here
+  ];
 
   const dataFilePath = path.join(__dirname, 'data.json');
   let allEventData = {};
@@ -33,12 +32,19 @@ const sleep = require('./sleep');
     }
 
     const eventData = await getEventId(tournamentName, eventName);
-    if (!eventData) continue;
+    if (!eventData) {
+      console.log(`Skipping event ${eventName} in tournament ${tournamentName} due to errors.`);
+      continue; // Skip to the next tournament
+    }
 
     const { eventId, eventName: actualEventName, startAt } = eventData;
     console.log(`Fetched Event ID: ${eventId} for ${actualEventName}`);
 
     const sets = await getEventSets(eventId);
+    if (!sets || sets.length === 0) {
+      console.log(`No sets found for event ID ${eventId}. Skipping event.`);
+      continue; // Skip to the next event
+    }
     console.log(`Fetched ${sets.length} sets for event ${actualEventName}`);
 
     // Get set scores
@@ -51,8 +57,10 @@ const sleep = require('./sleep');
           ...set,
           setScore: setScoreData,
         });
+      } else {
+        console.log(`Skipping set ID ${set.id} due to errors.`);
       }
-      await sleep(800); // Adjust delay as needed
+      await sleep(200); // Adjust delay as needed
     }
 
     allEventData[eventKey] = {
@@ -63,11 +71,10 @@ const sleep = require('./sleep');
       sets: eventSets,
     };
 
-    await sleep(1000); // Adjust delay as needed
+    await sleep(500); // Adjust delay as needed
   }
 
   // Save data to file
   fs.writeFileSync(dataFilePath, JSON.stringify(allEventData, null, 2));
   console.log(`Data saved to ${dataFilePath}`);
-
 })();
