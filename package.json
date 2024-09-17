@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "cli-table3": "^0.6.5",
     "dotenv": "^16.4.5",
+    "inquirer": "^8.2.6",
+    "moment": "^2.30.1",
     "node-fetch": "^3.3.2"
   }
 }
