@@ -7,7 +7,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, roc_auc_score, classification_report
 import os
 from pathlib import Path
-import moment
+from datetime import datetime
+import joblib
 
 # Function to normalize player names
 def normalize_player_name(name):
@@ -18,19 +19,27 @@ def normalize_player_name(name):
     return name.strip()
 
 # Load player data
-player_data_path = 'src/data/playerDataPoints.json'  # Use forward slashes
-if not os.path.exists(player_data_path):
+player_data_path = Path('../data/playerDataPoints.json')  # Adjusted path
+if not player_data_path.exists():
     print(f"Error: {player_data_path} does not exist.")
     exit(1)
 
-with open(player_data_path, 'r') as f:
+with player_data_path.open('r') as f:
     player_data = json.load(f)
 
 # Convert to DataFrame
 player_df = pd.DataFrame.from_dict(player_data, orient='index')
 
+# Drop non-numerical columns (including 'headToHeadRecords' to prevent dict subtraction)
+columns_to_drop = ['playerName', 'mostCommonOpponent', 'performanceTrend', 'headToHeadRecords']
+player_df = player_df.drop(columns=columns_to_drop, errors='ignore')
+
+# Verify that all remaining columns are numerical
+print("DataFrame dtypes after dropping non-numerical columns:")
+print(player_df.dtypes)
+
 # Check for missing values
-print("Missing values per column:")
+print("\nMissing values per column:")
 print(player_df.isnull().sum())
 
 # For simplicity, fill missing numerical values with the median
@@ -43,9 +52,14 @@ scaler = StandardScaler()
 # Fit and transform the numerical features
 player_df[numerical_cols] = scaler.fit_transform(player_df[numerical_cols])
 
+# Save the scaler for future use
+scaler_filename = 'scaler.pkl'
+joblib.dump(scaler, scaler_filename)
+print(f"Scaler saved to {scaler_filename}")
+
 # Load matches data
-matches_data_path = 'data/matches.json'  # Ensure this path is correct
-if not os.path.exists(matches_data_path):
+matches_data_path = Path('../data/matches.json')  # Adjusted path
+if not matches_data_path.exists():
     print(f"Error: {matches_data_path} does not exist.")
     exit(1)
 
@@ -54,6 +68,16 @@ matches_df = pd.read_json(matches_data_path)
 # Normalize player names in matches_df
 matches_df['winnerName'] = matches_df['winnerName'].apply(normalize_player_name)
 matches_df['loserName'] = matches_df['loserName'].apply(normalize_player_name)
+
+# Define H2H features for consistency
+h2h_features = [
+    'h2h_total_matches',
+    'h2h_win_rate',
+    'h2h_recent_win_rate',
+    'h2h_avg_margin',
+    'h2h_win_rate_b3',
+    'h2h_win_rate_b5'
+]
 
 # Function to create match features
 def create_match_features(row):
@@ -69,10 +93,30 @@ def create_match_features(row):
 
     # Add match format
     best_of = 3 if row['bestOf'] == 'Best of 3' else 5
+    stats_diff['bestOf'] = best_of
+
+    # Extract H2H features for winner against loser
+    h2h_records = player_data[row['winnerName']].get('headToHeadRecords', {})
+    opponent_h2h = h2h_records.get(row['loserName'], {})
+
+    # Safely extract H2H numerical features
+    h2h_total_matches = opponent_h2h.get('totalMatchesPlayed', 0)
+    h2h_win_rate = opponent_h2h.get('winRate', 0)
+    h2h_recent_win_rate = opponent_h2h.get('recentMatchups', {}).get('last5Matches', {}).get('winRate', 0)
+    h2h_avg_margin = opponent_h2h.get('averageMargin', 0)
+    h2h_win_rate_b3 = opponent_h2h.get('winRateBestOf3', 0)
+    h2h_win_rate_b5 = opponent_h2h.get('winRateBestOf5', 0)
+
+    # Add H2H features to stats_diff
+    stats_diff['h2h_total_matches'] = h2h_total_matches
+    stats_diff['h2h_win_rate'] = h2h_win_rate
+    stats_diff['h2h_recent_win_rate'] = h2h_recent_win_rate
+    stats_diff['h2h_avg_margin'] = h2h_avg_margin
+    stats_diff['h2h_win_rate_b3'] = h2h_win_rate_b3
+    stats_diff['h2h_win_rate_b5'] = h2h_win_rate_b5
 
     # Prepare feature vector
     features = stats_diff.to_dict()
-    features['bestOf'] = best_of
 
     # Label (1 for winner, 0 for loser)
     label = 1
@@ -93,10 +137,30 @@ def create_reverse_match_features(row):
 
     # Add match format
     best_of = 3 if row['bestOf'] == 'Best of 3' else 5
+    stats_diff['bestOf'] = best_of
+
+    # Extract H2H features for loser against winner
+    h2h_records = player_data[row['loserName']].get('headToHeadRecords', {})
+    opponent_h2h = h2h_records.get(row['winnerName'], {})
+
+    # Safely extract H2H numerical features
+    h2h_total_matches = opponent_h2h.get('totalMatchesPlayed', 0)
+    h2h_win_rate = opponent_h2h.get('winRate', 0)
+    h2h_recent_win_rate = opponent_h2h.get('recentMatchups', {}).get('last5Matches', {}).get('winRate', 0)
+    h2h_avg_margin = opponent_h2h.get('averageMargin', 0)
+    h2h_win_rate_b3 = opponent_h2h.get('winRateBestOf3', 0)
+    h2h_win_rate_b5 = opponent_h2h.get('winRateBestOf5', 0)
+
+    # Add H2H features to stats_diff
+    stats_diff['h2h_total_matches'] = h2h_total_matches
+    stats_diff['h2h_win_rate'] = h2h_win_rate
+    stats_diff['h2h_recent_win_rate'] = h2h_recent_win_rate
+    stats_diff['h2h_avg_margin'] = h2h_avg_margin
+    stats_diff['h2h_win_rate_b3'] = h2h_win_rate_b3
+    stats_diff['h2h_win_rate_b5'] = h2h_win_rate_b5
 
     # Prepare feature vector
     features = stats_diff.to_dict()
-    features['bestOf'] = best_of
 
     # Label (0 for loser)
     label = 0
@@ -135,12 +199,22 @@ training_df = pd.DataFrame(features_list)
 # Fill missing values in training data
 training_df = training_df.fillna(0)
 
+# Convert H2H features to numeric, coercing any errors to NaN and then filling with 0
+for feature in h2h_features:
+    if feature in training_df.columns:
+        training_df[feature] = pd.to_numeric(training_df[feature], errors='coerce').fillna(0)
+    else:
+        # If the feature is missing, create it with default value 0
+        training_df[feature] = 0
+
 # Separate features and labels
 X = training_df.drop('label', axis=1)
 y = training_df['label']
 
 # Split the data
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, stratify=y, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, stratify=y, random_state=42
+)
 
 # Initialize the Logistic Regression model with L2 regularization
 model = LogisticRegression(penalty='l2', solver='lbfgs', max_iter=1000)
@@ -163,8 +237,25 @@ print(f"ROC AUC Score: {roc_auc:.2f}")
 print("Classification Report:")
 print(classification_report(y_test, y_pred))
 
+# Save the model
+model_filename = 'trained_logistic_regression_model.pkl'
+joblib.dump(model, model_filename)
+print(f"Model saved to {model_filename}")
+
 # Function to predict match outcome
-def predict_match_outcome(player1_name, player2_name, best_of_format):
+def predict_match_outcome(player1_name, player2_name, best_of_format, model):
+    """
+    Predicts the probability of player1 winning against player2.
+
+    Parameters:
+    - player1_name (str): Name of the first player.
+    - player2_name (str): Name of the second player.
+    - best_of_format (str): 'Best of 3' or 'Best of 5'.
+    - model: Trained machine learning model.
+
+    Returns:
+    - float: Probability of player1 winning.
+    """
     # Normalize player names
     player1_name = normalize_player_name(player1_name)
     player2_name = normalize_player_name(player2_name)
@@ -184,8 +275,32 @@ def predict_match_outcome(player1_name, player2_name, best_of_format):
     best_of = 3 if best_of_format == 'Best of 3' else 5
     stats_diff['bestOf'] = best_of
 
+    # Extract H2H features
+    h2h_records = player_data[player1_name].get('headToHeadRecords', {})
+    opponent_h2h = h2h_records.get(player2_name, {})
+
+    stats_diff['h2h_total_matches'] = opponent_h2h.get('totalMatchesPlayed', 0)
+    stats_diff['h2h_win_rate'] = opponent_h2h.get('winRate', 0)
+    stats_diff['h2h_recent_win_rate'] = opponent_h2h.get('recentMatchups', {}).get('last5Matches', {}).get('winRate', 0)
+    stats_diff['h2h_avg_margin'] = opponent_h2h.get('averageMargin', 0)
+    stats_diff['h2h_win_rate_b3'] = opponent_h2h.get('winRateBestOf3', 0)
+    stats_diff['h2h_win_rate_b5'] = opponent_h2h.get('winRateBestOf5', 0)
+
+    # Ensure H2H features are numeric
+    for feature in h2h_features:
+        if feature in stats_diff:
+            try:
+                stats_diff[feature] = float(stats_diff[feature])
+            except (ValueError, TypeError):
+                stats_diff[feature] = 0.0
+        else:
+            stats_diff[feature] = 0.0
+
     # Reshape for prediction
-    feature_vector = stats_diff.values.reshape(1, -1)
+    feature_vector = stats_diff.to_frame().T  # Convert Series to DataFrame
+
+    # Apply the same scaling as training
+    feature_vector[numerical_cols] = scaler.transform(feature_vector[numerical_cols])
 
     # Predict probability
     prob = model.predict_proba(feature_vector)[0][1]
@@ -194,5 +309,10 @@ def predict_match_outcome(player1_name, player2_name, best_of_format):
     return prob
 
 # Example usage:
-# Replace 'PlayerA' and 'PlayerB' with actual player names from your data
-# predict_match_outcome('PlayerA', 'PlayerB', 'Best of 5')
+# Replace 'GetCrabby' and 'WizP' with actual player names from your data
+# predict_match_outcome('GetCrabby', 'WizP', 'Best of 5', model)
+
+# Make sure the function is accessible when imported
+if __name__ == '__main__':
+    # Example of using the function directly from this script
+    predict_match_outcome('GetCrabby', 'WizP', 'Best of 5')
