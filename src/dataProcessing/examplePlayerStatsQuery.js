@@ -1,8 +1,8 @@
 // src/dataProcessing/exampleQueryPlayerStats.js
-const queryPlayerStats = require('./queryPlayerStats');
+const queryPlayerStats = require('./queryPlayerStats.js');
 
 function examplePlayerStatsQuery() {
-  const playerName = 'GetCrabby'; // Replace with actual player name
+  const playerName = 'DayNeptune930'; // Replace with actual player name
 
   const options = {
     filters: [
@@ -26,11 +26,16 @@ function examplePlayerStatsQuery() {
   console.log(`Losses: ${stats.losses}`);
   console.log(`Win Rate: ${stats.winRate.toFixed(2)}%`);
   console.log(`Straight Game Wins: ${stats.straightGameWins}`);
+  console.log(`Straight Game Win Rate: ${stats.straightGameWinRate.toFixed(2)}%`);
   console.log(`Deciding Game Wins: ${stats.decidingGameWins}`);
+  console.log(`Deciding Game Win Rate: ${stats.decidingGameWinRate.toFixed(2)}%`);
+  console.log(`Game Win Rate: ${stats.gameWinRate.toFixed(2)}%`);
+  
+  
   // Add more statistics as needed
 
   // Optionally, list the filtered matches
-  
+
   /*
   console.log('\nFiltered Matches:');
   stats.matches.forEach((match, index) => {
