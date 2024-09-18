@@ -9,5 +9,5 @@ model = joblib.load(model_filename)
 # Example usage of predict_match_outcome function in examplePredict.py
 if __name__ == '__main__':
     # Call the prediction function, passing the trained model as an argument
-    probability = predict_match_outcome('James Jr', 'Omegam', 'Best of 3', model)
+    probability = predict_match_outcome('Owl', 'DayNeptune930', 'Best of 3', model)
     print(f"Predicted probability: {probability:.2f}")
