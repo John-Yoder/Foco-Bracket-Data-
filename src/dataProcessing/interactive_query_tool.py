@@ -312,8 +312,8 @@ def main():
         player_names = player_df.index.tolist()
         
         # Text input fields for player names
-        player1_input = st.text_input("Enter Player 1 Name")
-        player2_input = st.text_input("Enter Player 2 Name")
+        player1_input = st.selectbox("Enter Player 1 Name", options=player_names, key="player1_input")
+        player2_input = st.selectbox("Enter Player 2 Name", options=player_names, key="player2_input")
         
         # Input field for match format
         match_formats = ["Best of 3", "Best of 5"]
@@ -333,8 +333,10 @@ def main():
                 st.error("Please enter two different players for the prediction.")
             else:
                 if model is not None:
-                    probability = predict_match_outcome(player1, player2, selected_match_format, model)
-                    st.success(f"**Predicted probability of {player1} winning: {probability * 100:.2f}%**")
+                    probability1 = predict_match_outcome(player1, player2, selected_match_format, model)
+                    probability2 = (1 - predict_match_outcome(player2, player1, selected_match_format, model))
+                    realProbability = (probability1 + probability2) / 2
+                    st.success(f"**Predicted probability of {player1} winning: {realProbability * 100:.2f}%**")
                 else:
                     st.error("Prediction model not available.")
 
