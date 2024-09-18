@@ -225,7 +225,7 @@ def main():
     st.sidebar.title("Menu")
     option = st.sidebar.selectbox(
         "Choose an action",
-        ("Sort Players by Statistic", "Most Played Matchups", "AI Match Outcome Prediction")
+        ("AI Match Outcome Prediction", "Sort Players by Statistic", "Most Played Matchups")
     )
     
     # Sidebar Filters
@@ -284,25 +284,7 @@ def main():
     """)
     
     # Main content based on selected option
-    if option == "Sort Players by Statistic":
-        st.header("🔍 Sort Players by Statistic")
-        stat_options = player_df.columns.tolist()
-        selected_stat = st.selectbox("Select Statistic", stat_options)
-        sort_order = st.radio("Sort Order", ("Descending", "Ascending"))
-        top_n = st.number_input("Number of Players to Display", min_value=1, max_value=len(filtered_df), value=10)
-        ascending = True if sort_order == "Ascending" else False
-        if st.button("Sort"):
-            sort_players_by_stat(filtered_df, selected_stat, ascending, top_n)
-    
-    elif option == "Most Played Matchups":
-        st.header("📊 Most Played Matchups and Win Rates")
-        top_n = st.number_input(
-            "Number of Top Matchups to Display", min_value=1, max_value=100, value=10, key="matchups_top_n"
-        )
-        if st.button("Show Matchups"):
-            get_most_played_matchups(matches_df, name_mappings, top_n)
-    
-    elif option == "AI Match Outcome Prediction":
+    if option == "AI Match Outcome Prediction":
         st.header("🤖 AI Match Outcome Prediction")
         st.markdown("""
         Enter the names of the two players you want to predict the outcome for, along with the match format. Expiremental, and innacurate due to small sample size and inconsistent player attendance.
@@ -340,5 +322,23 @@ def main():
                 else:
                     st.error("Prediction model not available.")
 
+    elif option == "Sort Players by Statistic":
+            st.header("🔍 Sort Players by Statistic")
+            stat_options = player_df.columns.tolist()
+            selected_stat = st.selectbox("Select Statistic", stat_options)
+            sort_order = st.radio("Sort Order", ("Descending", "Ascending"))
+            top_n = st.number_input("Number of Players to Display", min_value=1, max_value=len(filtered_df), value=10)
+            ascending = True if sort_order == "Ascending" else False
+            if st.button("Sort"):
+                sort_players_by_stat(filtered_df, selected_stat, ascending, top_n)
+
+    elif option == "Most Played Matchups":
+        st.header("📊 Most Played Matchups and Win Rates")
+        top_n = st.number_input(
+            "Number of Top Matchups to Display", min_value=1, max_value=100, value=10, key="matchups_top_n"
+        )
+        if st.button("Show Matchups"):
+            get_most_played_matchups(matches_df, name_mappings, top_n)
+    
 if __name__ == '__main__':
     main()
