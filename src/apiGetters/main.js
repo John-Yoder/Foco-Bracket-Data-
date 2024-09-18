@@ -9,7 +9,7 @@ const sleep = require('../sleep');
 (async () => {
   const tournaments = [];
 
-    for (let i = 201; i <= 350; i++) {
+    for (let i = 190; i <= 350; i++) {
       tournaments.push({ tournamentName: `foco-weekly-wednesday-${i}`, eventName: 'melee-singles' });
     }
   const dataFilePath = path.join(__dirname, 'data.json');

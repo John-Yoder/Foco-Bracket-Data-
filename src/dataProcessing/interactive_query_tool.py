@@ -79,8 +79,8 @@ def load_data(player_data_path, name_mappings_path, matches_path):
     player_df = player_df.fillna(0)
     
     # Calculate clutch factor and straight vs normal win rate differences
-    player_df['clutchFactor'] = (player_df['winRateDecidingGames'] - player_df['overallWinRate']) / player_df['overallWinRate'] * np.log(player_df['overallWinRate'] + 1)
-    player_df['straightVsOverall'] = (player_df['winRateStraightMatches'] - player_df['overallWinRate']) / player_df['overallWinRate'] * np.log(player_df['overallWinRate'] + 1)
+    player_df['clutchFactor'] = (player_df['winRateDecidingGames'] - player_df['overallWinRate']) / player_df['overallWinRate'] * np.log((player_df['overallWinRate'])/100) * 100
+    player_df['straightVsOverall'] = player_df['winRateStraightMatches'] / player_df['overallWinRate']
     
     # Load match data
     with open(matches_path, 'r') as f:

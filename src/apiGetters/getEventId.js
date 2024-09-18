@@ -1,7 +1,7 @@
 // getEventId.js
-require('dotenv').config();
+require('dotenv').config({ path: '../../.env' });
 const startggURL = 'https://api.start.gg/gql/alpha';
-const startggKey = '709731062d65fab7d19ae2f024121883'; // Replace with your actual API key
+const startggKey = process.env.STARTGG_KEY; // Replace with your actual API key
 
 async function getEventId(tournamentName, eventName) {
   const { default: fetch } = await import('node-fetch');
@@ -49,3 +49,5 @@ async function getEventId(tournamentName, eventName) {
 }
 
 module.exports = getEventId;
+
+getEventId('foco-weekly-wednesday-201', 'melee-singles');
