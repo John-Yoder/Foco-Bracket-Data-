@@ -206,9 +206,9 @@ def main():
     """)
     
     # Load data
-    player_data_path = '../data/playerDataPoints.json'
-    name_mappings_path = 'nameMappings.json'
-    matches_path = '../data/matches.json'
+    player_data_path = 'src/data/playerDataPoints.json'
+    name_mappings_path = 'src/dataProcessing/nameMappings.json'
+    matches_path = 'src/data/matches.json'
     
     player_df, matches_df, name_mappings = load_data(player_data_path, name_mappings_path, matches_path)
     
