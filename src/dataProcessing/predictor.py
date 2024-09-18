@@ -19,7 +19,7 @@ def normalize_player_name(name):
     return name.strip()
 
 # Load player data
-player_data_path = Path('../data/playerDataPoints.json')  # Adjusted path
+player_data_path = Path('src/data/playerDataPoints.json')  # Adjusted path
 if not player_data_path.exists():
     print(f"Error: {player_data_path} does not exist.")
     exit(1)
@@ -53,12 +53,12 @@ scaler = StandardScaler()
 player_df[numerical_cols] = scaler.fit_transform(player_df[numerical_cols])
 
 # Save the scaler for future use
-scaler_filename = 'scaler.pkl'
+scaler_filename = 'src/dataProcessing/scaler.pkl'
 joblib.dump(scaler, scaler_filename)
 print(f"Scaler saved to {scaler_filename}")
 
 # Load matches data
-matches_data_path = Path('../data/matches.json')  # Adjusted path
+matches_data_path = Path('src/data/matches.json')  # Adjusted path
 if not matches_data_path.exists():
     print(f"Error: {matches_data_path} does not exist.")
     exit(1)
@@ -238,7 +238,7 @@ print("Classification Report:")
 print(classification_report(y_test, y_pred))
 
 # Save the model
-model_filename = 'trained_logistic_regression_model.pkl'
+model_filename = 'src/dataProcessing/trained_logistic_regression_model.pkl'
 joblib.dump(model, model_filename)
 print(f"Model saved to {model_filename}")
 
@@ -315,4 +315,4 @@ def predict_match_outcome(player1_name, player2_name, best_of_format, model):
 # Make sure the function is accessible when imported
 if __name__ == '__main__':
     # Example of using the function directly from this script
-    predict_match_outcome('GetCrabby', 'WizP', 'Best of 5')
+    predict_match_outcome('GetCrabby', 'WizP', 'Best of 5', model)

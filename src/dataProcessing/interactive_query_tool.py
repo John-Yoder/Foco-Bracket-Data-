@@ -4,6 +4,8 @@ import streamlit as st
 from tabulate import tabulate
 import plotly.express as px
 import numpy as np
+import joblib
+from predictor import predict_match_outcome
 
 # ---------------------------
 # Custom CSS to Adjust Table Spacing
@@ -54,13 +56,14 @@ def load_data(player_data_path, name_mappings_path, matches_path):
     for original_name, stats in player_data.items():
         normalized_name = name_mappings.get(original_name, original_name)
         if normalized_name in normalized_player_data:
-            # Optionally, merge stats if necessary
-            # Example: Sum totalMatchesPlayed, totalWins, etc.
+            # Merge stats if necessary
             normalized_player_data[normalized_name]['totalMatchesPlayed'] += stats.get('totalMatchesPlayed', 0)
             normalized_player_data[normalized_name]['totalWins'] += stats.get('totalWins', 0)
             normalized_player_data[normalized_name]['totalLosses'] += stats.get('totalLosses', 0)
             # Recalculate dependent stats if needed
-            normalized_player_data[normalized_name]['overallWinRate'] = (normalized_player_data[normalized_name]['totalWins'] / normalized_player_data[normalized_name]['totalMatchesPlayed']) * 100 if normalized_player_data[normalized_name]['totalMatchesPlayed'] > 0 else 0
+            normalized_player_data[normalized_name]['overallWinRate'] = (
+                normalized_player_data[normalized_name]['totalWins'] / normalized_player_data[normalized_name]['totalMatchesPlayed']
+            ) * 100 if normalized_player_data[normalized_name]['totalMatchesPlayed'] > 0 else 0
             # Repeat for other stats as necessary
             continue
         normalized_player_data[normalized_name] = stats
@@ -79,7 +82,9 @@ def load_data(player_data_path, name_mappings_path, matches_path):
     player_df = player_df.fillna(0)
     
     # Calculate clutch factor and straight vs normal win rate differences
-    player_df['clutchFactor'] = (player_df['winRateDecidingGames'] - player_df['overallWinRate']) / player_df['overallWinRate'] * np.log((player_df['overallWinRate'])/100) * 100
+    player_df['clutchFactor'] = (
+        (player_df['winRateDecidingGames'] - player_df['overallWinRate']) / player_df['overallWinRate']
+    ) * np.log((player_df['overallWinRate']) / 100) * 100
     player_df['straightVsOverall'] = player_df['winRateStraightMatches'] / player_df['overallWinRate']
     
     # Load match data
@@ -142,8 +147,8 @@ def get_most_played_matchups(matches_df, name_mappings, top_n=10):
             'Player 1': p1,
             'Player 2': p2,
             'Total Matches': total_matches,
-            f'Win Rate {p1} (%)': f"{win_rate_p1:.2f}",
-            f'Win Rate {p2} (%)': f"{win_rate_p2:.2f}"
+            'Win Rate Player 1 (%)': f"{win_rate_p1:.2f}",
+            'Win Rate Player 2 (%)': f"{win_rate_p2:.2f}"
         })
     
     matchup_df = pd.DataFrame(matchup_stats)
@@ -154,29 +159,23 @@ def get_most_played_matchups(matches_df, name_mappings, top_n=10):
         # Prepare data for plotting
         plot_data = []
         for _, row in matchup_df.iterrows():
-            plot_data.append({'Matchup': f"{row['Player 1']} vs {row['Player 2']}", 'Player': row['Player 1'], 'Win Rate (%)': float(row[f'Win Rate {row["Player 1"]} (%)'])})
-            plot_data.append({'Matchup': f"{row['Player 1']} vs {row['Player 2']}", 'Player': row['Player 2'], 'Win Rate (%)': float(row[f'Win Rate {row["Player 2"]} (%)'])})
+            plot_data.append({
+                'Matchup': f"{row['Player 1']} vs {row['Player 2']}",
+                'Player': row['Player 1'],
+                'Win Rate (%)': float(row['Win Rate Player 1 (%)'])
+            })
+            plot_data.append({
+                'Matchup': f"{row['Player 1']} vs {row['Player 2']}",
+                'Player': row['Player 2'],
+                'Win Rate (%)': float(row['Win Rate Player 2 (%)'])
+            })
         
         plot_df = pd.DataFrame(plot_data)
-        fig = px.bar(plot_df, x='Matchup', y='Win Rate (%)', color='Player', barmode='group',
-                     title="Win Rates in Most Played Matchups")
+        fig = px.bar(
+            plot_df, x='Matchup', y='Win Rate (%)', color='Player', barmode='group',
+            title="Win Rates in Most Played Matchups"
+        )
         st.plotly_chart(fig)
-
-def sort_players_by_clutch_factor(player_df, ascending=False, top_n=10):
-    if 'clutchFactor' not in player_df.columns:
-        st.error("Clutch factor not calculated.")
-        return
-    sorted_df = player_df.sort_values(by='clutchFactor', ascending=ascending).head(top_n)
-    
-    # Reorder columns: move 'clutchFactor' to the first column
-    columns = ['clutchFactor'] + [col for col in sorted_df.columns if col != 'clutchFactor']
-    sorted_df = sorted_df[columns]
-    
-    st.dataframe(sorted_df[['clutchFactor']])
-    
-    # Add a bar chart
-    fig = px.bar(sorted_df, x=sorted_df.index, y='clutchFactor', title=f"Top {top_n} Players by Clutch Factor")
-    st.plotly_chart(fig)
 
 def compare_straight_vs_normal_win_rate(player_df, ascending=False, top_n=10):
     if 'straightVsOverall' not in player_df.columns:
@@ -191,8 +190,10 @@ def compare_straight_vs_normal_win_rate(player_df, ascending=False, top_n=10):
     st.dataframe(sorted_df[['straightVsOverall']])
     
     # Add a bar chart
-    fig = px.bar(sorted_df, x=sorted_df.index, y='straightVsOverall', 
-                 title=f"Top {top_n} Players by Straight vs Normal Win Rate Difference")
+    fig = px.bar(
+        sorted_df, x=sorted_df.index, y='straightVsOverall', 
+        title=f"Top {top_n} Players by Straight vs Normal Win Rate Difference"
+    )
     st.plotly_chart(fig)
 
 # ---------------------------
@@ -200,9 +201,9 @@ def compare_straight_vs_normal_win_rate(player_df, ascending=False, top_n=10):
 # ---------------------------
 
 def main():
-    st.title("🏆 Player Stats Interactive Query Tool")
+    st.title("🏆 Foco Melee Player Stats Interactive Query Tool")
     st.markdown("""
-    This tool allows you to explore and analyze player statistics, including sorting by various metrics, applying filters, analyzing matchups, and identifying clutch performers.
+    This tool allows you to explore and analyze player statistics, including sorting by various metrics, applying filters, analyzing matchups, and predicting match outcomes.
     """)
     
     # Load data
@@ -212,11 +213,19 @@ def main():
     
     player_df, matches_df, name_mappings = load_data(player_data_path, name_mappings_path, matches_path)
     
+    # Load the trained model
+    try:
+        model_filename = 'src/dataProcessing/trained_logistic_regression_model.pkl'
+        model = joblib.load(model_filename)
+    except FileNotFoundError:
+        st.error("Trained model file not found. Please ensure 'trained_logistic_regression_model.pkl' is in the correct directory.")
+        model = None
+    
     # Sidebar
     st.sidebar.title("Menu")
     option = st.sidebar.selectbox(
         "Choose an action",
-        ("Sort Players by Statistic", "Most Played Matchups", "Sort Players by Clutch Factor", "Compare Straight vs Normal Win Rate")
+        ("Sort Players by Statistic", "Most Played Matchups", "AI Match Outcome Prediction")
     )
     
     # Sidebar Filters
@@ -240,18 +249,22 @@ def main():
     
     # For each selected filter, get min and/or max values
     for stat in selected_filters:
-        min_val = st.sidebar.number_input(f"Minimum {stat}", 
-                                         value=float(player_df[stat].min()), 
-                                         min_value=float(player_df[stat].min()), 
-                                         max_value=float(player_df[stat].max()), 
-                                         step=1.0,
-                                         key=f"min_{stat}")
-        max_val = st.sidebar.number_input(f"Maximum {stat}", 
-                                         value=float(player_df[stat].max()), 
-                                         min_value=float(player_df[stat].min()), 
-                                         max_value=float(player_df[stat].max()), 
-                                         step=1.0,
-                                         key=f"max_{stat}")
+        min_val = st.sidebar.number_input(
+            f"Minimum {stat}", 
+            value=float(player_df[stat].min()), 
+            min_value=float(player_df[stat].min()), 
+            max_value=float(player_df[stat].max()), 
+            step=1.0,
+            key=f"min_{stat}"
+        )
+        max_val = st.sidebar.number_input(
+            f"Maximum {stat}", 
+            value=float(player_df[stat].max()), 
+            min_value=float(player_df[stat].min()), 
+            max_value=float(player_df[stat].max()), 
+            step=1.0,
+            key=f"max_{stat}"
+        )
         filter_criteria[stat] = (min_val, max_val)
     
     # Apply filters
@@ -259,15 +272,15 @@ def main():
     for stat, (min_val, max_val) in filter_criteria.items():
         filtered_df = filtered_df[(filtered_df[stat] >= min_val) & (filtered_df[stat] <= max_val)]
     
+    # Sidebar About Section (Moved below Filters)
     st.sidebar.markdown("---")
     st.sidebar.markdown("### 📄 About")
     st.sidebar.markdown("""
-    **Player Stats Interactive Query Tool** allows you to explore and analyze player statistics effortlessly. 
+    **Foco Melee Player Stats Interactive Query Tool** allows you to explore and analyze player statistics effortlessly. 
     - **Sort Players**: Organize players based on any statistic.
     - **Matchups**: Discover the most frequently played matchups and their respective win rates.
-    - **Clutch Factor**: Identify players who perform better in deciding games compared to their overall performance.
-    - **Win Rate Comparison**: Compare players' straight game win rates against their overall win rates.
     - **Filters**: Apply multiple filters to narrow down the player list based on specific criteria.
+    - **AI Predictions**: Predict the outcome of matches using our AI model.
     """)
     
     # Main content based on selected option
@@ -283,25 +296,47 @@ def main():
     
     elif option == "Most Played Matchups":
         st.header("📊 Most Played Matchups and Win Rates")
-        top_n = st.number_input("Number of Top Matchups to Display", min_value=1, max_value=100, value=10, key="matchups_top_n")
+        top_n = st.number_input(
+            "Number of Top Matchups to Display", min_value=1, max_value=100, value=10, key="matchups_top_n"
+        )
         if st.button("Show Matchups"):
             get_most_played_matchups(matches_df, name_mappings, top_n)
     
-    elif option == "Sort Players by Clutch Factor":
-        st.header("💪 Sort Players by Clutch Factor")
-        sort_order = st.radio("Sort Order", ("Descending", "Ascending"), key="clutch_sort_order")
-        top_n = st.number_input("Number of Players to Display", min_value=1, max_value=len(filtered_df), value=10, key="clutch_top_n")
-        ascending = True if sort_order == "Ascending" else False
-        if st.button("Sort by Clutch Factor"):
-            sort_players_by_clutch_factor(filtered_df, ascending, top_n)
-    
-    elif option == "Compare Straight vs Normal Win Rate":
-        st.header("📈 Compare Straight Game Win Rate to Normal Win Rate")
-        sort_order = st.radio("Sort Order", ("Descending", "Ascending"), key="compare_sort_order")
-        top_n = st.number_input("Number of Players to Display", min_value=1, max_value=len(filtered_df), value=10, key="compare_top_n")
-        ascending = True if sort_order == "Ascending" else False
-        if st.button("Compare Win Rates"):
-            compare_straight_vs_normal_win_rate(filtered_df, ascending, top_n)
+    elif option == "AI Match Outcome Prediction":
+        st.header("🤖 AI Match Outcome Prediction")
+        st.markdown("""
+        Enter the names of the two players you want to predict the outcome for, along with the match format. Expiremental, and innacurate due to small sample size and inconsistent player attendance.
+        """)
+        
+        # Get the list of player names for validation
+        player_names = player_df.index.tolist()
+        
+        # Text input fields for player names
+        player1_input = st.text_input("Enter Player 1 Name")
+        player2_input = st.text_input("Enter Player 2 Name")
+        
+        # Input field for match format
+        match_formats = ["Best of 3", "Best of 5"]
+        selected_match_format = st.selectbox("Select Match Format", options=match_formats, key="match_format_ai")
+        
+        # Button to trigger prediction
+        if st.button("Predict Outcome"):
+            player1 = player1_input.strip()
+            player2 = player2_input.strip()
+            
+            # Validate player names
+            if player1 not in player_names:
+                st.error(f"Player 1 '{player1}' not found in the dataset.")
+            elif player2 not in player_names:
+                st.error(f"Player 2 '{player2}' not found in the dataset.")
+            elif player1 == player2:
+                st.error("Please enter two different players for the prediction.")
+            else:
+                if model is not None:
+                    probability = predict_match_outcome(player1, player2, selected_match_format, model)
+                    st.success(f"**Predicted probability of {player1} winning: {probability * 100:.2f}%**")
+                else:
+                    st.error("Prediction model not available.")
 
 if __name__ == '__main__':
     main()

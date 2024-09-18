@@ -1,5 +1,5 @@
 # Import necessary functions and libraries from predictor.py
-from predictor import predict_match_outcome
+from dataProcessing.predictor import predict_match_outcome
 import joblib
 
 # Load the trained model
