@@ -229619,5 +229619,6386 @@
         }
       }
     ]
+  },
+  "foco-weekly-wednesday-351_melee-singles": {
+    "tournamentName": "foco-weekly-wednesday-351",
+    "eventName": "Melee Singles",
+    "eventId": 1218616,
+    "startAt": 1726704000,
+    "sets": [
+      {
+        "id": 79886077,
+        "slots": [
+          {
+            "id": "79886077-0",
+            "entrant": {
+              "id": 17853723,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "79886077-1",
+            "entrant": {
+              "id": 17853444,
+              "name": "James Jr"
+            }
+          }
+        ],
+        "completedAt": 1726715644,
+        "setScore": {
+          "id": 79886077,
+          "slots": [
+            {
+              "id": "79886077-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31424001_sets_79886077",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886077-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31423643_sets_79886077",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886076,
+        "slots": [
+          {
+            "id": "79886076-0",
+            "entrant": {
+              "id": 17850580,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "79886076-1",
+            "entrant": {
+              "id": 17853723,
+              "name": "Cheunk"
+            }
+          }
+        ],
+        "completedAt": 1726712635,
+        "setScore": {
+          "id": 79886076,
+          "slots": [
+            {
+              "id": "79886076-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31420125_sets_79886076",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886076-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31424001_sets_79886076",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886108,
+        "slots": [
+          {
+            "id": "79886108-0",
+            "entrant": {
+              "id": 17850580,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "79886108-1",
+            "entrant": {
+              "id": 17853444,
+              "name": "James Jr"
+            }
+          }
+        ],
+        "completedAt": 1726715621,
+        "setScore": {
+          "id": 79886108,
+          "slots": [
+            {
+              "id": "79886108-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31420125_sets_79886108",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886108-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31423643_sets_79886108",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886107,
+        "slots": [
+          {
+            "id": "79886107-0",
+            "entrant": {
+              "id": 17853444,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "79886107-1",
+            "entrant": {
+              "id": 17855133,
+              "name": "WizP"
+            }
+          }
+        ],
+        "completedAt": 1726713501,
+        "setScore": {
+          "id": 79886107,
+          "slots": [
+            {
+              "id": "79886107-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31423643_sets_79886107",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886107-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31427268_sets_79886107",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886074,
+        "slots": [
+          {
+            "id": "79886074-0",
+            "entrant": {
+              "id": 17853444,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "79886074-1",
+            "entrant": {
+              "id": 17850580,
+              "name": "Omegam"
+            }
+          }
+        ],
+        "completedAt": 1726711452,
+        "setScore": {
+          "id": 79886074,
+          "slots": [
+            {
+              "id": "79886074-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31423643_sets_79886074",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886074-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31420125_sets_79886074",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886075,
+        "slots": [
+          {
+            "id": "79886075-0",
+            "entrant": {
+              "id": 17853723,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "79886075-1",
+            "entrant": {
+              "id": 17855133,
+              "name": "WizP"
+            }
+          }
+        ],
+        "completedAt": 1726711100,
+        "setScore": {
+          "id": 79886075,
+          "slots": [
+            {
+              "id": "79886075-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31424001_sets_79886075",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886075-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31427268_sets_79886075",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886105,
+        "slots": [
+          {
+            "id": "79886105-0",
+            "entrant": {
+              "id": 17853444,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "79886105-1",
+            "entrant": {
+              "id": 17854451,
+              "name": "Kicks"
+            }
+          }
+        ],
+        "completedAt": 1726712688,
+        "setScore": {
+          "id": 79886105,
+          "slots": [
+            {
+              "id": "79886105-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31423643_sets_79886105",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886105-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426307_sets_79886105",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886106,
+        "slots": [
+          {
+            "id": "79886106-0",
+            "entrant": {
+              "id": 17855133,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "79886106-1",
+            "entrant": {
+              "id": 17854542,
+              "name": "Bizz"
+            }
+          }
+        ],
+        "completedAt": 1726712648,
+        "setScore": {
+          "id": 79886106,
+          "slots": [
+            {
+              "id": "79886106-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31427268_sets_79886106",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886106-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426400_sets_79886106",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886103,
+        "slots": [
+          {
+            "id": "79886103-0",
+            "entrant": {
+              "id": 17854451,
+              "name": "Kicks"
+            }
+          },
+          {
+            "id": "79886103-1",
+            "entrant": {
+              "id": 17854675,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": 1726712671,
+        "setScore": {
+          "id": 79886103,
+          "slots": [
+            {
+              "id": "79886103-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426307_sets_79886103",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886103-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426614_sets_79886103",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886104,
+        "slots": [
+          {
+            "id": "79886104-0",
+            "entrant": {
+              "id": 17854542,
+              "name": "Bizz"
+            }
+          },
+          {
+            "id": "79886104-1",
+            "entrant": {
+              "id": 17849408,
+              "name": "Balance | Fuji"
+            }
+          }
+        ],
+        "completedAt": 1726711219,
+        "setScore": {
+          "id": 79886104,
+          "slots": [
+            {
+              "id": "79886104-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426400_sets_79886104",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886104-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31418501_sets_79886104",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886070,
+        "slots": [
+          {
+            "id": "79886070-0",
+            "entrant": {
+              "id": 17853444,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "79886070-1",
+            "entrant": {
+              "id": 17849408,
+              "name": "Balance | Fuji"
+            }
+          }
+        ],
+        "completedAt": 1726709060,
+        "setScore": {
+          "id": 79886070,
+          "slots": [
+            {
+              "id": "79886070-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31423643_sets_79886070",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886070-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31418501_sets_79886070",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886071,
+        "slots": [
+          {
+            "id": "79886071-0",
+            "entrant": {
+              "id": 17850580,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "79886071-1",
+            "entrant": {
+              "id": 17854542,
+              "name": "Bizz"
+            }
+          }
+        ],
+        "completedAt": 1726709612,
+        "setScore": {
+          "id": 79886071,
+          "slots": [
+            {
+              "id": "79886071-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31420125_sets_79886071",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886071-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426400_sets_79886071",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886072,
+        "slots": [
+          {
+            "id": "79886072-0",
+            "entrant": {
+              "id": 17853723,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "79886072-1",
+            "entrant": {
+              "id": 17854675,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": 1726710183,
+        "setScore": {
+          "id": 79886072,
+          "slots": [
+            {
+              "id": "79886072-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31424001_sets_79886072",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886072-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426614_sets_79886072",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886073,
+        "slots": [
+          {
+            "id": "79886073-0",
+            "entrant": {
+              "id": 17855133,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "79886073-1",
+            "entrant": {
+              "id": 17854451,
+              "name": "Kicks"
+            }
+          }
+        ],
+        "completedAt": 1726710047,
+        "setScore": {
+          "id": 79886073,
+          "slots": [
+            {
+              "id": "79886073-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31427268_sets_79886073",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886073-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426307_sets_79886073",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886099,
+        "slots": [
+          {
+            "id": "79886099-0",
+            "entrant": {
+              "id": 17854451,
+              "name": "Kicks"
+            }
+          },
+          {
+            "id": "79886099-1",
+            "entrant": {
+              "id": 17854032,
+              "name": "Biz"
+            }
+          }
+        ],
+        "completedAt": 1726710573,
+        "setScore": {
+          "id": 79886099,
+          "slots": [
+            {
+              "id": "79886099-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426307_sets_79886099",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886099-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31425649_sets_79886099",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886100,
+        "slots": [
+          {
+            "id": "79886100-0",
+            "entrant": {
+              "id": 17854675,
+              "name": "DayNeptune930"
+            }
+          },
+          {
+            "id": "79886100-1",
+            "entrant": {
+              "id": 17846709,
+              "name": "Sarahtonin"
+            }
+          }
+        ],
+        "completedAt": 1726710619,
+        "setScore": {
+          "id": 79886100,
+          "slots": [
+            {
+              "id": "79886100-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426614_sets_79886100",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886100-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31413976_sets_79886100",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886101,
+        "slots": [
+          {
+            "id": "79886101-0",
+            "entrant": {
+              "id": 17854542,
+              "name": "Bizz"
+            }
+          },
+          {
+            "id": "79886101-1",
+            "entrant": {
+              "id": 17852935,
+              "name": "TsunamiGod77"
+            }
+          }
+        ],
+        "completedAt": 1726710577,
+        "setScore": {
+          "id": 79886101,
+          "slots": [
+            {
+              "id": "79886101-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426400_sets_79886101",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886101-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31423016_sets_79886101",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886102,
+        "slots": [
+          {
+            "id": "79886102-0",
+            "entrant": {
+              "id": 17849408,
+              "name": "Balance | Fuji"
+            }
+          },
+          {
+            "id": "79886102-1",
+            "entrant": {
+              "id": 17851422,
+              "name": "Rinzler"
+            }
+          }
+        ],
+        "completedAt": 1726710590,
+        "setScore": {
+          "id": 79886102,
+          "slots": [
+            {
+              "id": "79886102-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31418501_sets_79886102",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886102-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31421214_sets_79886102",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886096,
+        "slots": [
+          {
+            "id": "79886096-0",
+            "entrant": {
+              "id": 17850415,
+              "name": "SodaCup"
+            }
+          },
+          {
+            "id": "79886096-1",
+            "entrant": {
+              "id": 17846709,
+              "name": "Sarahtonin"
+            }
+          }
+        ],
+        "completedAt": 1726709747,
+        "setScore": {
+          "id": 79886096,
+          "slots": [
+            {
+              "id": "79886096-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31419909_sets_79886096",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886096-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31413976_sets_79886096",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886098,
+        "slots": [
+          {
+            "id": "79886098-0",
+            "entrant": {
+              "id": 17854800,
+              "name": "Squidner"
+            }
+          },
+          {
+            "id": "79886098-1",
+            "entrant": {
+              "id": 17851422,
+              "name": "Rinzler"
+            }
+          }
+        ],
+        "completedAt": 1726710115,
+        "setScore": {
+          "id": 79886098,
+          "slots": [
+            {
+              "id": "79886098-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426914_sets_79886098",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886098-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31421214_sets_79886098",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886063,
+        "slots": [
+          {
+            "id": "79886063-0",
+            "entrant": {
+              "id": 17849408,
+              "name": "Balance | Fuji"
+            }
+          },
+          {
+            "id": "79886063-1",
+            "entrant": {
+              "id": 17854032,
+              "name": "Biz"
+            }
+          }
+        ],
+        "completedAt": 1726708608,
+        "setScore": {
+          "id": 79886063,
+          "slots": [
+            {
+              "id": "79886063-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31418501_sets_79886063",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886063-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31425649_sets_79886063",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886064,
+        "slots": [
+          {
+            "id": "79886064-0",
+            "entrant": {
+              "id": 17850580,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "79886064-1",
+            "entrant": {
+              "id": 17850415,
+              "name": "SodaCup"
+            }
+          }
+        ],
+        "completedAt": 1726708507,
+        "setScore": {
+          "id": 79886064,
+          "slots": [
+            {
+              "id": "79886064-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31420125_sets_79886064",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886064-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31419909_sets_79886064",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886065,
+        "slots": [
+          {
+            "id": "79886065-0",
+            "entrant": {
+              "id": 17854542,
+              "name": "Bizz"
+            }
+          },
+          {
+            "id": "79886065-1",
+            "entrant": {
+              "id": 17846709,
+              "name": "Sarahtonin"
+            }
+          }
+        ],
+        "completedAt": 1726708895,
+        "setScore": {
+          "id": 79886065,
+          "slots": [
+            {
+              "id": "79886065-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426400_sets_79886065",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886065-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31413976_sets_79886065",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886067,
+        "slots": [
+          {
+            "id": "79886067-0",
+            "entrant": {
+              "id": 17854675,
+              "name": "DayNeptune930"
+            }
+          },
+          {
+            "id": "79886067-1",
+            "entrant": {
+              "id": 17852935,
+              "name": "TsunamiGod77"
+            }
+          }
+        ],
+        "completedAt": 1726709537,
+        "setScore": {
+          "id": 79886067,
+          "slots": [
+            {
+              "id": "79886067-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426614_sets_79886067",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886067-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31423016_sets_79886067",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886068,
+        "slots": [
+          {
+            "id": "79886068-0",
+            "entrant": {
+              "id": 17855133,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "79886068-1",
+            "entrant": {
+              "id": 17854800,
+              "name": "Squidner"
+            }
+          }
+        ],
+        "completedAt": 1726709620,
+        "setScore": {
+          "id": 79886068,
+          "slots": [
+            {
+              "id": "79886068-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31427268_sets_79886068",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886068-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426914_sets_79886068",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 79886069,
+        "slots": [
+          {
+            "id": "79886069-0",
+            "entrant": {
+              "id": 17854451,
+              "name": "Kicks"
+            }
+          },
+          {
+            "id": "79886069-1",
+            "entrant": {
+              "id": 17851422,
+              "name": "Rinzler"
+            }
+          }
+        ],
+        "completedAt": 1726709163,
+        "setScore": {
+          "id": 79886069,
+          "slots": [
+            {
+              "id": "79886069-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31426307_sets_79886069",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "79886069-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31421214_sets_79886069",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "foco-weekly-wednesday-352_melee-singles": {
+    "tournamentName": "foco-weekly-wednesday-352",
+    "eventName": "Melee Singles",
+    "eventId": 1223570,
+    "startAt": 1727308800,
+    "sets": [
+      {
+        "id": 80192328,
+        "slots": [
+          {
+            "id": "80192328-0",
+            "entrant": {
+              "id": 17923729,
+              "name": "Owl"
+            }
+          },
+          {
+            "id": "80192328-1",
+            "entrant": {
+              "id": 17925310,
+              "name": "James Jr"
+            }
+          }
+        ],
+        "completedAt": 1727322283,
+        "setScore": {
+          "id": 80192328,
+          "slots": [
+            {
+              "id": "80192328-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31529843_sets_80192328",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192328-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531673_sets_80192328",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192327,
+        "slots": [
+          {
+            "id": "80192327-0",
+            "entrant": {
+              "id": 17923729,
+              "name": "Owl"
+            }
+          },
+          {
+            "id": "80192327-1",
+            "entrant": {
+              "id": 17925310,
+              "name": "James Jr"
+            }
+          }
+        ],
+        "completedAt": 1727322237,
+        "setScore": {
+          "id": 80192327,
+          "slots": [
+            {
+              "id": "80192327-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31529843_sets_80192327",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192327-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531673_sets_80192327",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192359,
+        "slots": [
+          {
+            "id": "80192359-0",
+            "entrant": {
+              "id": 17925310,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "80192359-1",
+            "entrant": {
+              "id": 17925148,
+              "name": "Cheunk"
+            }
+          }
+        ],
+        "completedAt": 1727322247,
+        "setScore": {
+          "id": 80192359,
+          "slots": [
+            {
+              "id": "80192359-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531673_sets_80192359",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192359-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531479_sets_80192359",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192358,
+        "slots": [
+          {
+            "id": "80192358-0",
+            "entrant": {
+              "id": 17921104,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "80192358-1",
+            "entrant": {
+              "id": 17925148,
+              "name": "Cheunk"
+            }
+          }
+        ],
+        "completedAt": 1727320359,
+        "setScore": {
+          "id": 80192358,
+          "slots": [
+            {
+              "id": "80192358-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31525120_sets_80192358",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192358-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531479_sets_80192358",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192325,
+        "slots": [
+          {
+            "id": "80192325-0",
+            "entrant": {
+              "id": 17923729,
+              "name": "Owl"
+            }
+          },
+          {
+            "id": "80192325-1",
+            "entrant": {
+              "id": 17921104,
+              "name": "Omegam"
+            }
+          }
+        ],
+        "completedAt": 1727317923,
+        "setScore": {
+          "id": 80192325,
+          "slots": [
+            {
+              "id": "80192325-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31529843_sets_80192325",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192325-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31525120_sets_80192325",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192326,
+        "slots": [
+          {
+            "id": "80192326-0",
+            "entrant": {
+              "id": 17925148,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "80192326-1",
+            "entrant": {
+              "id": 17925310,
+              "name": "James Jr"
+            }
+          }
+        ],
+        "completedAt": 1727316801,
+        "setScore": {
+          "id": 80192326,
+          "slots": [
+            {
+              "id": "80192326-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531479_sets_80192326",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192326-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531673_sets_80192326",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192356,
+        "slots": [
+          {
+            "id": "80192356-0",
+            "entrant": {
+              "id": 17921104,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "80192356-1",
+            "entrant": {
+              "id": 17920493,
+              "name": "Idaho Melee | honey!"
+            }
+          }
+        ],
+        "completedAt": 1727318912,
+        "setScore": {
+          "id": 80192356,
+          "slots": [
+            {
+              "id": "80192356-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31525120_sets_80192356",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192356-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31523672_sets_80192356",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192357,
+        "slots": [
+          {
+            "id": "80192357-0",
+            "entrant": {
+              "id": 17925148,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "80192357-1",
+            "entrant": {
+              "id": 17921181,
+              "name": "WizP"
+            }
+          }
+        ],
+        "completedAt": 1727318879,
+        "setScore": {
+          "id": 80192357,
+          "slots": [
+            {
+              "id": "80192357-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531479_sets_80192357",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192357-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31525318_sets_80192357",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192354,
+        "slots": [
+          {
+            "id": "80192354-0",
+            "entrant": {
+              "id": 17920635,
+              "name": "Haydes"
+            }
+          },
+          {
+            "id": "80192354-1",
+            "entrant": {
+              "id": 17920493,
+              "name": "Idaho Melee | honey!"
+            }
+          }
+        ],
+        "completedAt": 1727316945,
+        "setScore": {
+          "id": 80192354,
+          "slots": [
+            {
+              "id": "80192354-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31523903_sets_80192354",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192354-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31523672_sets_80192354",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192355,
+        "slots": [
+          {
+            "id": "80192355-0",
+            "entrant": {
+              "id": 17921181,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "80192355-1",
+            "entrant": {
+              "id": 17923910,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": 1727317919,
+        "setScore": {
+          "id": 80192355,
+          "slots": [
+            {
+              "id": "80192355-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31525318_sets_80192355",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192355-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31530027_sets_80192355",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192321,
+        "slots": [
+          {
+            "id": "80192321-0",
+            "entrant": {
+              "id": 17923729,
+              "name": "Owl"
+            }
+          },
+          {
+            "id": "80192321-1",
+            "entrant": {
+              "id": 17924968,
+              "name": "GLEN"
+            }
+          }
+        ],
+        "completedAt": 1727315519,
+        "setScore": {
+          "id": 80192321,
+          "slots": [
+            {
+              "id": "80192321-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31529843_sets_80192321",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192321-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531244_sets_80192321",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192322,
+        "slots": [
+          {
+            "id": "80192322-0",
+            "entrant": {
+              "id": 17921104,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "80192322-1",
+            "entrant": {
+              "id": 17921181,
+              "name": "WizP"
+            }
+          }
+        ],
+        "completedAt": 1727316077,
+        "setScore": {
+          "id": 80192322,
+          "slots": [
+            {
+              "id": "80192322-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31525120_sets_80192322",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192322-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31525318_sets_80192322",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192323,
+        "slots": [
+          {
+            "id": "80192323-0",
+            "entrant": {
+              "id": 17925148,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "80192323-1",
+            "entrant": {
+              "id": 17920493,
+              "name": "Idaho Melee | honey!"
+            }
+          }
+        ],
+        "completedAt": 1727313982,
+        "setScore": {
+          "id": 80192323,
+          "slots": [
+            {
+              "id": "80192323-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531479_sets_80192323",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192323-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31523672_sets_80192323",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192324,
+        "slots": [
+          {
+            "id": "80192324-0",
+            "entrant": {
+              "id": 17925310,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "80192324-1",
+            "entrant": {
+              "id": 17922516,
+              "name": "Rinzler"
+            }
+          }
+        ],
+        "completedAt": 1727314353,
+        "setScore": {
+          "id": 80192324,
+          "slots": [
+            {
+              "id": "80192324-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531673_sets_80192324",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192324-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31527835_sets_80192324",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192350,
+        "slots": [
+          {
+            "id": "80192350-0",
+            "entrant": {
+              "id": 17922516,
+              "name": "Rinzler"
+            }
+          },
+          {
+            "id": "80192350-1",
+            "entrant": {
+              "id": 17920635,
+              "name": "Haydes"
+            }
+          }
+        ],
+        "completedAt": 1727315325,
+        "setScore": {
+          "id": 80192350,
+          "slots": [
+            {
+              "id": "80192350-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31527835_sets_80192350",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192350-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31523903_sets_80192350",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192351,
+        "slots": [
+          {
+            "id": "80192351-0",
+            "entrant": {
+              "id": 17920493,
+              "name": "Idaho Melee | honey!"
+            }
+          },
+          {
+            "id": "80192351-1",
+            "entrant": {
+              "id": 17922281,
+              "name": "Sarahtonin"
+            }
+          }
+        ],
+        "completedAt": 1727316694,
+        "setScore": {
+          "id": 80192351,
+          "slots": [
+            {
+              "id": "80192351-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31523672_sets_80192351",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192351-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31527521_sets_80192351",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192352,
+        "slots": [
+          {
+            "id": "80192352-0",
+            "entrant": {
+              "id": 17921181,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "80192352-1",
+            "entrant": {
+              "id": 17924044,
+              "name": "Biz"
+            }
+          }
+        ],
+        "completedAt": 1727316450,
+        "setScore": {
+          "id": 80192352,
+          "slots": [
+            {
+              "id": "80192352-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31525318_sets_80192352",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192352-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31530164_sets_80192352",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192353,
+        "slots": [
+          {
+            "id": "80192353-0",
+            "entrant": {
+              "id": 17924968,
+              "name": "GLEN"
+            }
+          },
+          {
+            "id": "80192353-1",
+            "entrant": {
+              "id": 17923910,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": 1727315538,
+        "setScore": {
+          "id": 80192353,
+          "slots": [
+            {
+              "id": "80192353-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531244_sets_80192353",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": -1
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192353-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31530027_sets_80192353",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192347,
+        "slots": [
+          {
+            "id": "80192347-0",
+            "entrant": {
+              "id": 17925704,
+              "name": "Squidner"
+            }
+          },
+          {
+            "id": "80192347-1",
+            "entrant": {
+              "id": 17922281,
+              "name": "Sarahtonin"
+            }
+          }
+        ],
+        "completedAt": 1727316195,
+        "setScore": {
+          "id": 80192347,
+          "slots": [
+            {
+              "id": "80192347-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31532237_sets_80192347",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192347-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31527521_sets_80192347",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192349,
+        "slots": [
+          {
+            "id": "80192349-0",
+            "entrant": {
+              "id": 17924747,
+              "name": "SodaCup"
+            }
+          },
+          {
+            "id": "80192349-1",
+            "entrant": {
+              "id": 17923910,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": 1727314726,
+        "setScore": {
+          "id": 80192349,
+          "slots": [
+            {
+              "id": "80192349-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31530975_sets_80192349",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192349-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31530027_sets_80192349",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192314,
+        "slots": [
+          {
+            "id": "80192314-0",
+            "entrant": {
+              "id": 17924968,
+              "name": "GLEN"
+            }
+          },
+          {
+            "id": "80192314-1",
+            "entrant": {
+              "id": 17920635,
+              "name": "Haydes"
+            }
+          }
+        ],
+        "completedAt": 1727313478,
+        "setScore": {
+          "id": 80192314,
+          "slots": [
+            {
+              "id": "80192314-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531244_sets_80192314",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192314-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31523903_sets_80192314",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192315,
+        "slots": [
+          {
+            "id": "80192315-0",
+            "entrant": {
+              "id": 17921104,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "80192315-1",
+            "entrant": {
+              "id": 17925704,
+              "name": "Squidner"
+            }
+          }
+        ],
+        "completedAt": 1727315360,
+        "setScore": {
+          "id": 80192315,
+          "slots": [
+            {
+              "id": "80192315-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31525120_sets_80192315",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192315-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31532237_sets_80192315",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192316,
+        "slots": [
+          {
+            "id": "80192316-0",
+            "entrant": {
+              "id": 17921181,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "80192316-1",
+            "entrant": {
+              "id": 17922281,
+              "name": "Sarahtonin"
+            }
+          }
+        ],
+        "completedAt": 1727315554,
+        "setScore": {
+          "id": 80192316,
+          "slots": [
+            {
+              "id": "80192316-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31525318_sets_80192316",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192316-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31527521_sets_80192316",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192318,
+        "slots": [
+          {
+            "id": "80192318-0",
+            "entrant": {
+              "id": 17920493,
+              "name": "Idaho Melee | honey!"
+            }
+          },
+          {
+            "id": "80192318-1",
+            "entrant": {
+              "id": 17924044,
+              "name": "Biz"
+            }
+          }
+        ],
+        "completedAt": 1727313199,
+        "setScore": {
+          "id": 80192318,
+          "slots": [
+            {
+              "id": "80192318-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31523672_sets_80192318",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192318-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31530164_sets_80192318",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192319,
+        "slots": [
+          {
+            "id": "80192319-0",
+            "entrant": {
+              "id": 17925310,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "80192319-1",
+            "entrant": {
+              "id": 17924747,
+              "name": "SodaCup"
+            }
+          }
+        ],
+        "completedAt": 1727313672,
+        "setScore": {
+          "id": 80192319,
+          "slots": [
+            {
+              "id": "80192319-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31531673_sets_80192319",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192319-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31530975_sets_80192319",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80192320,
+        "slots": [
+          {
+            "id": "80192320-0",
+            "entrant": {
+              "id": 17923910,
+              "name": "DayNeptune930"
+            }
+          },
+          {
+            "id": "80192320-1",
+            "entrant": {
+              "id": 17922516,
+              "name": "Rinzler"
+            }
+          }
+        ],
+        "completedAt": 1727313931,
+        "setScore": {
+          "id": 80192320,
+          "slots": [
+            {
+              "id": "80192320-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31530027_sets_80192320",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "80192320-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31527835_sets_80192320",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "foco-weekly-wednesday-353_melee-singles": {
+    "tournamentName": "foco-weekly-wednesday-353",
+    "eventName": "Melee Singles",
+    "eventId": 1229259,
+    "startAt": 1727848800,
+    "sets": [
+      {
+        "id": 80510293,
+        "slots": [
+          {
+            "id": "80510293-0",
+            "entrant": {
+              "id": 17998163,
+              "name": "GetCrabby"
+            }
+          },
+          {
+            "id": "80510293-1",
+            "entrant": {
+              "id": 17999896,
+              "name": "Cheunk"
+            }
+          }
+        ],
+        "completedAt": 1727925240,
+        "setScore": {
+          "id": 80510293,
+          "slots": [
+            {
+              "id": "80510293-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31647726_sets_80510293",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510293-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31649423_sets_80510293",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510294,
+        "slots": [
+          {
+            "id": "80510294-0",
+            "entrant": {
+              "id": 17999896,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "80510294-1",
+            "entrant": {
+              "id": 17998163,
+              "name": "GetCrabby"
+            }
+          }
+        ],
+        "completedAt": 1727925244,
+        "setScore": {
+          "id": 80510294,
+          "slots": [
+            {
+              "id": "80510294-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31649423_sets_80510294",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510294-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31647726_sets_80510294",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510292,
+        "slots": [
+          {
+            "id": "80510292-0",
+            "entrant": {
+              "id": 17999896,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "80510292-1",
+            "entrant": {
+              "id": 17998163,
+              "name": "GetCrabby"
+            }
+          }
+        ],
+        "completedAt": 1727921654,
+        "setScore": {
+          "id": 80510292,
+          "slots": [
+            {
+              "id": "80510292-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31649423_sets_80510292",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510292-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31647726_sets_80510292",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510308,
+        "slots": [
+          {
+            "id": "80510308-0",
+            "entrant": {
+              "id": 17999896,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "80510308-1",
+            "entrant": {
+              "id": 17998335,
+              "name": "Balance | Fuji"
+            }
+          }
+        ],
+        "completedAt": 1727922825,
+        "setScore": {
+          "id": 80510308,
+          "slots": [
+            {
+              "id": "80510308-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31649423_sets_80510308",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510308-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31647925_sets_80510308",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510307,
+        "slots": [
+          {
+            "id": "80510307-0",
+            "entrant": {
+              "id": 17996853,
+              "name": "Haydes"
+            }
+          },
+          {
+            "id": "80510307-1",
+            "entrant": {
+              "id": 17998335,
+              "name": "Balance | Fuji"
+            }
+          }
+        ],
+        "completedAt": 1727922245,
+        "setScore": {
+          "id": 80510307,
+          "slots": [
+            {
+              "id": "80510307-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31646305_sets_80510307",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510307-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31647925_sets_80510307",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510290,
+        "slots": [
+          {
+            "id": "80510290-0",
+            "entrant": {
+              "id": 17999896,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "80510290-1",
+            "entrant": {
+              "id": 17998335,
+              "name": "Balance | Fuji"
+            }
+          }
+        ],
+        "completedAt": 1727920313,
+        "setScore": {
+          "id": 80510290,
+          "slots": [
+            {
+              "id": "80510290-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31649423_sets_80510290",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510290-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31647925_sets_80510290",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510291,
+        "slots": [
+          {
+            "id": "80510291-0",
+            "entrant": {
+              "id": 17998163,
+              "name": "GetCrabby"
+            }
+          },
+          {
+            "id": "80510291-1",
+            "entrant": {
+              "id": 18000887,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": 1727919922,
+        "setScore": {
+          "id": 80510291,
+          "slots": [
+            {
+              "id": "80510291-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31647726_sets_80510291",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510291-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31650290_sets_80510291",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510305,
+        "slots": [
+          {
+            "id": "80510305-0",
+            "entrant": {
+              "id": 18000887,
+              "name": "DayNeptune930"
+            }
+          },
+          {
+            "id": "80510305-1",
+            "entrant": {
+              "id": 17996853,
+              "name": "Haydes"
+            }
+          }
+        ],
+        "completedAt": 1727922240,
+        "setScore": {
+          "id": 80510305,
+          "slots": [
+            {
+              "id": "80510305-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31650290_sets_80510305",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510305-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31646305_sets_80510305",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510306,
+        "slots": [
+          {
+            "id": "80510306-0",
+            "entrant": {
+              "id": 17998335,
+              "name": "Balance | Fuji"
+            }
+          },
+          {
+            "id": "80510306-1",
+            "entrant": {
+              "id": 17996742,
+              "name": "Rinzler"
+            }
+          }
+        ],
+        "completedAt": 1727921305,
+        "setScore": {
+          "id": 80510306,
+          "slots": [
+            {
+              "id": "80510306-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31647925_sets_80510306",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510306-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31646182_sets_80510306",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510303,
+        "slots": [
+          {
+            "id": "80510303-0",
+            "entrant": {
+              "id": 17999272,
+              "name": "SodaCup"
+            }
+          },
+          {
+            "id": "80510303-1",
+            "entrant": {
+              "id": 17996853,
+              "name": "Haydes"
+            }
+          }
+        ],
+        "completedAt": 1727920017,
+        "setScore": {
+          "id": 80510303,
+          "slots": [
+            {
+              "id": "80510303-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31648921_sets_80510303",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510303-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31646305_sets_80510303",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510304,
+        "slots": [
+          {
+            "id": "80510304-0",
+            "entrant": {
+              "id": 17999262,
+              "name": "Sarahtonin"
+            }
+          },
+          {
+            "id": "80510304-1",
+            "entrant": {
+              "id": 17996742,
+              "name": "Rinzler"
+            }
+          }
+        ],
+        "completedAt": 1727920685,
+        "setScore": {
+          "id": 80510304,
+          "slots": [
+            {
+              "id": "80510304-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31648911_sets_80510304",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510304-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31646182_sets_80510304",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510286,
+        "slots": [
+          {
+            "id": "80510286-0",
+            "entrant": {
+              "id": 17999896,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "80510286-1",
+            "entrant": {
+              "id": 17999272,
+              "name": "SodaCup"
+            }
+          }
+        ],
+        "completedAt": 1727919023,
+        "setScore": {
+          "id": 80510286,
+          "slots": [
+            {
+              "id": "80510286-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31649423_sets_80510286",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510286-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31648921_sets_80510286",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510287,
+        "slots": [
+          {
+            "id": "80510287-0",
+            "entrant": {
+              "id": 17996853,
+              "name": "Haydes"
+            }
+          },
+          {
+            "id": "80510287-1",
+            "entrant": {
+              "id": 17998335,
+              "name": "Balance | Fuji"
+            }
+          }
+        ],
+        "completedAt": 1727919424,
+        "setScore": {
+          "id": 80510287,
+          "slots": [
+            {
+              "id": "80510287-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31646305_sets_80510287",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510287-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31647925_sets_80510287",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510288,
+        "slots": [
+          {
+            "id": "80510288-0",
+            "entrant": {
+              "id": 17998163,
+              "name": "GetCrabby"
+            }
+          },
+          {
+            "id": "80510288-1",
+            "entrant": {
+              "id": 17999262,
+              "name": "Sarahtonin"
+            }
+          }
+        ],
+        "completedAt": 1727919001,
+        "setScore": {
+          "id": 80510288,
+          "slots": [
+            {
+              "id": "80510288-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31647726_sets_80510288",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510288-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31648911_sets_80510288",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80510289,
+        "slots": [
+          {
+            "id": "80510289-0",
+            "entrant": {
+              "id": 18000887,
+              "name": "DayNeptune930"
+            }
+          },
+          {
+            "id": "80510289-1",
+            "entrant": {
+              "id": 17996742,
+              "name": "Rinzler"
+            }
+          }
+        ],
+        "completedAt": 1727919274,
+        "setScore": {
+          "id": 80510289,
+          "slots": [
+            {
+              "id": "80510289-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31650290_sets_80510289",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80510289-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31646182_sets_80510289",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "foco-weekly-wednesday-354_melee-singles": {
+    "tournamentName": "foco-weekly-wednesday-354",
+    "eventName": "Melee Singles",
+    "eventId": 1234277,
+    "startAt": 1728453600,
+    "sets": [
+      {
+        "id": 80782454,
+        "slots": [
+          {
+            "id": "80782454-0",
+            "entrant": {
+              "id": 18067044,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "80782454-1",
+            "entrant": {
+              "id": 18071321,
+              "name": "James Jr"
+            }
+          }
+        ],
+        "completedAt": 1728531211,
+        "setScore": {
+          "id": 80782454,
+          "slots": [
+            {
+              "id": "80782454-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31740196_sets_80782454",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782454-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746108_sets_80782454",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782455,
+        "slots": [
+          {
+            "id": "80782455-0",
+            "entrant": {
+              "id": 18071321,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "80782455-1",
+            "entrant": {
+              "id": 18067044,
+              "name": "Cheunk"
+            }
+          }
+        ],
+        "completedAt": 1728531220,
+        "setScore": {
+          "id": 80782455,
+          "slots": [
+            {
+              "id": "80782455-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746108_sets_80782455",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782455-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31740196_sets_80782455",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782453,
+        "slots": [
+          {
+            "id": "80782453-0",
+            "entrant": {
+              "id": 18067026,
+              "name": "Jab"
+            }
+          },
+          {
+            "id": "80782453-1",
+            "entrant": {
+              "id": 18067044,
+              "name": "Cheunk"
+            }
+          }
+        ],
+        "completedAt": 1728526383,
+        "setScore": {
+          "id": 80782453,
+          "slots": [
+            {
+              "id": "80782453-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31740181_sets_80782453",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782453-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31740196_sets_80782453",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782485,
+        "slots": [
+          {
+            "id": "80782485-0",
+            "entrant": {
+              "id": 18067026,
+              "name": "Jab"
+            }
+          },
+          {
+            "id": "80782485-1",
+            "entrant": {
+              "id": 18071321,
+              "name": "James Jr"
+            }
+          }
+        ],
+        "completedAt": 1728529039,
+        "setScore": {
+          "id": 80782485,
+          "slots": [
+            {
+              "id": "80782485-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31740181_sets_80782485",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782485-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746108_sets_80782485",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782484,
+        "slots": [
+          {
+            "id": "80782484-0",
+            "entrant": {
+              "id": 18071321,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "80782484-1",
+            "entrant": {
+              "id": 18066653,
+              "name": "GetCrabby"
+            }
+          }
+        ],
+        "completedAt": 1728527594,
+        "setScore": {
+          "id": 80782484,
+          "slots": [
+            {
+              "id": "80782484-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746108_sets_80782484",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782484-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31739719_sets_80782484",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782451,
+        "slots": [
+          {
+            "id": "80782451-0",
+            "entrant": {
+              "id": 18071321,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "80782451-1",
+            "entrant": {
+              "id": 18067026,
+              "name": "Jab"
+            }
+          }
+        ],
+        "completedAt": 1728525292,
+        "setScore": {
+          "id": 80782451,
+          "slots": [
+            {
+              "id": "80782451-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746108_sets_80782451",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782451-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31740181_sets_80782451",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782452,
+        "slots": [
+          {
+            "id": "80782452-0",
+            "entrant": {
+              "id": 18067044,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "80782452-1",
+            "entrant": {
+              "id": 18066653,
+              "name": "GetCrabby"
+            }
+          }
+        ],
+        "completedAt": 1728525634,
+        "setScore": {
+          "id": 80782452,
+          "slots": [
+            {
+              "id": "80782452-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31740196_sets_80782452",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782452-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31739719_sets_80782452",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782482,
+        "slots": [
+          {
+            "id": "80782482-0",
+            "entrant": {
+              "id": 18071321,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "80782482-1",
+            "entrant": {
+              "id": 18071252,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": 1728526972,
+        "setScore": {
+          "id": 80782482,
+          "slots": [
+            {
+              "id": "80782482-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746108_sets_80782482",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782482-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746021_sets_80782482",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782483,
+        "slots": [
+          {
+            "id": "80782483-0",
+            "entrant": {
+              "id": 18066653,
+              "name": "GetCrabby"
+            }
+          },
+          {
+            "id": "80782483-1",
+            "entrant": {
+              "id": 18068946,
+              "name": "WizP"
+            }
+          }
+        ],
+        "completedAt": 1728526531,
+        "setScore": {
+          "id": 80782483,
+          "slots": [
+            {
+              "id": "80782483-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31739719_sets_80782483",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782483-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31743127_sets_80782483",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782480,
+        "slots": [
+          {
+            "id": "80782480-0",
+            "entrant": {
+              "id": 18071252,
+              "name": "DayNeptune930"
+            }
+          },
+          {
+            "id": "80782480-1",
+            "entrant": {
+              "id": 18069575,
+              "name": "Balance | Fuji"
+            }
+          }
+        ],
+        "completedAt": 1728526247,
+        "setScore": {
+          "id": 80782480,
+          "slots": [
+            {
+              "id": "80782480-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746021_sets_80782480",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782480-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31743898_sets_80782480",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782481,
+        "slots": [
+          {
+            "id": "80782481-0",
+            "entrant": {
+              "id": 18068946,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "80782481-1",
+            "entrant": {
+              "id": 18067808,
+              "name": "Haydes"
+            }
+          }
+        ],
+        "completedAt": 1728526538,
+        "setScore": {
+          "id": 80782481,
+          "slots": [
+            {
+              "id": "80782481-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31743127_sets_80782481",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782481-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31741173_sets_80782481",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782447,
+        "slots": [
+          {
+            "id": "80782447-0",
+            "entrant": {
+              "id": 18071321,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "80782447-1",
+            "entrant": {
+              "id": 18067808,
+              "name": "Haydes"
+            }
+          }
+        ],
+        "completedAt": 1728524223,
+        "setScore": {
+          "id": 80782447,
+          "slots": [
+            {
+              "id": "80782447-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746108_sets_80782447",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782447-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31741173_sets_80782447",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782448,
+        "slots": [
+          {
+            "id": "80782448-0",
+            "entrant": {
+              "id": 18067026,
+              "name": "Jab"
+            }
+          },
+          {
+            "id": "80782448-1",
+            "entrant": {
+              "id": 18068946,
+              "name": "WizP"
+            }
+          }
+        ],
+        "completedAt": 1728524295,
+        "setScore": {
+          "id": 80782448,
+          "slots": [
+            {
+              "id": "80782448-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31740181_sets_80782448",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782448-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31743127_sets_80782448",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782449,
+        "slots": [
+          {
+            "id": "80782449-0",
+            "entrant": {
+              "id": 18067044,
+              "name": "Cheunk"
+            }
+          },
+          {
+            "id": "80782449-1",
+            "entrant": {
+              "id": 18069575,
+              "name": "Balance | Fuji"
+            }
+          }
+        ],
+        "completedAt": 1728524260,
+        "setScore": {
+          "id": 80782449,
+          "slots": [
+            {
+              "id": "80782449-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31740196_sets_80782449",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782449-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31743898_sets_80782449",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782450,
+        "slots": [
+          {
+            "id": "80782450-0",
+            "entrant": {
+              "id": 18066653,
+              "name": "GetCrabby"
+            }
+          },
+          {
+            "id": "80782450-1",
+            "entrant": {
+              "id": 18071252,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": 1728524257,
+        "setScore": {
+          "id": 80782450,
+          "slots": [
+            {
+              "id": "80782450-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31739719_sets_80782450",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782450-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746021_sets_80782450",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782476,
+        "slots": [
+          {
+            "id": "80782476-0",
+            "entrant": {
+              "id": 18071252,
+              "name": "DayNeptune930"
+            }
+          },
+          {
+            "id": "80782476-1",
+            "entrant": {
+              "id": 18070896,
+              "name": "Biz"
+            }
+          }
+        ],
+        "completedAt": 1728525073,
+        "setScore": {
+          "id": 80782476,
+          "slots": [
+            {
+              "id": "80782476-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746021_sets_80782476",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782476-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31745619_sets_80782476",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782477,
+        "slots": [
+          {
+            "id": "80782477-0",
+            "entrant": {
+              "id": 18069575,
+              "name": "Balance | Fuji"
+            }
+          },
+          {
+            "id": "80782477-1",
+            "entrant": {
+              "id": 18071328,
+              "name": "Squidner"
+            }
+          }
+        ],
+        "completedAt": 1728525041,
+        "setScore": {
+          "id": 80782477,
+          "slots": [
+            {
+              "id": "80782477-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31743898_sets_80782477",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782477-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746114_sets_80782477",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782478,
+        "slots": [
+          {
+            "id": "80782478-0",
+            "entrant": {
+              "id": 18068946,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "80782478-1",
+            "entrant": {
+              "id": 18071740,
+              "name": "scraf"
+            }
+          }
+        ],
+        "completedAt": 1728524817,
+        "setScore": {
+          "id": 80782478,
+          "slots": [
+            {
+              "id": "80782478-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31743127_sets_80782478",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782478-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746546_sets_80782478",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782479,
+        "slots": [
+          {
+            "id": "80782479-0",
+            "entrant": {
+              "id": 18067808,
+              "name": "Haydes"
+            }
+          },
+          {
+            "id": "80782479-1",
+            "entrant": {
+              "id": 18070910,
+              "name": "osrs | slug wife"
+            }
+          }
+        ],
+        "completedAt": 1728524632,
+        "setScore": {
+          "id": 80782479,
+          "slots": [
+            {
+              "id": "80782479-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31741173_sets_80782479",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782479-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31745633_sets_80782479",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782440,
+        "slots": [
+          {
+            "id": "80782440-0",
+            "entrant": {
+              "id": 18067808,
+              "name": "Haydes"
+            }
+          },
+          {
+            "id": "80782440-1",
+            "entrant": {
+              "id": 18070896,
+              "name": "Biz"
+            }
+          }
+        ],
+        "completedAt": 1728523781,
+        "setScore": {
+          "id": 80782440,
+          "slots": [
+            {
+              "id": "80782440-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31741173_sets_80782440",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782440-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31745619_sets_80782440",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782442,
+        "slots": [
+          {
+            "id": "80782442-0",
+            "entrant": {
+              "id": 18068946,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "80782442-1",
+            "entrant": {
+              "id": 18071328,
+              "name": "Squidner"
+            }
+          }
+        ],
+        "completedAt": 1728523766,
+        "setScore": {
+          "id": 80782442,
+          "slots": [
+            {
+              "id": "80782442-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31743127_sets_80782442",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782442-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746114_sets_80782442",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782444,
+        "slots": [
+          {
+            "id": "80782444-0",
+            "entrant": {
+              "id": 18069575,
+              "name": "Balance | Fuji"
+            }
+          },
+          {
+            "id": "80782444-1",
+            "entrant": {
+              "id": 18071740,
+              "name": "scraf"
+            }
+          }
+        ],
+        "completedAt": 1728523624,
+        "setScore": {
+          "id": 80782444,
+          "slots": [
+            {
+              "id": "80782444-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31743898_sets_80782444",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782444-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746546_sets_80782444",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 80782446,
+        "slots": [
+          {
+            "id": "80782446-0",
+            "entrant": {
+              "id": 18071252,
+              "name": "DayNeptune930"
+            }
+          },
+          {
+            "id": "80782446-1",
+            "entrant": {
+              "id": 18070910,
+              "name": "osrs | slug wife"
+            }
+          }
+        ],
+        "completedAt": 1728523848,
+        "setScore": {
+          "id": 80782446,
+          "slots": [
+            {
+              "id": "80782446-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31746021_sets_80782446",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "80782446-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31745633_sets_80782446",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "foco-weekly-wednesday-355_melee-singles": {
+    "tournamentName": "foco-weekly-wednesday-355",
+    "eventName": "Melee Singles",
+    "eventId": 1239142,
+    "startAt": 1729123200,
+    "sets": [
+      {
+        "id": 81065388,
+        "slots": [
+          {
+            "id": "81065388-0",
+            "entrant": {
+              "id": 18138838,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "81065388-1",
+            "entrant": {
+              "id": 18133405,
+              "name": "Omegam"
+            }
+          }
+        ],
+        "completedAt": 1729136750,
+        "setScore": {
+          "id": 81065388,
+          "slots": [
+            {
+              "id": "81065388-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843712_sets_81065388",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065388-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31836642_sets_81065388",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065387,
+        "slots": [
+          {
+            "id": "81065387-0",
+            "entrant": {
+              "id": 18138838,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "81065387-1",
+            "entrant": {
+              "id": 18133405,
+              "name": "Omegam"
+            }
+          }
+        ],
+        "completedAt": 1729133355,
+        "setScore": {
+          "id": 81065387,
+          "slots": [
+            {
+              "id": "81065387-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843712_sets_81065387",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065387-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31836642_sets_81065387",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065419,
+        "slots": [
+          {
+            "id": "81065419-0",
+            "entrant": {
+              "id": 18133405,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "81065419-1",
+            "entrant": {
+              "id": 18133742,
+              "name": "WizP"
+            }
+          }
+        ],
+        "completedAt": 1729135277,
+        "setScore": {
+          "id": 81065419,
+          "slots": [
+            {
+              "id": "81065419-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31836642_sets_81065419",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065419-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31837132_sets_81065419",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065418,
+        "slots": [
+          {
+            "id": "81065418-0",
+            "entrant": {
+              "id": 18138821,
+              "name": "BizzKidDoogie"
+            }
+          },
+          {
+            "id": "81065418-1",
+            "entrant": {
+              "id": 18133742,
+              "name": "WizP"
+            }
+          }
+        ],
+        "completedAt": 1729135227,
+        "setScore": {
+          "id": 81065418,
+          "slots": [
+            {
+              "id": "81065418-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843695_sets_81065418",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065418-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31837132_sets_81065418",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065385,
+        "slots": [
+          {
+            "id": "81065385-0",
+            "entrant": {
+              "id": 18138838,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "81065385-1",
+            "entrant": {
+              "id": 18138821,
+              "name": "BizzKidDoogie"
+            }
+          }
+        ],
+        "completedAt": 1729131389,
+        "setScore": {
+          "id": 81065385,
+          "slots": [
+            {
+              "id": "81065385-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843712_sets_81065385",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065385-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843695_sets_81065385",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065386,
+        "slots": [
+          {
+            "id": "81065386-0",
+            "entrant": {
+              "id": 18133405,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "81065386-1",
+            "entrant": {
+              "id": 18133742,
+              "name": "WizP"
+            }
+          }
+        ],
+        "completedAt": 1729131748,
+        "setScore": {
+          "id": 81065386,
+          "slots": [
+            {
+              "id": "81065386-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31836642_sets_81065386",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065386-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31837132_sets_81065386",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065417,
+        "slots": [
+          {
+            "id": "81065417-0",
+            "entrant": {
+              "id": 18133742,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "81065417-1",
+            "entrant": {
+              "id": 18133949,
+              "name": "Balance | Fuji"
+            }
+          }
+        ],
+        "completedAt": 1729132412,
+        "setScore": {
+          "id": 81065417,
+          "slots": [
+            {
+              "id": "81065417-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31837132_sets_81065417",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065417-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31837377_sets_81065417",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065416,
+        "slots": [
+          {
+            "id": "81065416-0",
+            "entrant": {
+              "id": 18138821,
+              "name": "BizzKidDoogie"
+            }
+          },
+          {
+            "id": "81065416-1",
+            "entrant": {
+              "id": 18137585,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": 1729133347,
+        "setScore": {
+          "id": 81065416,
+          "slots": [
+            {
+              "id": "81065416-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843695_sets_81065416",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065416-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31841954_sets_81065416",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065414,
+        "slots": [
+          {
+            "id": "81065414-0",
+            "entrant": {
+              "id": 18136113,
+              "name": "GLEN"
+            }
+          },
+          {
+            "id": "81065414-1",
+            "entrant": {
+              "id": 18137585,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": 1729132277,
+        "setScore": {
+          "id": 81065414,
+          "slots": [
+            {
+              "id": "81065414-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31840264_sets_81065414",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065414-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31841954_sets_81065414",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065415,
+        "slots": [
+          {
+            "id": "81065415-0",
+            "entrant": {
+              "id": 18133949,
+              "name": "Balance | Fuji"
+            }
+          },
+          {
+            "id": "81065415-1",
+            "entrant": {
+              "id": 18138833,
+              "name": "Biz"
+            }
+          }
+        ],
+        "completedAt": 1729131850,
+        "setScore": {
+          "id": 81065415,
+          "slots": [
+            {
+              "id": "81065415-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31837377_sets_81065415",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 3
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065415-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843706_sets_81065415",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065381,
+        "slots": [
+          {
+            "id": "81065381-0",
+            "entrant": {
+              "id": 18138838,
+              "name": "James Jr"
+            }
+          },
+          {
+            "id": "81065381-1",
+            "entrant": {
+              "id": 18138647,
+              "name": "Rinzler"
+            }
+          }
+        ],
+        "completedAt": 1729129936,
+        "setScore": {
+          "id": 81065381,
+          "slots": [
+            {
+              "id": "81065381-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843712_sets_81065381",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065381-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843507_sets_81065381",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065382,
+        "slots": [
+          {
+            "id": "81065382-0",
+            "entrant": {
+              "id": 18138821,
+              "name": "BizzKidDoogie"
+            }
+          },
+          {
+            "id": "81065382-1",
+            "entrant": {
+              "id": 18133949,
+              "name": "Balance | Fuji"
+            }
+          }
+        ],
+        "completedAt": 1729130689,
+        "setScore": {
+          "id": 81065382,
+          "slots": [
+            {
+              "id": "81065382-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843695_sets_81065382",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065382-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31837377_sets_81065382",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065383,
+        "slots": [
+          {
+            "id": "81065383-0",
+            "entrant": {
+              "id": 18133405,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "81065383-1",
+            "entrant": {
+              "id": 18137585,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": 1729130745,
+        "setScore": {
+          "id": 81065383,
+          "slots": [
+            {
+              "id": "81065383-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31836642_sets_81065383",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065383-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31841954_sets_81065383",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065384,
+        "slots": [
+          {
+            "id": "81065384-0",
+            "entrant": {
+              "id": 18133742,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "81065384-1",
+            "entrant": {
+              "id": 18139241,
+              "name": "Cattywompus"
+            }
+          }
+        ],
+        "completedAt": 1729128869,
+        "setScore": {
+          "id": 81065384,
+          "slots": [
+            {
+              "id": "81065384-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31837132_sets_81065384",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065384-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31844234_sets_81065384",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065410,
+        "slots": [
+          {
+            "id": "81065410-0",
+            "entrant": {
+              "id": 18139241,
+              "name": "Cattywompus"
+            }
+          },
+          {
+            "id": "81065410-1",
+            "entrant": {
+              "id": 18136113,
+              "name": "GLEN"
+            }
+          }
+        ],
+        "completedAt": 1729129813,
+        "setScore": {
+          "id": 81065410,
+          "slots": [
+            {
+              "id": "81065410-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31844234_sets_81065410",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065410-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31840264_sets_81065410",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065411,
+        "slots": [
+          {
+            "id": "81065411-0",
+            "entrant": {
+              "id": 18137585,
+              "name": "DayNeptune930"
+            }
+          },
+          {
+            "id": "81065411-1",
+            "entrant": {
+              "id": 18136218,
+              "name": "Sarahtonin"
+            }
+          }
+        ],
+        "completedAt": 1729131245,
+        "setScore": {
+          "id": 81065411,
+          "slots": [
+            {
+              "id": "81065411-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31841954_sets_81065411",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065411-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31840377_sets_81065411",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065412,
+        "slots": [
+          {
+            "id": "81065412-0",
+            "entrant": {
+              "id": 18133949,
+              "name": "Balance | Fuji"
+            }
+          },
+          {
+            "id": "81065412-1",
+            "entrant": {
+              "id": 18134569,
+              "name": "osrs | slug wife"
+            }
+          }
+        ],
+        "completedAt": 1729131312,
+        "setScore": {
+          "id": 81065412,
+          "slots": [
+            {
+              "id": "81065412-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31837377_sets_81065412",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065412-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31838382_sets_81065412",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065413,
+        "slots": [
+          {
+            "id": "81065413-0",
+            "entrant": {
+              "id": 18138647,
+              "name": "Rinzler"
+            }
+          },
+          {
+            "id": "81065413-1",
+            "entrant": {
+              "id": 18138833,
+              "name": "Biz"
+            }
+          }
+        ],
+        "completedAt": 1729130419,
+        "setScore": {
+          "id": 81065413,
+          "slots": [
+            {
+              "id": "81065413-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843507_sets_81065413",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065413-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843706_sets_81065413",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065407,
+        "slots": [
+          {
+            "id": "81065407-0",
+            "entrant": {
+              "id": 18139506,
+              "name": "Squidner"
+            }
+          },
+          {
+            "id": "81065407-1",
+            "entrant": {
+              "id": 18136218,
+              "name": "Sarahtonin"
+            }
+          }
+        ],
+        "completedAt": 1729130728,
+        "setScore": {
+          "id": 81065407,
+          "slots": [
+            {
+              "id": "81065407-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31844514_sets_81065407",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065407-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31840377_sets_81065407",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065408,
+        "slots": [
+          {
+            "id": "81065408-0",
+            "entrant": {
+              "id": 18138955,
+              "name": "Chase"
+            }
+          },
+          {
+            "id": "81065408-1",
+            "entrant": {
+              "id": 18134569,
+              "name": "osrs | slug wife"
+            }
+          }
+        ],
+        "completedAt": 1729130552,
+        "setScore": {
+          "id": 81065408,
+          "slots": [
+            {
+              "id": "81065408-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843882_sets_81065408",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065408-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31838382_sets_81065408",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065409,
+        "slots": [
+          {
+            "id": "81065409-0",
+            "entrant": {
+              "id": 18138823,
+              "name": "SodaCup"
+            }
+          },
+          {
+            "id": "81065409-1",
+            "entrant": {
+              "id": 18138833,
+              "name": "Biz"
+            }
+          }
+        ],
+        "completedAt": 1729128835,
+        "setScore": {
+          "id": 81065409,
+          "slots": [
+            {
+              "id": "81065409-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843697_sets_81065409",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065409-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843706_sets_81065409",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065374,
+        "slots": [
+          {
+            "id": "81065374-0",
+            "entrant": {
+              "id": 18136113,
+              "name": "GLEN"
+            }
+          },
+          {
+            "id": "81065374-1",
+            "entrant": {
+              "id": 18138647,
+              "name": "Rinzler"
+            }
+          }
+        ],
+        "completedAt": 1729128218,
+        "setScore": {
+          "id": 81065374,
+          "slots": [
+            {
+              "id": "81065374-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31840264_sets_81065374",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065374-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843507_sets_81065374",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065375,
+        "slots": [
+          {
+            "id": "81065375-0",
+            "entrant": {
+              "id": 18138821,
+              "name": "BizzKidDoogie"
+            }
+          },
+          {
+            "id": "81065375-1",
+            "entrant": {
+              "id": 18139506,
+              "name": "Squidner"
+            }
+          }
+        ],
+        "completedAt": 1729128280,
+        "setScore": {
+          "id": 81065375,
+          "slots": [
+            {
+              "id": "81065375-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843695_sets_81065375",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065375-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31844514_sets_81065375",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065376,
+        "slots": [
+          {
+            "id": "81065376-0",
+            "entrant": {
+              "id": 18133949,
+              "name": "Balance | Fuji"
+            }
+          },
+          {
+            "id": "81065376-1",
+            "entrant": {
+              "id": 18136218,
+              "name": "Sarahtonin"
+            }
+          }
+        ],
+        "completedAt": 1729130012,
+        "setScore": {
+          "id": 81065376,
+          "slots": [
+            {
+              "id": "81065376-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31837377_sets_81065376",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065376-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31840377_sets_81065376",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065377,
+        "slots": [
+          {
+            "id": "81065377-0",
+            "entrant": {
+              "id": 18133405,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "81065377-1",
+            "entrant": {
+              "id": 18138955,
+              "name": "Chase"
+            }
+          }
+        ],
+        "completedAt": 1729129905,
+        "setScore": {
+          "id": 81065377,
+          "slots": [
+            {
+              "id": "81065377-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31836642_sets_81065377",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065377-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843882_sets_81065377",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065378,
+        "slots": [
+          {
+            "id": "81065378-0",
+            "entrant": {
+              "id": 18137585,
+              "name": "DayNeptune930"
+            }
+          },
+          {
+            "id": "81065378-1",
+            "entrant": {
+              "id": 18134569,
+              "name": "osrs | slug wife"
+            }
+          }
+        ],
+        "completedAt": 1729129974,
+        "setScore": {
+          "id": 81065378,
+          "slots": [
+            {
+              "id": "81065378-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31841954_sets_81065378",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065378-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31838382_sets_81065378",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065379,
+        "slots": [
+          {
+            "id": "81065379-0",
+            "entrant": {
+              "id": 18133742,
+              "name": "WizP"
+            }
+          },
+          {
+            "id": "81065379-1",
+            "entrant": {
+              "id": 18138823,
+              "name": "SodaCup"
+            }
+          }
+        ],
+        "completedAt": 1729127938,
+        "setScore": {
+          "id": 81065379,
+          "slots": [
+            {
+              "id": "81065379-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31837132_sets_81065379",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065379-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843697_sets_81065379",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 81065380,
+        "slots": [
+          {
+            "id": "81065380-0",
+            "entrant": {
+              "id": 18138833,
+              "name": "Biz"
+            }
+          },
+          {
+            "id": "81065380-1",
+            "entrant": {
+              "id": 18139241,
+              "name": "Cattywompus"
+            }
+          }
+        ],
+        "completedAt": 1729128042,
+        "setScore": {
+          "id": 81065380,
+          "slots": [
+            {
+              "id": "81065380-0",
+              "standing": {
+                "id": "placeholder_standing_seeds_31843706_sets_81065380",
+                "placement": 2,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "81065380-1",
+              "standing": {
+                "id": "placeholder_standing_seeds_31844234_sets_81065380",
+                "placement": 1,
+                "stats": {
+                  "score": {
+                    "label": "Score",
+                    "value": 2
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "foco-weekly-wednesday-357_melee-singles": {
+    "tournamentName": "foco-weekly-wednesday-357",
+    "eventName": "Melee Singles",
+    "eventId": 1249420,
+    "startAt": 1730332800,
+    "sets": [
+      {
+        "id": "preview_2669675_1_1",
+        "slots": [
+          {
+            "id": "preview_2669675_1_1-0",
+            "entrant": {
+              "id": 18281255,
+              "name": "Omegam"
+            }
+          },
+          {
+            "id": "preview_2669675_1_1-1",
+            "entrant": {
+              "id": 18281353,
+              "name": "DayNeptune930"
+            }
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_2669675_1_1",
+          "slots": [
+            {
+              "id": "preview_2669675_1_1-0",
+              "standing": null
+            },
+            {
+              "id": "preview_2669675_1_1-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_2669675_1_3",
+        "slots": [
+          {
+            "id": "preview_2669675_1_3-0",
+            "entrant": {
+              "id": 18279030,
+              "name": "Sarahtonin"
+            }
+          },
+          {
+            "id": "preview_2669675_1_3-1",
+            "entrant": {
+              "id": 18281408,
+              "name": "Balance | Fuji"
+            }
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_2669675_1_3",
+          "slots": [
+            {
+              "id": "preview_2669675_1_3-0",
+              "standing": null
+            },
+            {
+              "id": "preview_2669675_1_3-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_2669675_-4_0",
+        "slots": [
+          {
+            "id": "preview_2669675_-4_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_2669675_-4_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_2669675_-4_0",
+          "slots": [
+            {
+              "id": "preview_2669675_-4_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_2669675_-4_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_2669675_-4_1",
+        "slots": [
+          {
+            "id": "preview_2669675_-4_1-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_2669675_-4_1-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_2669675_-4_1",
+          "slots": [
+            {
+              "id": "preview_2669675_-4_1-0",
+              "standing": null
+            },
+            {
+              "id": "preview_2669675_-4_1-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_2669675_2_0",
+        "slots": [
+          {
+            "id": "preview_2669675_2_0-0",
+            "entrant": {
+              "id": 18277530,
+              "name": "Haydes"
+            }
+          },
+          {
+            "id": "preview_2669675_2_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_2669675_2_0",
+          "slots": [
+            {
+              "id": "preview_2669675_2_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_2669675_2_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_2669675_2_1",
+        "slots": [
+          {
+            "id": "preview_2669675_2_1-0",
+            "entrant": {
+              "id": 18279014,
+              "name": "Rinzler"
+            }
+          },
+          {
+            "id": "preview_2669675_2_1-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_2669675_2_1",
+          "slots": [
+            {
+              "id": "preview_2669675_2_1-0",
+              "standing": null
+            },
+            {
+              "id": "preview_2669675_2_1-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_2669675_-5_0",
+        "slots": [
+          {
+            "id": "preview_2669675_-5_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_2669675_-5_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_2669675_-5_0",
+          "slots": [
+            {
+              "id": "preview_2669675_-5_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_2669675_-5_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_2669675_-6_0",
+        "slots": [
+          {
+            "id": "preview_2669675_-6_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_2669675_-6_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_2669675_-6_0",
+          "slots": [
+            {
+              "id": "preview_2669675_-6_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_2669675_-6_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_2669675_3_0",
+        "slots": [
+          {
+            "id": "preview_2669675_3_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_2669675_3_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_2669675_3_0",
+          "slots": [
+            {
+              "id": "preview_2669675_3_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_2669675_3_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_2669675_4_0",
+        "slots": [
+          {
+            "id": "preview_2669675_4_0-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_2669675_4_0-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_2669675_4_0",
+          "slots": [
+            {
+              "id": "preview_2669675_4_0-0",
+              "standing": null
+            },
+            {
+              "id": "preview_2669675_4_0-1",
+              "standing": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "preview_2669675_4_1",
+        "slots": [
+          {
+            "id": "preview_2669675_4_1-0",
+            "entrant": null
+          },
+          {
+            "id": "preview_2669675_4_1-1",
+            "entrant": null
+          }
+        ],
+        "completedAt": null,
+        "setScore": {
+          "id": "preview_2669675_4_1",
+          "slots": [
+            {
+              "id": "preview_2669675_4_1-0",
+              "standing": null
+            },
+            {
+              "id": "preview_2669675_4_1-1",
+              "standing": null
+            }
+          ]
+        }
+      }
+    ]
   }
 }

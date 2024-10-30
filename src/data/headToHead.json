@@ -618,6 +618,17 @@
           "eventId": 1213899,
           "setId": 79572716,
           "completedAt": 1726110789
+        },
+        {
+          "opponentName": "WizP",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678860,
+          "completedAt": 1665023895
         }
       ],
       "DSJ": [
@@ -2521,6 +2532,17 @@
           "eventId": 1213899,
           "setId": 79572684,
           "completedAt": 1726108005
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822674,
+          "completedAt": 1675912555
         }
       ],
       "Ninjy": [
@@ -3792,6 +3814,61 @@
           "eventId": 1153196,
           "setId": 75613724,
           "completedAt": 1717640150
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "2-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678862,
+          "completedAt": 1665028879
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "win",
+          "score": "3-2",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678863,
+          "completedAt": 1665030252
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "win",
+          "score": "3-0",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678861,
+          "completedAt": 1665025040
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "2-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822806,
+          "completedAt": 1675920205
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822677,
+          "completedAt": 1675915391
         }
       ],
       "Marco": [
@@ -4176,6 +4253,17 @@
           "eventId": 771355,
           "setId": 51089446,
           "completedAt": 1661392455
+        },
+        {
+          "opponentName": "GunSquad | Jab",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678857,
+          "completedAt": 1665019922
         }
       ],
       "On the Bus | Wheels": [
@@ -4559,6 +4647,17 @@
           "eventId": 831274,
           "setId": 55097637,
           "completedAt": 1671082358
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822805,
+          "completedAt": 1675917519
         }
       ],
       "Neptune": [
@@ -4927,6 +5026,17 @@
           "eventId": 1117039,
           "setId": 73204860,
           "completedAt": 1712798893
+        },
+        {
+          "opponentName": "Current",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678851,
+          "completedAt": 1665019287
         }
       ],
       "Siegfried": [
@@ -4964,6 +5074,17 @@
           "eventId": 999888,
           "setId": 66258759,
           "completedAt": 1697074504
+        },
+        {
+          "opponentName": "Jakan0id",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822668,
+          "completedAt": 1675911230
         }
       ],
       "Farf": [
@@ -6338,6 +6459,32 @@
           "setId": 79572680,
           "completedAt": 1726105014
         }
+      ],
+      "blorppppp": [
+        {
+          "opponentName": "blorppppp",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822804,
+          "completedAt": 1675916415
+        }
+      ],
+      "RAVN": [
+        {
+          "opponentName": "RAVN",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822656,
+          "completedAt": 1675910656
+        }
       ]
     }
   },
@@ -6960,6 +7107,17 @@
           "eventId": 1213899,
           "setId": 79572716,
           "completedAt": 1726110789
+        },
+        {
+          "opponentName": "GetCrabby",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678860,
+          "completedAt": 1665023895
         }
       ],
       "DSJ": [
@@ -7931,6 +8089,28 @@
           "eventId": 1213899,
           "setId": 79572685,
           "completedAt": 1726108956
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678858,
+          "completedAt": 1665023207
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "loss",
+          "score": "1-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271674,
+          "completedAt": 1674713067
         }
       ],
       "Omegam": [
@@ -8428,6 +8608,17 @@
           "eventId": 1213899,
           "setId": 79572718,
           "completedAt": 1726112134
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "win",
+          "score": "3-2",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398478,
+          "completedAt": 1679539037
         }
       ],
       "Balance | Fuji": [
@@ -8595,6 +8786,17 @@
           "eventId": 1186401,
           "setId": 77826115,
           "completedAt": 1722477139
+        },
+        {
+          "opponentName": "Balance | Fuji",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271605,
+          "completedAt": 1674702243
         }
       ],
       "Speedy": [
@@ -9181,6 +9383,17 @@
           "eventId": 1097247,
           "setId": 72006702,
           "completedAt": 1710380478
+        },
+        {
+          "opponentName": "TsunamiGod77",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398409,
+          "completedAt": 1679535731
         }
       ],
       "Pip": [
@@ -9438,6 +9651,17 @@
           "eventId": 1161578,
           "setId": 76121886,
           "completedAt": 1718846707
+        },
+        {
+          "opponentName": "GLEN",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398414,
+          "completedAt": 1679536201
         }
       ],
       "Golden Magikarp": [
@@ -9994,6 +10218,28 @@
           "eventId": 1203913,
           "setId": 78942766,
           "completedAt": 1724898306
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271608,
+          "completedAt": 1674703558
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398416,
+          "completedAt": 1679536982
         }
       ],
       "Kicks": [
@@ -10672,6 +10918,17 @@
           "eventId": 771355,
           "setId": 51089439,
           "completedAt": 1661392166
+        },
+        {
+          "opponentName": "NIKE",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678854,
+          "completedAt": 1665020778
         }
       ],
       "treyknows": [
@@ -11042,6 +11299,39 @@
           "eventId": 838510,
           "setId": 55571254,
           "completedAt": 1672886881
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678892,
+          "completedAt": 1665026512
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "2-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271610,
+          "completedAt": 1674705328
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822673,
+          "completedAt": 1675914268
         }
       ],
       "Neptune": [
@@ -11176,6 +11466,28 @@
           "eventId": 988911,
           "setId": 65369361,
           "completedAt": 1695260850
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678891,
+          "completedAt": 1665024737
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822667,
+          "completedAt": 1675913511
         }
       ],
       "Farf": [
@@ -11606,6 +11918,17 @@
           "eventId": 1144770,
           "setId": 75001488,
           "completedAt": 1716433141
+        },
+        {
+          "opponentName": "Jab",
+          "result": "loss",
+          "score": "1-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398480,
+          "completedAt": 1679540841
         }
       ],
       "Rrob": [
@@ -12143,6 +12466,17 @@
           "eventId": 936865,
           "setId": 62075730,
           "completedAt": 1688004805
+        },
+        {
+          "opponentName": "blorppppp",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822800,
+          "completedAt": 1675915064
         }
       ],
       "Bandit": [
@@ -12361,6 +12695,28 @@
           "eventId": 1092298,
           "setId": 71711208,
           "completedAt": 1709779393
+        },
+        {
+          "opponentName": "Current",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271598,
+          "completedAt": 1674701639
+        },
+        {
+          "opponentName": "Current",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822654,
+          "completedAt": 1675910543
         }
       ],
       "DayNeptune930": [
@@ -14079,6 +14435,17 @@
           "eventId": 1186401,
           "setId": 77826117,
           "completedAt": 1722479099
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822798,
+          "completedAt": 1675915079
         }
       ],
       "Rinzler": [
@@ -14677,6 +15044,17 @@
           "eventId": 1121523,
           "setId": 73495019,
           "completedAt": 1713417604
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822801,
+          "completedAt": 1675916184
         }
       ],
       "Elders React | Third Strongest": [
@@ -15490,6 +15868,17 @@
           "eventId": 824998,
           "setId": 54651605,
           "completedAt": 1669866245
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822803,
+          "completedAt": 1675916709
         }
       ],
       "Trent": [
@@ -15538,6 +15927,17 @@
           "eventId": 999888,
           "setId": 66258896,
           "completedAt": 1697077193
+        },
+        {
+          "opponentName": "moeznr",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822651,
+          "completedAt": 1675911853
         }
       ],
       "Jab": [
@@ -15573,6 +15973,17 @@
           "eventId": 1102087,
           "setId": 72307082,
           "completedAt": 1710985504
+        },
+        {
+          "opponentName": "Jab",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822665,
+          "completedAt": 1675912060
         }
       ],
       "Zac": [
@@ -15958,6 +16369,32 @@
           "eventId": 1186401,
           "setId": 77826148,
           "completedAt": 1722480022
+        }
+      ],
+      "Happy Dad | MothersDay": [
+        {
+          "opponentName": "Happy Dad | MothersDay",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822794,
+          "completedAt": 1675915012
+        }
+      ],
+      "Revenant": [
+        {
+          "opponentName": "Revenant",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822787,
+          "completedAt": 1675913982
         }
       ]
     }
@@ -17443,6 +17880,28 @@
           "eventId": 1213899,
           "setId": 79572685,
           "completedAt": 1726108956
+        },
+        {
+          "opponentName": "WizP",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678858,
+          "completedAt": 1665023207
+        },
+        {
+          "opponentName": "WizP",
+          "result": "win",
+          "score": "3-1",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271674,
+          "completedAt": 1674713067
         }
       ],
       "BIG PIKA": [
@@ -17634,6 +18093,17 @@
           "eventId": 1194872,
           "setId": 78369000,
           "completedAt": 1723685606
+        },
+        {
+          "opponentName": "Balance | Fuji",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678884,
+          "completedAt": 1665023563
         }
       ],
       "DSJ": [
@@ -17856,6 +18326,17 @@
           "eventId": 1186401,
           "setId": 77826117,
           "completedAt": 1722479099
+        },
+        {
+          "opponentName": "DSJ",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822798,
+          "completedAt": 1675915079
         }
       ],
       "Golden Magikarp": [
@@ -19241,6 +19722,28 @@
           "eventId": 1213899,
           "setId": 79572687,
           "completedAt": 1726110215
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271673,
+          "completedAt": 1674713058
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822675,
+          "completedAt": 1675914196
         }
       ],
       "Elders React | Third Strongest": [
@@ -19577,6 +20080,17 @@
           "eventId": 1186401,
           "setId": 77826113,
           "completedAt": 1722477969
+        },
+        {
+          "opponentName": "GLEN",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678853,
+          "completedAt": 1665020757
         }
       ],
       "Bread": [
@@ -19850,6 +20364,17 @@
           "eventId": 1053519,
           "setId": 69394594,
           "completedAt": 1704941724
+        },
+        {
+          "opponentName": "moeznr",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271602,
+          "completedAt": 1674701699
         }
       ],
       "CG | Zealot": [
@@ -20033,6 +20558,17 @@
           "eventId": 790908,
           "setId": 52429053,
           "completedAt": 1664419310
+        },
+        {
+          "opponentName": "GunSquad | Jab",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678888,
+          "completedAt": 1665023881
         }
       ],
       "honey!": [
@@ -20193,6 +20729,17 @@
           "eventId": 955983,
           "setId": 63402022,
           "completedAt": 1691029858
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271671,
+          "completedAt": 1674705197
         }
       ],
       "Nice Orbit": [
@@ -20298,6 +20845,39 @@
           "eventId": 861808,
           "setId": 57063820,
           "completedAt": 1676516966
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678890,
+          "completedAt": 1665026499
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "2-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271611,
+          "completedAt": 1674717092
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271609,
+          "completedAt": 1674703591
         }
       ],
       "Kicks": [
@@ -20758,6 +21338,17 @@
           "eventId": 1148801,
           "setId": 75317421,
           "completedAt": 1717036471
+        },
+        {
+          "opponentName": "WYO | SpecialK",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822671,
+          "completedAt": 1675913194
         }
       ],
       "Venom": [
@@ -21613,6 +22204,17 @@
           "eventId": 1169678,
           "setId": 76669915,
           "completedAt": 1720057939
+        },
+        {
+          "opponentName": "destinybond",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822662,
+          "completedAt": 1675911733
         }
       ],
       "SUMMIT | Slick": [
@@ -21728,6 +22330,19 @@
           "eventId": 1213899,
           "setId": 79572681,
           "completedAt": 1726105140
+        }
+      ],
+      "Roylet": [
+        {
+          "opponentName": "Roylet",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271607,
+          "completedAt": 1674702404
         }
       ]
     }
@@ -22325,6 +22940,17 @@
           "eventId": 1194872,
           "setId": 78369000,
           "completedAt": 1723685606
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678884,
+          "completedAt": 1665023563
         }
       ],
       "WizP": [
@@ -22492,6 +23118,17 @@
           "eventId": 1186401,
           "setId": 77826115,
           "completedAt": 1722477139
+        },
+        {
+          "opponentName": "WizP",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271605,
+          "completedAt": 1674702243
         }
       ],
       "UNCO | Neur0n": [
@@ -23195,6 +23832,17 @@
           "eventId": 1203913,
           "setId": 78942764,
           "completedAt": 1724896204
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271599,
+          "completedAt": 1674701051
         }
       ],
       "NIKE": [
@@ -24052,6 +24700,28 @@
           "eventId": 921950,
           "setId": 61015577,
           "completedAt": 1685585530
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678848,
+          "completedAt": 1665019504
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271665,
+          "completedAt": 1674702698
         }
       ],
       "Jcorn": [
@@ -24190,6 +24860,28 @@
           "eventId": 1144770,
           "setId": 75001478,
           "completedAt": 1716430598
+        },
+        {
+          "opponentName": "Kicks",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822790,
+          "completedAt": 1675913684
+        },
+        {
+          "opponentName": "Kicks",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398470,
+          "completedAt": 1679536505
         }
       ],
       "Farf": [
@@ -24334,6 +25026,17 @@
           "eventId": 1157529,
           "setId": 75883532,
           "completedAt": 1718242353
+        },
+        {
+          "opponentName": "meapz",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271587,
+          "completedAt": 1674700399
         }
       ],
       "Neur0n with a zero": [
@@ -24685,6 +25388,17 @@
           "eventId": 1087205,
           "setId": 71416050,
           "completedAt": 1709173309
+        },
+        {
+          "opponentName": "Jab",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398405,
+          "completedAt": 1679534754
         }
       ],
       "brain lag": [
@@ -25278,6 +25992,32 @@
           "eventId": 1213899,
           "setId": 79572674,
           "completedAt": 1726104701
+        }
+      ],
+      "Apothos": [
+        {
+          "opponentName": "Apothos",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822782,
+          "completedAt": 1675913528
+        }
+      ],
+      "Pip": [
+        {
+          "opponentName": "Pip",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822653,
+          "completedAt": 1675912642
         }
       ]
     }
@@ -26625,6 +27365,17 @@
           "eventId": 1097247,
           "setId": 72006735,
           "completedAt": 1710382798
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398472,
+          "completedAt": 1679537231
         }
       ],
       "DSJ": [
@@ -26864,6 +27615,17 @@
           "eventId": 1097247,
           "setId": 72006702,
           "completedAt": 1710380478
+        },
+        {
+          "opponentName": "WizP",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398409,
+          "completedAt": 1679535731
         }
       ],
       "NIKE": [
@@ -27092,6 +27854,17 @@
           "eventId": 1169678,
           "setId": 76669982,
           "completedAt": 1720058701
+        },
+        {
+          "opponentName": "Rinzler",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678881,
+          "completedAt": 1665021286
         }
       ],
       "Bread": [
@@ -27267,6 +28040,17 @@
           "eventId": 1190828,
           "setId": 78084776,
           "completedAt": 1723080673
+        },
+        {
+          "opponentName": "Kicks",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822661,
+          "completedAt": 1675910597
         }
       ],
       "GunSquad | CowboyDan": [
@@ -27700,6 +28484,17 @@
           "eventId": 786770,
           "setId": 52142025,
           "completedAt": 1663811137
+        },
+        {
+          "opponentName": "GunSquad | Jab",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678885,
+          "completedAt": 1665022793
         }
       ],
       "Current": [
@@ -27899,6 +28694,17 @@
           "eventId": 821636,
           "setId": 54472682,
           "completedAt": 1669256858
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678849,
+          "completedAt": 1665020729
         }
       ],
       "Farf": [
@@ -27960,6 +28766,17 @@
           "eventId": 998454,
           "setId": 65979716,
           "completedAt": 1696470335
+        },
+        {
+          "opponentName": "Jota Jota",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398468,
+          "completedAt": 1679536621
         }
       ],
       "meapz": [
@@ -28060,6 +28877,17 @@
           "eventId": 870339,
           "setId": 57628456,
           "completedAt": 1677724040
+        },
+        {
+          "opponentName": "bearz",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822778,
+          "completedAt": 1675912772
         }
       ],
       "Jeeb": [
@@ -28582,6 +29410,32 @@
           "eventId": 1190828,
           "setId": 78084810,
           "completedAt": 1723082017
+        }
+      ],
+      "Pip": [
+        {
+          "opponentName": "Pip",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822786,
+          "completedAt": 1675913964
+        }
+      ],
+      "Pibb": [
+        {
+          "opponentName": "Pibb",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398400,
+          "completedAt": 1679535242
         }
       ]
     }
@@ -29918,6 +30772,28 @@
           "eventId": 874337,
           "setId": 57885119,
           "completedAt": 1678336486
+        },
+        {
+          "opponentName": "Jab",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822672,
+          "completedAt": 1675913378
+        },
+        {
+          "opponentName": "Jab",
+          "result": "win",
+          "score": "3-1",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398415,
+          "completedAt": 1679536636
         }
       ],
       "James Jr": [
@@ -29966,6 +30842,17 @@
           "eventId": 874337,
           "setId": 57885049,
           "completedAt": 1678332354
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398411,
+          "completedAt": 1679535653
         }
       ],
       "TsunamiGod77": [
@@ -30086,6 +30973,61 @@
           "eventId": 874337,
           "setId": 57885055,
           "completedAt": 1678334772
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822679,
+          "completedAt": 1675920220
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "win",
+          "score": "3-1",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822680,
+          "completedAt": 1675920259
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "win",
+          "score": "3-2",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822678,
+          "completedAt": 1675916517
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "win",
+          "score": "3-0",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398418,
+          "completedAt": 1679541961
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "win",
+          "score": "3-0",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398417,
+          "completedAt": 1679538982
         }
       ],
       "WizP": [
@@ -30112,6 +31054,58 @@
           "eventId": 874337,
           "setId": 57885041,
           "completedAt": 1678330150
+        }
+      ],
+      "Goomy": [
+        {
+          "opponentName": "Goomy",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822676,
+          "completedAt": 1675914788
+        }
+      ],
+      "Happy Dad | MothersDay": [
+        {
+          "opponentName": "Happy Dad | MothersDay",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822664,
+          "completedAt": 1675912602
+        }
+      ],
+      "Smudge": [
+        {
+          "opponentName": "Smudge",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822648,
+          "completedAt": 1675912326
+        }
+      ],
+      "Happy Dad | snatcher": [
+        {
+          "opponentName": "Happy Dad | snatcher",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398403,
+          "completedAt": 1679535296
         }
       ]
     }
@@ -32587,6 +33581,17 @@
           "eventId": 999888,
           "setId": 66258777,
           "completedAt": 1697075820
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271604,
+          "completedAt": 1674702322
         }
       ],
       "Fishbait": [
@@ -33001,6 +34006,17 @@
           "eventId": 1106885,
           "setId": 72621447,
           "completedAt": 1711591166
+        },
+        {
+          "opponentName": "Kicks",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271597,
+          "completedAt": 1674701734
         }
       ],
       "honey!": [
@@ -33244,6 +34260,19 @@
           "eventId": 1169678,
           "setId": 76669920,
           "completedAt": 1720058686
+        }
+      ],
+      "Pip": [
+        {
+          "opponentName": "Pip",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271666,
+          "completedAt": 1674703305
         }
       ]
     }
@@ -33851,6 +34880,17 @@
           "eventId": 1213899,
           "setId": 79572718,
           "completedAt": 1726112134
+        },
+        {
+          "opponentName": "WizP",
+          "result": "loss",
+          "score": "2-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398478,
+          "completedAt": 1679539037
         }
       ],
       "RICK": [
@@ -34449,6 +35489,17 @@
           "eventId": 1213899,
           "setId": 79572684,
           "completedAt": 1726108005
+        },
+        {
+          "opponentName": "GetCrabby",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822674,
+          "completedAt": 1675912555
         }
       ],
       "Blankets": [
@@ -34462,6 +35513,17 @@
           "eventId": 642701,
           "setId": 42006709,
           "completedAt": 1635993783
+        },
+        {
+          "opponentName": "Blankets",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822659,
+          "completedAt": 1675911150
         }
       ],
       "James Jr": [
@@ -35009,6 +36071,17 @@
           "eventId": 1097247,
           "setId": 72006735,
           "completedAt": 1710382798
+        },
+        {
+          "opponentName": "TsunamiGod77",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398472,
+          "completedAt": 1679537231
         }
       ],
       "Golden Magikarp": [
@@ -35261,6 +36334,17 @@
           "eventId": 1121523,
           "setId": 73495019,
           "completedAt": 1713417604
+        },
+        {
+          "opponentName": "DSJ",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822801,
+          "completedAt": 1675916184
         }
       ],
       "Hobbes": [
@@ -35511,6 +36595,17 @@
           "eventId": 1153196,
           "setId": 75613719,
           "completedAt": 1717638630
+        },
+        {
+          "opponentName": "Kicks",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398406,
+          "completedAt": 1679535210
         }
       ],
       "Balance | Fuji": [
@@ -35667,6 +36762,17 @@
           "eventId": 1203913,
           "setId": 78942764,
           "completedAt": 1724896204
+        },
+        {
+          "opponentName": "Balance | Fuji",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271599,
+          "completedAt": 1674701051
         }
       ],
       "DGQT | Clackers": [
@@ -36731,6 +37837,17 @@
           "eventId": 1131192,
           "setId": 74171432,
           "completedAt": 1714615622
+        },
+        {
+          "opponentName": "Rinzler",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678850,
+          "completedAt": 1665020713
         }
       ],
       "w0mp303": [
@@ -36879,6 +37996,17 @@
           "eventId": 853531,
           "setId": 56532257,
           "completedAt": 1675306030
+        },
+        {
+          "opponentName": "Pip",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822797,
+          "completedAt": 1675915477
         }
       ],
       "SweatyBurger": [
@@ -37111,6 +38239,17 @@
           "eventId": 878207,
           "setId": 58133052,
           "completedAt": 1678931242
+        },
+        {
+          "opponentName": "NIKE",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271657,
+          "completedAt": 1674701532
         }
       ],
       "Neptune": [
@@ -37245,6 +38384,17 @@
           "eventId": 988911,
           "setId": 65369428,
           "completedAt": 1695264231
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678889,
+          "completedAt": 1665022784
         }
       ],
       "Frame1 | Owl": [
@@ -37387,6 +38537,17 @@
           "eventId": 831274,
           "setId": 55097569,
           "completedAt": 1671072075
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678856,
+          "completedAt": 1665021476
         }
       ],
       "honey!": [
@@ -37444,6 +38605,17 @@
           "eventId": 998454,
           "setId": 65979662,
           "completedAt": 1696469999
+        },
+        {
+          "opponentName": "honey!",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678886,
+          "completedAt": 1665021879
         }
       ],
       "31 | GLEN": [
@@ -37680,6 +38852,17 @@
           "eventId": 1077642,
           "setId": 70795046,
           "completedAt": 1707964907
+        },
+        {
+          "opponentName": "Current",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271663,
+          "completedAt": 1674703373
         }
       ],
       "Rafael": [
@@ -37908,6 +39091,17 @@
           "eventId": 1182057,
           "setId": 77532108,
           "completedAt": 1721873628
+        },
+        {
+          "opponentName": "Jab",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398412,
+          "completedAt": 1679535751
         }
       ],
       "Grillindude": [
@@ -38905,6 +40099,45 @@
           "eventId": 1208731,
           "setId": 79272945,
           "completedAt": 1725500355
+        }
+      ],
+      "Roylet": [
+        {
+          "opponentName": "Roylet",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271667,
+          "completedAt": 1674703777
+        }
+      ],
+      "blorppppp": [
+        {
+          "opponentName": "blorppppp",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822669,
+          "completedAt": 1675912103
+        }
+      ],
+      "GetFoxy": [
+        {
+          "opponentName": "GetFoxy",
+          "result": "win",
+          "score": "3-1",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398476,
+          "completedAt": 1679537819
         }
       ]
     }
@@ -40705,6 +41938,17 @@
           "eventId": 1169678,
           "setId": 76669982,
           "completedAt": 1720058701
+        },
+        {
+          "opponentName": "TsunamiGod77",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678881,
+          "completedAt": 1665021286
         }
       ],
       "GLEN": [
@@ -40861,6 +42105,17 @@
           "eventId": 1190828,
           "setId": 78084808,
           "completedAt": 1723084505
+        },
+        {
+          "opponentName": "GLEN",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271581,
+          "completedAt": 1674700702
         }
       ],
       "Cheunk": [
@@ -41104,6 +42359,17 @@
           "eventId": 1131192,
           "setId": 74171432,
           "completedAt": 1714615622
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678850,
+          "completedAt": 1665020713
         }
       ],
       "Trent": [
@@ -41531,6 +42797,17 @@
           "eventId": 1102087,
           "setId": 72307137,
           "completedAt": 1710985407
+        },
+        {
+          "opponentName": "moeznr",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822783,
+          "completedAt": 1675912875
         }
       ],
       "Jakan0id": [
@@ -41995,6 +43272,17 @@
           "eventId": 979158,
           "setId": 64796809,
           "completedAt": 1694053217
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271653,
+          "completedAt": 1674701685
         }
       ],
       "Dammit Bobbeh": [
@@ -42544,6 +43832,17 @@
           "eventId": 1178016,
           "setId": 77195582,
           "completedAt": 1721267971
+        },
+        {
+          "opponentName": "Jab",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822650,
+          "completedAt": 1675910922
         }
       ],
       "PocketEllie": [
@@ -42809,6 +44108,19 @@
           "eventId": 1194872,
           "setId": 78369015,
           "completedAt": 1723687135
+        }
+      ],
+      "blorppppp": [
+        {
+          "opponentName": "blorppppp",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822791,
+          "completedAt": 1675913467
         }
       ]
     }
@@ -43113,6 +44425,17 @@
           "eventId": 642701,
           "setId": 42006709,
           "completedAt": 1635993783
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822659,
+          "completedAt": 1675911150
         }
       ],
       "Speedy": [
@@ -43367,6 +44690,32 @@
           "eventId": 838510,
           "setId": 55571281,
           "completedAt": 1672886280
+        }
+      ],
+      "Revenant": [
+        {
+          "opponentName": "Revenant",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822779,
+          "completedAt": 1675912411
+        }
+      ],
+      "hollow": [
+        {
+          "opponentName": "hollow",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822765,
+          "completedAt": 1675911756
         }
       ]
     }
@@ -47028,6 +48377,17 @@
           "eventId": 673605,
           "setId": 44038770,
           "completedAt": 1643251617
+        },
+        {
+          "opponentName": "Pip",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271662,
+          "completedAt": 1674702594
         }
       ],
       "Noah": [
@@ -47233,6 +48593,17 @@
           "eventId": 999888,
           "setId": 66258759,
           "completedAt": 1697074504
+        },
+        {
+          "opponentName": "GetCrabby",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822668,
+          "completedAt": 1675911230
         }
       ],
       "Bread": [
@@ -47272,6 +48643,17 @@
           "eventId": 838510,
           "setId": 55571286,
           "completedAt": 1672889432
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271600,
+          "completedAt": 1674701256
         }
       ],
       "Frame1 | Owl": [
@@ -47452,6 +48834,67 @@
           "eventId": 1007455,
           "setId": 66560568,
           "completedAt": 1697679993
+        },
+        {
+          "opponentName": "meapz",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271656,
+          "completedAt": 1674702129
+        }
+      ],
+      "NIKE": [
+        {
+          "opponentName": "NIKE",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271589,
+          "completedAt": 1674700508
+        },
+        {
+          "opponentName": "NIKE",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822657,
+          "completedAt": 1675910581
+        }
+      ],
+      "blorppppp": [
+        {
+          "opponentName": "blorppppp",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822796,
+          "completedAt": 1675913874
+        }
+      ],
+      "SB3K | Farf": [
+        {
+          "opponentName": "SB3K | Farf",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822792,
+          "completedAt": 1675913241
         }
       ]
     }
@@ -48970,6 +50413,17 @@
           "eventId": 1153196,
           "setId": 75613719,
           "completedAt": 1717638630
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398406,
+          "completedAt": 1679535210
         }
       ],
       "GunSquad | CowboyDan": [
@@ -49437,6 +50891,17 @@
           "eventId": 1190828,
           "setId": 78084776,
           "completedAt": 1723080673
+        },
+        {
+          "opponentName": "TsunamiGod77",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822661,
+          "completedAt": 1675910597
         }
       ],
       "Gingerham": [
@@ -49627,6 +51092,17 @@
           "eventId": 771355,
           "setId": 51089440,
           "completedAt": 1661391811
+        },
+        {
+          "opponentName": "Final Boss | Walshy",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271659,
+          "completedAt": 1674703083
         }
       ],
       "MP3": [
@@ -49901,6 +51377,17 @@
           "eventId": 1190828,
           "setId": 78084812,
           "completedAt": 1723084906
+        },
+        {
+          "opponentName": "GLEN",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398474,
+          "completedAt": 1679537144
         }
       ],
       "James Jr": [
@@ -50359,6 +51846,28 @@
           "eventId": 1144770,
           "setId": 75001478,
           "completedAt": 1716430598
+        },
+        {
+          "opponentName": "Balance | Fuji",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822790,
+          "completedAt": 1675913684
+        },
+        {
+          "opponentName": "Balance | Fuji",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398470,
+          "completedAt": 1679536505
         }
       ],
       "Farf": [
@@ -50613,6 +52122,17 @@
           "eventId": 1208731,
           "setId": 79272946,
           "completedAt": 1725500063
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822670,
+          "completedAt": 1675912796
         }
       ],
       "Bandit": [
@@ -50683,6 +52203,17 @@
           "eventId": 870339,
           "setId": 57628524,
           "completedAt": 1677724875
+        },
+        {
+          "opponentName": "bearz",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398464,
+          "completedAt": 1679536039
         }
       ],
       "Jab": [
@@ -50888,6 +52419,17 @@
           "eventId": 1165550,
           "setId": 76382914,
           "completedAt": 1719453871
+        },
+        {
+          "opponentName": "WYO | SpecialK",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822795,
+          "completedAt": 1675914175
         }
       ],
       "EJL": [
@@ -51237,6 +52779,17 @@
           "eventId": 1106885,
           "setId": 72621447,
           "completedAt": 1711591166
+        },
+        {
+          "opponentName": "Double",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271597,
+          "completedAt": 1674701734
         }
       ],
       "RIZ": [
@@ -51555,6 +53108,17 @@
           "eventId": 673605,
           "setId": 44038770,
           "completedAt": 1643251617
+        },
+        {
+          "opponentName": "Jakan0id",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271662,
+          "completedAt": 1674702594
         }
       ],
       "WizP": [
@@ -51679,6 +53243,17 @@
           "eventId": 853531,
           "setId": 56532257,
           "completedAt": 1675306030
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822797,
+          "completedAt": 1675915477
         }
       ],
       "Namki": [
@@ -51705,6 +53280,17 @@
           "eventId": 831274,
           "setId": 55097636,
           "completedAt": 1671076479
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822666,
+          "completedAt": 1675913492
         }
       ],
       "Bread": [
@@ -51779,6 +53365,39 @@
           "eventId": 874337,
           "setId": 57885111,
           "completedAt": 1678333186
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271669,
+          "completedAt": 1674703810
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822793,
+          "completedAt": 1675915032
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398404,
+          "completedAt": 1679534508
         }
       ],
       "Happy Dad | MothersDay": [
@@ -51855,6 +53474,17 @@
           "eventId": 874337,
           "setId": 57885046,
           "completedAt": 1678329245
+        },
+        {
+          "opponentName": "Jab",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271601,
+          "completedAt": 1674701232
         }
       ],
       "ProudestOfTimes": [
@@ -51881,6 +53511,110 @@
           "eventId": 874337,
           "setId": 57885036,
           "completedAt": 1678328679
+        }
+      ],
+      "Double": [
+        {
+          "opponentName": "Double",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271666,
+          "completedAt": 1674703305
+        }
+      ],
+      "Welcomehouse": [
+        {
+          "opponentName": "Welcomehouse",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271655,
+          "completedAt": 1674701835
+        }
+      ],
+      "EL PATRON": [
+        {
+          "opponentName": "EL PATRON",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271591,
+          "completedAt": 1674700833
+        }
+      ],
+      "TsunamiGod77": [
+        {
+          "opponentName": "TsunamiGod77",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822786,
+          "completedAt": 1675913964
+        }
+      ],
+      "Balance | Fuji": [
+        {
+          "opponentName": "Balance | Fuji",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822653,
+          "completedAt": 1675912642
+        }
+      ],
+      "Datrooph": [
+        {
+          "opponentName": "Datrooph",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398475,
+          "completedAt": 1679536826
+        }
+      ],
+      "Happy Dad | snatcher": [
+        {
+          "opponentName": "Happy Dad | snatcher",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398471,
+          "completedAt": 1679536240
+        }
+      ],
+      "Pibb": [
+        {
+          "opponentName": "Pibb",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398466,
+          "completedAt": 1679535944
         }
       ]
     }
@@ -52215,6 +53949,17 @@
           "eventId": 1161578,
           "setId": 76121886,
           "completedAt": 1718846707
+        },
+        {
+          "opponentName": "WizP",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398414,
+          "completedAt": 1679536201
         }
       ],
       "RINZLER": [
@@ -52476,6 +54221,17 @@
           "eventId": 1186401,
           "setId": 77826113,
           "completedAt": 1722477969
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678853,
+          "completedAt": 1665020757
         }
       ],
       "Omegam": [
@@ -52843,6 +54599,17 @@
           "eventId": 1190828,
           "setId": 78084808,
           "completedAt": 1723084505
+        },
+        {
+          "opponentName": "Rinzler",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271581,
+          "completedAt": 1674700702
         }
       ],
       "QBALLA": [
@@ -53079,6 +54846,17 @@
           "eventId": 878207,
           "setId": 58133083,
           "completedAt": 1678931907
+        },
+        {
+          "opponentName": "NIKE",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678883,
+          "completedAt": 1665021756
         }
       ],
       "swid": [
@@ -53672,6 +55450,17 @@
           "eventId": 1157529,
           "setId": 75883574,
           "completedAt": 1718244799
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271596,
+          "completedAt": 1674701029
         }
       ],
       "osrs | slug wife": [
@@ -53856,6 +55645,28 @@
           "eventId": 974713,
           "setId": 64523635,
           "completedAt": 1693446220
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678887,
+          "completedAt": 1665021777
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822655,
+          "completedAt": 1675911812
         }
       ],
       "Bread": [
@@ -54104,6 +55915,17 @@
           "eventId": 1190828,
           "setId": 78084812,
           "completedAt": 1723084906
+        },
+        {
+          "opponentName": "Kicks",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398474,
+          "completedAt": 1679537144
         }
       ],
       "Elders React | Third Strongest": [
@@ -54376,6 +56198,17 @@
           "eventId": 917172,
           "setId": 60746171,
           "completedAt": 1684982094
+        },
+        {
+          "opponentName": "Jota Jota",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398410,
+          "completedAt": 1679534928
         }
       ],
       "meapz": [
@@ -54719,6 +56552,17 @@
           "eventId": 979158,
           "setId": 64796740,
           "completedAt": 1694050937
+        },
+        {
+          "opponentName": "RAVN",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271660,
+          "completedAt": 1674701568
         }
       ],
       "MetaRidKid": [
@@ -55150,6 +56994,45 @@
           "eventId": 1213899,
           "setId": 79572678,
           "completedAt": 1726104746
+        }
+      ],
+      "Final Boss | Walshy": [
+        {
+          "opponentName": "Final Boss | Walshy",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271664,
+          "completedAt": 1674704631
+        }
+      ],
+      "flapjack": [
+        {
+          "opponentName": "flapjack",
+          "result": "loss",
+          "score": "-1-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822769,
+          "completedAt": 1675912040
+        }
+      ],
+      "Datrooph": [
+        {
+          "opponentName": "Datrooph",
+          "result": "loss",
+          "score": "0-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398477,
+          "completedAt": 1679537937
         }
       ]
     }
@@ -56961,6 +58844,61 @@
           "eventId": 1153196,
           "setId": 75613724,
           "completedAt": 1717640150
+        },
+        {
+          "opponentName": "GetCrabby",
+          "result": "win",
+          "score": "3-2",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678862,
+          "completedAt": 1665028879
+        },
+        {
+          "opponentName": "GetCrabby",
+          "result": "loss",
+          "score": "2-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678863,
+          "completedAt": 1665030252
+        },
+        {
+          "opponentName": "GetCrabby",
+          "result": "loss",
+          "score": "0-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678861,
+          "completedAt": 1665025040
+        },
+        {
+          "opponentName": "GetCrabby",
+          "result": "win",
+          "score": "3-2",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822806,
+          "completedAt": 1675920205
+        },
+        {
+          "opponentName": "GetCrabby",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822677,
+          "completedAt": 1675915391
         }
       ],
       "Frame1 | Owl": [
@@ -57675,6 +59613,28 @@
           "eventId": 1213899,
           "setId": 79572687,
           "completedAt": 1726110215
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271673,
+          "completedAt": 1674713058
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822675,
+          "completedAt": 1675914196
         }
       ],
       "WizP": [
@@ -58117,6 +60077,28 @@
           "eventId": 1203913,
           "setId": 78942766,
           "completedAt": 1724898306
+        },
+        {
+          "opponentName": "WizP",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271608,
+          "completedAt": 1674703558
+        },
+        {
+          "opponentName": "WizP",
+          "result": "win",
+          "score": "3-0",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398416,
+          "completedAt": 1679536982
         }
       ],
       "Balance | Fuji": [
@@ -58584,6 +60566,17 @@
           "eventId": 999888,
           "setId": 66258777,
           "completedAt": 1697075820
+        },
+        {
+          "opponentName": "Double",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271604,
+          "completedAt": 1674702322
         }
       ],
       "Jota Jota": [
@@ -59533,6 +61526,17 @@
           "eventId": 1157529,
           "setId": 75883574,
           "completedAt": 1718244799
+        },
+        {
+          "opponentName": "GLEN",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271596,
+          "completedAt": 1674701029
         }
       ],
       "HL | Safetyman": [
@@ -59603,6 +61607,17 @@
           "eventId": 914994,
           "setId": 60503422,
           "completedAt": 1684373502
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678855,
+          "completedAt": 1665020295
         }
       ],
       "Miyagi": [
@@ -59653,6 +61668,17 @@
           "eventId": 779162,
           "setId": 51632795,
           "completedAt": 1662602371
+        },
+        {
+          "opponentName": "Datrooph",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398413,
+          "completedAt": 1679535114
         }
       ],
       "NIKE": [
@@ -59710,6 +61736,17 @@
           "eventId": 874337,
           "setId": 57885045,
           "completedAt": 1678329770
+        },
+        {
+          "opponentName": "NIKE",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398407,
+          "completedAt": 1679534651
         }
       ],
       "Goomy": [
@@ -59811,6 +61848,28 @@
           "eventId": 861808,
           "setId": 57063821,
           "completedAt": 1676518719
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "win",
+          "score": "3-0",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678893,
+          "completedAt": 1665027510
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678859,
+          "completedAt": 1665023617
         }
       ],
       "Jab": [
@@ -60055,6 +62114,28 @@
           "eventId": 1148801,
           "setId": 75317359,
           "completedAt": 1717038850
+        },
+        {
+          "opponentName": "Jab",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271672,
+          "completedAt": 1674706625
+        },
+        {
+          "opponentName": "Jab",
+          "result": "win",
+          "score": "3-2",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398481,
+          "completedAt": 1679540848
         }
       ],
       "Skrad": [
@@ -60221,6 +62302,17 @@
           "eventId": 1208731,
           "setId": 79272946,
           "completedAt": 1725500063
+        },
+        {
+          "opponentName": "Kicks",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822670,
+          "completedAt": 1675912796
         }
       ],
       "Happy Dad | MothersDay": [
@@ -60269,6 +62361,61 @@
           "eventId": 874337,
           "setId": 57885055,
           "completedAt": 1678334772
+        },
+        {
+          "opponentName": "Conman",
+          "result": "win",
+          "score": "3-0",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822679,
+          "completedAt": 1675920220
+        },
+        {
+          "opponentName": "Conman",
+          "result": "loss",
+          "score": "1-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822680,
+          "completedAt": 1675920259
+        },
+        {
+          "opponentName": "Conman",
+          "result": "loss",
+          "score": "2-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822678,
+          "completedAt": 1675916517
+        },
+        {
+          "opponentName": "Conman",
+          "result": "loss",
+          "score": "0-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398418,
+          "completedAt": 1679541961
+        },
+        {
+          "opponentName": "Conman",
+          "result": "loss",
+          "score": "0-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398417,
+          "completedAt": 1679538982
         }
       ],
       "ツ | AceBox": [
@@ -61334,6 +63481,19 @@
           "setId": 79572677,
           "completedAt": 1726104653
         }
+      ],
+      "bearz": [
+        {
+          "opponentName": "bearz",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822660,
+          "completedAt": 1675912292
+        }
       ]
     }
   },
@@ -61677,6 +63837,17 @@
           "eventId": 878207,
           "setId": 58133083,
           "completedAt": 1678931907
+        },
+        {
+          "opponentName": "GLEN",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678883,
+          "completedAt": 1665021756
         }
       ],
       "DSJ": [
@@ -61867,6 +64038,17 @@
           "eventId": 771355,
           "setId": 51089439,
           "completedAt": 1661392166
+        },
+        {
+          "opponentName": "WizP",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678854,
+          "completedAt": 1665020778
         }
       ],
       "james ahoy": [
@@ -61952,6 +64134,17 @@
           "eventId": 878207,
           "setId": 58133052,
           "completedAt": 1678931242
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271657,
+          "completedAt": 1674701532
         }
       ],
       "moeznr": [
@@ -62133,6 +64326,17 @@
           "eventId": 874337,
           "setId": 57885045,
           "completedAt": 1678329770
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398407,
+          "completedAt": 1679534651
         }
       ],
       "Silkylaroux": [
@@ -62311,6 +64515,17 @@
           "eventId": 886594,
           "setId": 58674002,
           "completedAt": 1680141377
+        },
+        {
+          "opponentName": "bearz",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398396,
+          "completedAt": 1679534163
         }
       ],
       "zapwad": [
@@ -62324,6 +64539,69 @@
           "eventId": 940567,
           "setId": 62324504,
           "completedAt": 1688607157
+        }
+      ],
+      "Jakan0id": [
+        {
+          "opponentName": "Jakan0id",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271589,
+          "completedAt": 1674700508
+        },
+        {
+          "opponentName": "Jakan0id",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822657,
+          "completedAt": 1675910581
+        }
+      ],
+      "Happy Dad | MothersDay": [
+        {
+          "opponentName": "Happy Dad | MothersDay",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822788,
+          "completedAt": 1675913419
+        }
+      ],
+      "RAVN": [
+        {
+          "opponentName": "RAVN",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822780,
+          "completedAt": 1675911118
+        }
+      ],
+      "GetFoxy": [
+        {
+          "opponentName": "GetFoxy",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398469,
+          "completedAt": 1679535224
         }
       ]
     }
@@ -63623,6 +65901,17 @@
           "eventId": 998454,
           "setId": 65979716,
           "completedAt": 1696470335
+        },
+        {
+          "opponentName": "TsunamiGod77",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398468,
+          "completedAt": 1679536621
         }
       ],
       "Kicks": [
@@ -63686,6 +65975,17 @@
           "eventId": 917172,
           "setId": 60746171,
           "completedAt": 1684982094
+        },
+        {
+          "opponentName": "GLEN",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398410,
+          "completedAt": 1679534928
         }
       ],
       "Silkylaroux": [
@@ -63884,6 +66184,17 @@
           "eventId": 1087205,
           "setId": 71416112,
           "completedAt": 1709174940
+        },
+        {
+          "opponentName": "Current",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398460,
+          "completedAt": 1679535601
         }
       ],
       "chozo": [
@@ -64904,6 +67215,17 @@
           "eventId": 1053519,
           "setId": 69394594,
           "completedAt": 1704941724
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271602,
+          "completedAt": 1674701699
         }
       ],
       "Biz": [
@@ -65105,6 +67427,17 @@
           "eventId": 899264,
           "setId": 59490611,
           "completedAt": 1681956702
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271661,
+          "completedAt": 1674702179
         }
       ],
       "honey!": [
@@ -65210,6 +67543,17 @@
           "eventId": 1102087,
           "setId": 72307137,
           "completedAt": 1710985407
+        },
+        {
+          "opponentName": "Rinzler",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822783,
+          "completedAt": 1675912875
         }
       ],
       "Cheunk": [
@@ -65269,6 +67613,17 @@
           "eventId": 999888,
           "setId": 66258896,
           "completedAt": 1697077193
+        },
+        {
+          "opponentName": "DSJ",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822651,
+          "completedAt": 1675911853
         }
       ],
       "Goomy": [
@@ -65777,6 +68132,32 @@
           "setId": 72621365,
           "completedAt": 1711588524
         }
+      ],
+      "Final Boss | Walshy": [
+        {
+          "opponentName": "Final Boss | Walshy",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271593,
+          "completedAt": 1674701134
+        }
+      ],
+      "iLoveEmogirls": [
+        {
+          "opponentName": "iLoveEmogirls",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822773,
+          "completedAt": 1675912400
+        }
       ]
     }
   },
@@ -65872,6 +68253,17 @@
           "eventId": 853531,
           "setId": 56532239,
           "completedAt": 1675304749
+        },
+        {
+          "opponentName": "Neptune",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822785,
+          "completedAt": 1675913931
         }
       ],
       "Jota Jota": [
@@ -65987,6 +68379,17 @@
           "eventId": 1169678,
           "setId": 76669915,
           "completedAt": 1720057939
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822662,
+          "completedAt": 1675911733
         }
       ],
       "GLEN": [
@@ -66000,6 +68403,19 @@
           "eventId": 1169678,
           "setId": 76669900,
           "completedAt": 1720057485
+        }
+      ],
+      "Bandit": [
+        {
+          "opponentName": "Bandit",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822777,
+          "completedAt": 1675912667
         }
       ]
     }
@@ -66691,6 +69107,17 @@
           "eventId": 771355,
           "setId": 51089446,
           "completedAt": 1661392455
+        },
+        {
+          "opponentName": "GetCrabby",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678857,
+          "completedAt": 1665019922
         }
       ],
       "DSJ": [
@@ -66835,6 +69262,17 @@
           "eventId": 790908,
           "setId": 52429053,
           "completedAt": 1664419310
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678888,
+          "completedAt": 1665023881
         }
       ],
       "Neptune": [
@@ -66944,6 +69382,17 @@
           "eventId": 786770,
           "setId": 52142025,
           "completedAt": 1663811137
+        },
+        {
+          "opponentName": "TsunamiGod77",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678885,
+          "completedAt": 1665022793
         }
       ],
       "Rinzler": [
@@ -66996,6 +69445,17 @@
           "eventId": 779302,
           "setId": 51870396,
           "completedAt": 1663205336
+        },
+        {
+          "opponentName": "honey!",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678852,
+          "completedAt": 1665019856
         }
       ],
       "moeznr": [
@@ -68064,6 +70524,17 @@
           "eventId": 1148801,
           "setId": 75317421,
           "completedAt": 1717036471
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822671,
+          "completedAt": 1675913194
         }
       ],
       "Neptune": [
@@ -68101,6 +70572,17 @@
           "eventId": 1165550,
           "setId": 76382914,
           "completedAt": 1719453871
+        },
+        {
+          "opponentName": "Kicks",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822795,
+          "completedAt": 1675914175
         }
       ],
       "Jeeb": [
@@ -68325,6 +70807,45 @@
           "eventId": 1178016,
           "setId": 77195520,
           "completedAt": 1721265957
+        }
+      ],
+      "Jab": [
+        {
+          "opponentName": "Jab",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822799,
+          "completedAt": 1675914574
+        }
+      ],
+      "Current": [
+        {
+          "opponentName": "Current",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822789,
+          "completedAt": 1675913627
+        }
+      ],
+      "Bandit": [
+        {
+          "opponentName": "Bandit",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822663,
+          "completedAt": 1675911013
         }
       ]
     }
@@ -69610,6 +72131,45 @@
           "eventId": 910545,
           "setId": 60286425,
           "completedAt": 1683768383
+        }
+      ],
+      "SB3K | Farf": [
+        {
+          "opponentName": "SB3K | Farf",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822784,
+          "completedAt": 1675912940
+        }
+      ],
+      "Conman": [
+        {
+          "opponentName": "Conman",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822648,
+          "completedAt": 1675912326
+        }
+      ],
+      "meapz": [
+        {
+          "opponentName": "meapz",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822617,
+          "completedAt": 1675910856
         }
       ]
     }
@@ -71310,6 +73870,17 @@
           "eventId": 771355,
           "setId": 51089440,
           "completedAt": 1661391811
+        },
+        {
+          "opponentName": "Kicks",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271659,
+          "completedAt": 1674703083
         }
       ],
       "osrs | slug wife": [
@@ -71388,6 +73959,45 @@
           "eventId": 1037056,
           "setId": 68453846,
           "completedAt": 1701915919
+        }
+      ],
+      "Jab": [
+        {
+          "opponentName": "Jab",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271668,
+          "completedAt": 1674704639
+        }
+      ],
+      "GLEN": [
+        {
+          "opponentName": "GLEN",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271664,
+          "completedAt": 1674704631
+        }
+      ],
+      "moeznr": [
+        {
+          "opponentName": "moeznr",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271593,
+          "completedAt": 1674701134
         }
       ]
     }
@@ -71608,6 +74218,32 @@
           "eventId": 751441,
           "setId": 49488842,
           "completedAt": 1657761770
+        }
+      ],
+      "Pip": [
+        {
+          "opponentName": "Pip",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398466,
+          "completedAt": 1679535944
+        }
+      ],
+      "TsunamiGod77": [
+        {
+          "opponentName": "TsunamiGod77",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398400,
+          "completedAt": 1679535242
         }
       ]
     }
@@ -72601,6 +75237,17 @@
           "eventId": 988911,
           "setId": 65369428,
           "completedAt": 1695264231
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678889,
+          "completedAt": 1665022784
         }
       ],
       "Nurz": [
@@ -72857,6 +75504,17 @@
           "eventId": 899264,
           "setId": 59490611,
           "completedAt": 1681956702
+        },
+        {
+          "opponentName": "moeznr",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271661,
+          "completedAt": 1674702179
         }
       ],
       "Cheunk": [
@@ -72914,6 +75572,17 @@
           "eventId": 914994,
           "setId": 60503422,
           "completedAt": 1684373502
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678855,
+          "completedAt": 1665020295
         }
       ],
       "GLEN": [
@@ -72971,6 +75640,28 @@
           "eventId": 974713,
           "setId": 64523635,
           "completedAt": 1693446220
+        },
+        {
+          "opponentName": "GLEN",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678887,
+          "completedAt": 1665021777
+        },
+        {
+          "opponentName": "GLEN",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822655,
+          "completedAt": 1675911812
         }
       ],
       "James Jr": [
@@ -73028,6 +75719,17 @@
           "eventId": 955983,
           "setId": 63402022,
           "completedAt": 1691029858
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271671,
+          "completedAt": 1674705197
         }
       ],
       "NIKE": [
@@ -73308,6 +76010,28 @@
           "eventId": 988911,
           "setId": 65369361,
           "completedAt": 1695260850
+        },
+        {
+          "opponentName": "WizP",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678891,
+          "completedAt": 1665024737
+        },
+        {
+          "opponentName": "WizP",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822667,
+          "completedAt": 1675913511
         }
       ],
       "31 | GLEN": [
@@ -73356,6 +76080,28 @@
           "eventId": 921950,
           "setId": 61015577,
           "completedAt": 1685585530
+        },
+        {
+          "opponentName": "Balance | Fuji",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678848,
+          "completedAt": 1665019504
+        },
+        {
+          "opponentName": "Balance | Fuji",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271665,
+          "completedAt": 1674702698
         }
       ],
       "Jota Jota": [
@@ -73627,6 +76373,17 @@
           "eventId": 874337,
           "setId": 57885049,
           "completedAt": 1678332354
+        },
+        {
+          "opponentName": "Conman",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398411,
+          "completedAt": 1679535653
         }
       ],
       "Pip": [
@@ -73651,6 +76408,39 @@
           "eventId": 874337,
           "setId": 57885111,
           "completedAt": 1678333186
+        },
+        {
+          "opponentName": "Pip",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271669,
+          "completedAt": 1674703810
+        },
+        {
+          "opponentName": "Pip",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822793,
+          "completedAt": 1675915032
+        },
+        {
+          "opponentName": "Pip",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398404,
+          "completedAt": 1679534508
         }
       ],
       "Final Boss | Walshy": [
@@ -73677,6 +76467,17 @@
           "eventId": 853531,
           "setId": 56532239,
           "completedAt": 1675304749
+        },
+        {
+          "opponentName": "destinybond",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822785,
+          "completedAt": 1675913931
         }
       ],
       "Goomy": [
@@ -73793,6 +76594,17 @@
           "eventId": 979158,
           "setId": 64796809,
           "completedAt": 1694053217
+        },
+        {
+          "opponentName": "Rinzler",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271653,
+          "completedAt": 1674701685
         }
       ],
       "bearz": [
@@ -74091,6 +76903,32 @@
           "eventId": 988911,
           "setId": 65369366,
           "completedAt": 1695261680
+        }
+      ],
+      "Roylet": [
+        {
+          "opponentName": "Roylet",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271603,
+          "completedAt": 1674701158
+        }
+      ],
+      "GetFoxy": [
+        {
+          "opponentName": "GetFoxy",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398473,
+          "completedAt": 1679536334
         }
       ]
     }
@@ -74391,6 +77229,17 @@
           "eventId": 984386,
           "setId": 65076320,
           "completedAt": 1694655503
+        },
+        {
+          "opponentName": "honey!",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678882,
+          "completedAt": 1665019866
         }
       ],
       "Silkylaroux": [
@@ -74555,6 +77404,17 @@
           "eventId": 1117039,
           "setId": 73204860,
           "completedAt": 1712798893
+        },
+        {
+          "opponentName": "GetCrabby",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678851,
+          "completedAt": 1665019287
         }
       ],
       "meapz": [
@@ -74699,6 +77559,17 @@
           "eventId": 1077642,
           "setId": 70795046,
           "completedAt": 1707964907
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271663,
+          "completedAt": 1674703373
         }
       ],
       "Michael D. Kiefer": [
@@ -74950,6 +77821,28 @@
           "eventId": 1092298,
           "setId": 71711208,
           "completedAt": 1709779393
+        },
+        {
+          "opponentName": "WizP",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271598,
+          "completedAt": 1674701639
+        },
+        {
+          "opponentName": "WizP",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822654,
+          "completedAt": 1675910543
         }
       ],
       "Slick": [
@@ -75146,6 +78039,17 @@
           "eventId": 1087205,
           "setId": 71416112,
           "completedAt": 1709174940
+        },
+        {
+          "opponentName": "Jota Jota",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398460,
+          "completedAt": 1679535601
         }
       ],
       "DSJ": [
@@ -75196,6 +78100,71 @@
           "eventId": 1092298,
           "setId": 71711167,
           "completedAt": 1709777744
+        }
+      ],
+      "EL PATRON": [
+        {
+          "opponentName": "EL PATRON",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271658,
+          "completedAt": 1674702532
+        }
+      ],
+      "Welcomehouse": [
+        {
+          "opponentName": "Welcomehouse",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271585,
+          "completedAt": 1674700863
+        }
+      ],
+      "WYO | SpecialK": [
+        {
+          "opponentName": "WYO | SpecialK",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822789,
+          "completedAt": 1675913627
+        }
+      ],
+      "flapjack": [
+        {
+          "opponentName": "flapjack",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822781,
+          "completedAt": 1675912759
+        }
+      ],
+      "Happy Dad | snatcher": [
+        {
+          "opponentName": "Happy Dad | snatcher",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398388,
+          "completedAt": 1679534907
         }
       ]
     }
@@ -75807,6 +78776,17 @@
           "eventId": 779302,
           "setId": 51870396,
           "completedAt": 1663205336
+        },
+        {
+          "opponentName": "GunSquad | Jab",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678852,
+          "completedAt": 1665019856
         }
       ],
       "Current": [
@@ -75842,6 +78822,17 @@
           "eventId": 984386,
           "setId": 65076320,
           "completedAt": 1694655503
+        },
+        {
+          "opponentName": "Current",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678882,
+          "completedAt": 1665019866
         }
       ],
       "Omegam": [
@@ -75899,6 +78890,17 @@
           "eventId": 998454,
           "setId": 65979662,
           "completedAt": 1696469999
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678886,
+          "completedAt": 1665021879
         }
       ],
       "Rinzler": [
@@ -77501,6 +80503,17 @@
           "eventId": 779162,
           "setId": 51632795,
           "completedAt": 1662602371
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398413,
+          "completedAt": 1679535114
         }
       ],
       "Nice Orbit": [
@@ -77579,6 +80592,56 @@
           "eventId": 1153196,
           "setId": 75613659,
           "completedAt": 1717637776
+        },
+        {
+          "opponentName": "Jab",
+          "result": "loss",
+          "score": "0-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398479,
+          "completedAt": 1679538760
+        }
+      ],
+      "GLEN": [
+        {
+          "opponentName": "GLEN",
+          "result": "win",
+          "score": "3-0",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398477,
+          "completedAt": 1679537937
+        }
+      ],
+      "Pip": [
+        {
+          "opponentName": "Pip",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398475,
+          "completedAt": 1679536826
+        }
+      ],
+      "GetFoxy": [
+        {
+          "opponentName": "GetFoxy",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398408,
+          "completedAt": 1679534691
         }
       ]
     }
@@ -78882,6 +81945,17 @@
           "eventId": 831274,
           "setId": 55097637,
           "completedAt": 1671082358
+        },
+        {
+          "opponentName": "GetCrabby",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822805,
+          "completedAt": 1675917519
         }
       ],
       "Omegam": [
@@ -78950,6 +82024,17 @@
           "eventId": 831274,
           "setId": 55097569,
           "completedAt": 1671072075
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678856,
+          "completedAt": 1665021476
         }
       ],
       "DSJ": [
@@ -78985,6 +82070,17 @@
           "eventId": 824998,
           "setId": 54651605,
           "completedAt": 1669866245
+        },
+        {
+          "opponentName": "DSJ",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822803,
+          "completedAt": 1675916709
         }
       ],
       "Rinzler": [
@@ -79121,6 +82217,39 @@
           "eventId": 838510,
           "setId": 55571254,
           "completedAt": 1672886881
+        },
+        {
+          "opponentName": "WizP",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678892,
+          "completedAt": 1665026512
+        },
+        {
+          "opponentName": "WizP",
+          "result": "win",
+          "score": "3-2",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271610,
+          "completedAt": 1674705328
+        },
+        {
+          "opponentName": "WizP",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822673,
+          "completedAt": 1675914268
         }
       ],
       "Fishbait": [
@@ -79213,6 +82342,39 @@
           "eventId": 861808,
           "setId": 57063820,
           "completedAt": 1676516966
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678890,
+          "completedAt": 1665026499
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "win",
+          "score": "3-2",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271611,
+          "completedAt": 1674717092
+        },
+        {
+          "opponentName": "James Jr",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271609,
+          "completedAt": 1674703591
         }
       ],
       "Balance | Fuji": [
@@ -79373,6 +82535,28 @@
           "eventId": 861808,
           "setId": 57063821,
           "completedAt": 1676518719
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678893,
+          "completedAt": 1665027510
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678859,
+          "completedAt": 1665023617
         }
       ],
       "GunSquad | Jab": [
@@ -79456,6 +82640,17 @@
           "eventId": 824998,
           "setId": 54651603,
           "completedAt": 1669864868
+        },
+        {
+          "opponentName": "Jab",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271606,
+          "completedAt": 1674701758
         }
       ],
       "Trent": [
@@ -79528,6 +82723,17 @@
           "eventId": 821636,
           "setId": 54472682,
           "completedAt": 1669256858
+        },
+        {
+          "opponentName": "TsunamiGod77",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-250",
+          "eventName": "Melee Singles",
+          "eventId": 795039,
+          "setId": 52678849,
+          "completedAt": 1665020729
         }
       ],
       "Double": [
@@ -79578,6 +82784,17 @@
           "eventId": 831274,
           "setId": 55097636,
           "completedAt": 1671076479
+        },
+        {
+          "opponentName": "Pip",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822666,
+          "completedAt": 1675913492
         }
       ],
       "Jakan0id": [
@@ -79591,6 +82808,17 @@
           "eventId": 838510,
           "setId": 55571286,
           "completedAt": 1672889432
+        },
+        {
+          "opponentName": "Jakan0id",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271600,
+          "completedAt": 1674701256
         }
       ],
       "Hotdog \"Charles\" Chuck": [
@@ -79630,6 +82858,32 @@
           "eventId": 861808,
           "setId": 57063817,
           "completedAt": 1676515426
+        }
+      ],
+      "Conman": [
+        {
+          "opponentName": "Conman",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822676,
+          "completedAt": 1675914788
+        }
+      ],
+      "Apothos": [
+        {
+          "opponentName": "Apothos",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822652,
+          "completedAt": 1675911252
         }
       ]
     }
@@ -79854,6 +83108,45 @@
           "setId": 58133054,
           "completedAt": 1678929915
         }
+      ],
+      "Jakan0id": [
+        {
+          "opponentName": "Jakan0id",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822792,
+          "completedAt": 1675913241
+        }
+      ],
+      "Smudge": [
+        {
+          "opponentName": "Smudge",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822784,
+          "completedAt": 1675912940
+        }
+      ],
+      "Happy Dad | MothersDay": [
+        {
+          "opponentName": "Happy Dad | MothersDay",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822649,
+          "completedAt": 1675910965
+        }
       ]
     }
   },
@@ -79893,6 +83186,17 @@
           "eventId": 824998,
           "setId": 54651603,
           "completedAt": 1669864868
+        },
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271606,
+          "completedAt": 1674701758
         }
       ],
       "Cheunk": [
@@ -80137,6 +83441,28 @@
           "eventId": 1148801,
           "setId": 75317359,
           "completedAt": 1717038850
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271672,
+          "completedAt": 1674706625
+        },
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "2-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398481,
+          "completedAt": 1679540848
         }
       ],
       "TsunamiGod77": [
@@ -80384,6 +83710,28 @@
           "eventId": 874337,
           "setId": 57885119,
           "completedAt": 1678336486
+        },
+        {
+          "opponentName": "Conman",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822672,
+          "completedAt": 1675913378
+        },
+        {
+          "opponentName": "Conman",
+          "result": "loss",
+          "score": "1-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398415,
+          "completedAt": 1679536636
         }
       ],
       "GetCrabby": [
@@ -80808,6 +84156,17 @@
           "eventId": 1144770,
           "setId": 75001488,
           "completedAt": 1716433141
+        },
+        {
+          "opponentName": "WizP",
+          "result": "win",
+          "score": "3-1",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398480,
+          "completedAt": 1679540841
         }
       ],
       "DSJ": [
@@ -80843,6 +84202,17 @@
           "eventId": 1102087,
           "setId": 72307082,
           "completedAt": 1710985504
+        },
+        {
+          "opponentName": "DSJ",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822665,
+          "completedAt": 1675912060
         }
       ],
       "Kicks": [
@@ -80869,6 +84239,17 @@
           "eventId": 874337,
           "setId": 57885046,
           "completedAt": 1678329245
+        },
+        {
+          "opponentName": "Pip",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271601,
+          "completedAt": 1674701232
         }
       ],
       "James Jr": [
@@ -81227,6 +84608,17 @@
           "eventId": 1182057,
           "setId": 77532108,
           "completedAt": 1721873628
+        },
+        {
+          "opponentName": "Omegam",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398412,
+          "completedAt": 1679535751
         }
       ],
       "moeznr": [
@@ -81468,6 +84860,17 @@
           "eventId": 1087205,
           "setId": 71416050,
           "completedAt": 1709173309
+        },
+        {
+          "opponentName": "Balance | Fuji",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398405,
+          "completedAt": 1679534754
         }
       ],
       "GLEN": [
@@ -81679,6 +85082,17 @@
           "eventId": 1178016,
           "setId": 77195582,
           "completedAt": 1721267971
+        },
+        {
+          "opponentName": "Rinzler",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822650,
+          "completedAt": 1675910922
         }
       ],
       "DayNeptune930": [
@@ -81838,6 +85252,17 @@
           "eventId": 1153196,
           "setId": 75613659,
           "completedAt": 1717637776
+        },
+        {
+          "opponentName": "Datrooph",
+          "result": "win",
+          "score": "3-0",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398479,
+          "completedAt": 1679538760
         }
       ],
       "Slick": [
@@ -81903,6 +85328,58 @@
           "eventId": 1182057,
           "setId": 77532105,
           "completedAt": 1721872776
+        }
+      ],
+      "Roylet": [
+        {
+          "opponentName": "Roylet",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271670,
+          "completedAt": 1674704959
+        }
+      ],
+      "Final Boss | Walshy": [
+        {
+          "opponentName": "Final Boss | Walshy",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271668,
+          "completedAt": 1674704639
+        }
+      ],
+      "blorppppp": [
+        {
+          "opponentName": "blorppppp",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822802,
+          "completedAt": 1675915590
+        }
+      ],
+      "WYO | SpecialK": [
+        {
+          "opponentName": "WYO | SpecialK",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822799,
+          "completedAt": 1675914574
         }
       ]
     }
@@ -82743,6 +86220,17 @@
           "eventId": 1157529,
           "setId": 75883532,
           "completedAt": 1718242353
+        },
+        {
+          "opponentName": "Balance | Fuji",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271587,
+          "completedAt": 1674700399
         }
       ],
       "Elders React | Third Strongest": [
@@ -82872,6 +86360,17 @@
           "eventId": 933251,
           "setId": 61797659,
           "completedAt": 1687398874
+        },
+        {
+          "opponentName": "Bandit",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822761,
+          "completedAt": 1675911720
         }
       ],
       "blorppppp": [
@@ -82963,6 +86462,17 @@
           "eventId": 1007455,
           "setId": 66560568,
           "completedAt": 1697679993
+        },
+        {
+          "opponentName": "Jakan0id",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271656,
+          "completedAt": 1674702129
         }
       ],
       "MCBS | Phresh": [
@@ -83163,6 +86673,19 @@
           "eventId": 1161578,
           "setId": 76121915,
           "completedAt": 1718847111
+        }
+      ],
+      "Smudge": [
+        {
+          "opponentName": "Smudge",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822617,
+          "completedAt": 1675910856
         }
       ]
     }
@@ -83418,6 +86941,58 @@
           "eventId": 853531,
           "setId": 56532245,
           "completedAt": 1675305425
+        }
+      ],
+      "DSJ": [
+        {
+          "opponentName": "DSJ",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822794,
+          "completedAt": 1675915012
+        }
+      ],
+      "Conman": [
+        {
+          "opponentName": "Conman",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822664,
+          "completedAt": 1675912602
+        }
+      ],
+      "NIKE": [
+        {
+          "opponentName": "NIKE",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822788,
+          "completedAt": 1675913419
+        }
+      ],
+      "SB3K | Farf": [
+        {
+          "opponentName": "SB3K | Farf",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822649,
+          "completedAt": 1675910965
         }
       ]
     }
@@ -83856,6 +87431,17 @@
           "eventId": 979158,
           "setId": 64796740,
           "completedAt": 1694050937
+        },
+        {
+          "opponentName": "GLEN",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271660,
+          "completedAt": 1674701568
         }
       ],
       "MaestrO": [
@@ -83869,6 +87455,58 @@
           "eventId": 1007455,
           "setId": 66560490,
           "completedAt": 1697679859
+        }
+      ],
+      "Roylet": [
+        {
+          "opponentName": "Roylet",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271595,
+          "completedAt": 1674700582
+        }
+      ],
+      "NIKE": [
+        {
+          "opponentName": "NIKE",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822780,
+          "completedAt": 1675911118
+        }
+      ],
+      "GetCrabby": [
+        {
+          "opponentName": "GetCrabby",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822656,
+          "completedAt": 1675910656
+        }
+      ],
+      "flapjack": [
+        {
+          "opponentName": "flapjack",
+          "result": "win",
+          "score": "0--1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822633,
+          "completedAt": 1675909928
         }
       ]
     }
@@ -84086,6 +87724,17 @@
           "eventId": 933251,
           "setId": 61797659,
           "completedAt": 1687398874
+        },
+        {
+          "opponentName": "meapz",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822761,
+          "completedAt": 1675911720
         }
       ],
       "WizP": [
@@ -84372,6 +88021,32 @@
           "setId": 68191153,
           "completedAt": 1701310638
         }
+      ],
+      "destinybond": [
+        {
+          "opponentName": "destinybond",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822777,
+          "completedAt": 1675912667
+        }
+      ],
+      "WYO | SpecialK": [
+        {
+          "opponentName": "WYO | SpecialK",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822663,
+          "completedAt": 1675911013
+        }
       ]
     }
   },
@@ -84429,6 +88104,32 @@
           "setId": 57628460,
           "completedAt": 1677724406
         }
+      ],
+      "Pip": [
+        {
+          "opponentName": "Pip",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271655,
+          "completedAt": 1674701835
+        }
+      ],
+      "Current": [
+        {
+          "opponentName": "Current",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271585,
+          "completedAt": 1674700863
+        }
       ]
     }
   },
@@ -84459,6 +88160,17 @@
           "eventId": 870339,
           "setId": 57628524,
           "completedAt": 1677724875
+        },
+        {
+          "opponentName": "Kicks",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398464,
+          "completedAt": 1679536039
         }
       ],
       "TsunamiGod77": [
@@ -84472,6 +88184,17 @@
           "eventId": 870339,
           "setId": 57628456,
           "completedAt": 1677724040
+        },
+        {
+          "opponentName": "TsunamiGod77",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822778,
+          "completedAt": 1675912772
         }
       ],
       "Happy Dad | snatcher": [
@@ -84511,6 +88234,17 @@
           "eventId": 886594,
           "setId": 58674002,
           "completedAt": 1680141377
+        },
+        {
+          "opponentName": "NIKE",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398396,
+          "completedAt": 1679534163
         }
       ],
       "Neptune": [
@@ -84574,6 +88308,32 @@
           "eventId": 1007455,
           "setId": 66560564,
           "completedAt": 1697679563
+        }
+      ],
+      "Cheunk": [
+        {
+          "opponentName": "Cheunk",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822660,
+          "completedAt": 1675912292
+        }
+      ],
+      "iLoveEmogirls": [
+        {
+          "opponentName": "iLoveEmogirls",
+          "result": "win",
+          "score": "0--1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822641,
+          "completedAt": 1675909953
         }
       ]
     }
@@ -84787,6 +88547,45 @@
           "eventId": 874337,
           "setId": 57885030,
           "completedAt": 1678330003
+        }
+      ],
+      "Pip": [
+        {
+          "opponentName": "Pip",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398471,
+          "completedAt": 1679536240
+        }
+      ],
+      "Conman": [
+        {
+          "opponentName": "Conman",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398403,
+          "completedAt": 1679535296
+        }
+      ],
+      "Current": [
+        {
+          "opponentName": "Current",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398388,
+          "completedAt": 1679534907
         }
       ]
     }
@@ -90984,6 +94783,17 @@
           "eventId": 936865,
           "setId": 62075730,
           "completedAt": 1688004805
+        },
+        {
+          "opponentName": "WizP",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822800,
+          "completedAt": 1675915064
         }
       ],
       "meapz": [
@@ -90997,6 +94807,84 @@
           "eventId": 936865,
           "setId": 62075723,
           "completedAt": 1688003975
+        }
+      ],
+      "GetCrabby": [
+        {
+          "opponentName": "GetCrabby",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822804,
+          "completedAt": 1675916415
+        }
+      ],
+      "Jab": [
+        {
+          "opponentName": "Jab",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822802,
+          "completedAt": 1675915590
+        }
+      ],
+      "Jakan0id": [
+        {
+          "opponentName": "Jakan0id",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822796,
+          "completedAt": 1675913874
+        }
+      ],
+      "Omegam": [
+        {
+          "opponentName": "Omegam",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822669,
+          "completedAt": 1675912103
+        }
+      ],
+      "Rinzler": [
+        {
+          "opponentName": "Rinzler",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822791,
+          "completedAt": 1675913467
+        }
+      ],
+      "Revenant": [
+        {
+          "opponentName": "Revenant",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822658,
+          "completedAt": 1675911294
         }
       ]
     }
@@ -95837,6 +99725,58 @@
           "setId": 68679165,
           "completedAt": 1702520744
         }
+      ],
+      "Omegam": [
+        {
+          "opponentName": "Omegam",
+          "result": "loss",
+          "score": "1-3",
+          "bestOf": "Best of 5",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398476,
+          "completedAt": 1679537819
+        }
+      ],
+      "Neptune": [
+        {
+          "opponentName": "Neptune",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398473,
+          "completedAt": 1679536334
+        }
+      ],
+      "NIKE": [
+        {
+          "opponentName": "NIKE",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398469,
+          "completedAt": 1679535224
+        }
+      ],
+      "Datrooph": [
+        {
+          "opponentName": "Datrooph",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-274",
+          "eventName": "Melee Singles",
+          "eventId": 882125,
+          "setId": 58398408,
+          "completedAt": 1679534691
+        }
       ]
     }
   },
@@ -99954,6 +103894,301 @@
           "eventId": 1213899,
           "setId": 79572678,
           "completedAt": 1726104746
+        }
+      ]
+    }
+  },
+  "Roylet": {
+    "name": "Roylet",
+    "opponents": {
+      "Jab": [
+        {
+          "opponentName": "Jab",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271670,
+          "completedAt": 1674704959
+        }
+      ],
+      "James Jr": [
+        {
+          "opponentName": "James Jr",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271607,
+          "completedAt": 1674702404
+        }
+      ],
+      "Omegam": [
+        {
+          "opponentName": "Omegam",
+          "result": "win",
+          "score": "2-1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271667,
+          "completedAt": 1674703777
+        }
+      ],
+      "Neptune": [
+        {
+          "opponentName": "Neptune",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271603,
+          "completedAt": 1674701158
+        }
+      ],
+      "RAVN": [
+        {
+          "opponentName": "RAVN",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271595,
+          "completedAt": 1674700582
+        }
+      ]
+    }
+  },
+  "EL PATRON": {
+    "name": "EL PATRON",
+    "opponents": {
+      "Current": [
+        {
+          "opponentName": "Current",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271658,
+          "completedAt": 1674702532
+        }
+      ],
+      "Pip": [
+        {
+          "opponentName": "Pip",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-266",
+          "eventName": "Melee Singles",
+          "eventId": 849489,
+          "setId": 56271591,
+          "completedAt": 1674700833
+        }
+      ]
+    }
+  },
+  "Revenant": {
+    "name": "Revenant",
+    "opponents": {
+      "DSJ": [
+        {
+          "opponentName": "DSJ",
+          "result": "loss",
+          "score": "1-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822787,
+          "completedAt": 1675913982
+        }
+      ],
+      "Blankets": [
+        {
+          "opponentName": "Blankets",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822779,
+          "completedAt": 1675912411
+        }
+      ],
+      "blorppppp": [
+        {
+          "opponentName": "blorppppp",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822658,
+          "completedAt": 1675911294
+        }
+      ]
+    }
+  },
+  "flapjack": {
+    "name": "flapjack",
+    "opponents": {
+      "Current": [
+        {
+          "opponentName": "Current",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822781,
+          "completedAt": 1675912759
+        }
+      ],
+      "GLEN": [
+        {
+          "opponentName": "GLEN",
+          "result": "win",
+          "score": "0--1",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822769,
+          "completedAt": 1675912040
+        }
+      ],
+      "RAVN": [
+        {
+          "opponentName": "RAVN",
+          "result": "loss",
+          "score": "-1-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822633,
+          "completedAt": 1675909928
+        }
+      ]
+    }
+  },
+  "Apothos": {
+    "name": "Apothos",
+    "opponents": {
+      "Balance | Fuji": [
+        {
+          "opponentName": "Balance | Fuji",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822782,
+          "completedAt": 1675913528
+        }
+      ],
+      "Goomy": [
+        {
+          "opponentName": "Goomy",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822652,
+          "completedAt": 1675911252
+        }
+      ],
+      "hollow": [
+        {
+          "opponentName": "hollow",
+          "result": "win",
+          "score": "2-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822625,
+          "completedAt": 1675910509
+        }
+      ]
+    }
+  },
+  "hollow": {
+    "name": "hollow",
+    "opponents": {
+      "Blankets": [
+        {
+          "opponentName": "Blankets",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822765,
+          "completedAt": 1675911756
+        }
+      ],
+      "Apothos": [
+        {
+          "opponentName": "Apothos",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822625,
+          "completedAt": 1675910509
+        }
+      ]
+    }
+  },
+  "iLoveEmogirls": {
+    "name": "iLoveEmogirls",
+    "opponents": {
+      "moeznr": [
+        {
+          "opponentName": "moeznr",
+          "result": "loss",
+          "score": "0-2",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822773,
+          "completedAt": 1675912400
+        }
+      ],
+      "bearz": [
+        {
+          "opponentName": "bearz",
+          "result": "loss",
+          "score": "-1-0",
+          "bestOf": "Best of 3",
+          "tournamentName": "foco-weekly-wednesday-268",
+          "eventName": "Melee Singles",
+          "eventId": 857818,
+          "setId": 56822641,
+          "completedAt": 1675909953
         }
       ]
     }
