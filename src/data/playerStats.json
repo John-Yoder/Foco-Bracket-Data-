@@ -1,21 +1,21 @@
 {
   "GetCrabby": {
     "name": "GetCrabby",
-    "matchesPlayed": 557,
-    "wins": 369,
-    "losses": 188,
-    "winRate": 66.24775583482945,
-    "totalGamesWon": 1009,
-    "totalGamesLost": 671,
-    "gameWinRate": 60.05952380952381,
-    "straightGameWins": 244,
-    "straightGameLosses": 72,
-    "straightGameMatches": 316,
-    "straightGameWinRate": 77.21518987341773,
-    "decidingGameWins": 91,
-    "decidingGameLosses": 65,
-    "decidingGameMatches": 156,
-    "decidingGameWinRate": 58.333333333333336,
+    "matchesPlayed": 570,
+    "wins": 379,
+    "losses": 191,
+    "winRate": 66.49122807017544,
+    "totalGamesWon": 1035,
+    "totalGamesLost": 683,
+    "gameWinRate": 60.244470314318974,
+    "straightGameWins": 251,
+    "straightGameLosses": 73,
+    "straightGameMatches": 324,
+    "straightGameWinRate": 77.46913580246914,
+    "decidingGameWins": 94,
+    "decidingGameLosses": 67,
+    "decidingGameMatches": 161,
+    "decidingGameWinRate": 58.38509316770186,
     "matches": [
       {
         "opponentName": "WizP",
@@ -4472,43 +4472,147 @@
         "eventStartAt": 1726099200,
         "completedAt": 1726105014,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "2-3",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665028879,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "win",
+        "score": "3-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665030252,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "win",
+        "score": "3-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665025040,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665023895,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665019922,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Current",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665019287,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "2-3",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675920205,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675917519,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915391,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "blorppppp",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675916415,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912555,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jakan0id",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911230,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "RAVN",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910656,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 95,
-        "wins": 57,
-        "winRate": 60
+        "matchesPlayed": 66,
+        "wins": 38,
+        "winRate": 57.57575757575758
       },
       "last1Month": {
-        "matchesPlayed": 12,
-        "wins": 6,
-        "winRate": 50
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 5,
-        "wins": 3,
-        "winRate": 60
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       }
     }
   },
   "WizP": {
     "name": "WizP",
-    "matchesPlayed": 574,
-    "wins": 350,
-    "losses": 224,
-    "winRate": 60.97560975609756,
-    "totalGamesWon": 930,
-    "totalGamesLost": 719,
-    "gameWinRate": 56.39781685870224,
-    "straightGameWins": 218,
-    "straightGameLosses": 110,
-    "straightGameMatches": 328,
-    "straightGameWinRate": 66.46341463414635,
-    "decidingGameWins": 86,
-    "decidingGameLosses": 75,
-    "decidingGameMatches": 161,
-    "decidingGameWinRate": 53.41614906832298,
+    "matchesPlayed": 593,
+    "wins": 361,
+    "losses": 232,
+    "winRate": 60.87689713322091,
+    "totalGamesWon": 959,
+    "totalGamesLost": 743,
+    "gameWinRate": 56.345475910693295,
+    "straightGameWins": 226,
+    "straightGameLosses": 113,
+    "straightGameMatches": 339,
+    "straightGameWinRate": 66.66666666666666,
+    "decidingGameWins": 89,
+    "decidingGameLosses": 78,
+    "decidingGameMatches": 167,
+    "decidingGameWinRate": 53.293413173652695,
     "matches": [
       {
         "opponentName": "GetCrabby",
@@ -9101,43 +9205,195 @@
         "eventStartAt": 1726099200,
         "completedAt": 1726105469,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665026512,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665023895,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665024737,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665023207,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "NIKE",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665020778,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "2-3",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674705328,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "loss",
+        "score": "1-3",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674713067,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703558,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Fuji",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702243,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Current",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701639,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675914268,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "blorppppp",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915064,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913511,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Current",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910543,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "1-3",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679540841,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-3",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536982,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "win",
+        "score": "3-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679539037,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536201,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "TsunamiGod77",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535731,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 82,
-        "wins": 46,
-        "winRate": 56.09756097560976
+        "matchesPlayed": 55,
+        "wins": 31,
+        "winRate": 56.36363636363636
       },
       "last1Month": {
-        "matchesPlayed": 10,
-        "wins": 6,
-        "winRate": 60
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 5,
-        "wins": 3,
-        "winRate": 60
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       }
     }
   },
   "DSJ": {
     "name": "DSJ",
-    "matchesPlayed": 262,
-    "wins": 150,
-    "losses": 112,
-    "winRate": 57.25190839694656,
-    "totalGamesWon": 363,
-    "totalGamesLost": 299,
-    "gameWinRate": 54.833836858006045,
-    "straightGameWins": 101,
-    "straightGameLosses": 59,
-    "straightGameMatches": 160,
-    "straightGameWinRate": 63.125,
-    "decidingGameWins": 42,
+    "matchesPlayed": 269,
+    "wins": 155,
+    "losses": 114,
+    "winRate": 57.62081784386617,
+    "totalGamesWon": 373,
+    "totalGamesLost": 305,
+    "gameWinRate": 55.014749262536874,
+    "straightGameWins": 104,
+    "straightGameLosses": 61,
+    "straightGameMatches": 165,
+    "straightGameWinRate": 63.030303030303024,
+    "decidingGameWins": 44,
     "decidingGameLosses": 34,
-    "decidingGameMatches": 76,
-    "decidingGameWinRate": 55.26315789473685,
+    "decidingGameMatches": 78,
+    "decidingGameWinRate": 56.41025641025641,
     "matches": [
       {
         "opponentName": "GetCrabby",
@@ -11234,13 +11490,69 @@
         "eventStartAt": 1722470400,
         "completedAt": 1722476880,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675916709,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675916184,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915079,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "MothersDay",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915012,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912060,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Revenant",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913982,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "moeznr",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911853,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 10,
-        "wins": 4,
-        "winRate": 40
+        "matchesPlayed": 6,
+        "wins": 2,
+        "winRate": 33.33333333333333
       },
       "last1Month": {
         "matchesPlayed": 0,
@@ -11373,21 +11685,21 @@
   },
   "James Jr": {
     "name": "James Jr",
-    "matchesPlayed": 491,
-    "wins": 329,
-    "losses": 162,
-    "winRate": 67.0061099796334,
-    "totalGamesWon": 926,
-    "totalGamesLost": 594,
-    "gameWinRate": 60.921052631578945,
-    "straightGameWins": 195,
-    "straightGameLosses": 61,
-    "straightGameMatches": 256,
-    "straightGameWinRate": 76.171875,
-    "decidingGameWins": 87,
-    "decidingGameLosses": 69,
-    "decidingGameMatches": 156,
-    "decidingGameWinRate": 55.769230769230774,
+    "matchesPlayed": 507,
+    "wins": 339,
+    "losses": 168,
+    "winRate": 66.86390532544378,
+    "totalGamesWon": 952,
+    "totalGamesLost": 611,
+    "gameWinRate": 60.90850927703136,
+    "straightGameWins": 201,
+    "straightGameLosses": 63,
+    "straightGameMatches": 264,
+    "straightGameWinRate": 76.13636363636364,
+    "decidingGameWins": 90,
+    "decidingGameLosses": 73,
+    "decidingGameMatches": 163,
+    "decidingGameWinRate": 55.21472392638037,
     "matches": [
       {
         "opponentName": "GetCrabby",
@@ -15316,43 +15628,171 @@
         "eventStartAt": 1726099200,
         "completedAt": 1726105140,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665026499,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665023881,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665023207,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Fuji",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665023563,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665020757,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "2-3",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674717092,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "win",
+        "score": "3-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674713067,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674713058,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703591,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674705197,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Roylet",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702404,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "moeznr",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701699,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675914196,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "DSJ",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915079,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "SpecialK",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913194,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "destinybond",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911733,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 80,
-        "wins": 57,
-        "winRate": 71.25
+        "matchesPlayed": 67,
+        "wins": 48,
+        "winRate": 71.64179104477611
       },
       "last1Month": {
-        "matchesPlayed": 9,
-        "wins": 7,
-        "winRate": 77.77777777777779
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 4,
-        "wins": 4,
-        "winRate": 100
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       }
     }
   },
   "Fuji": {
     "name": "Fuji",
-    "matchesPlayed": 305,
-    "wins": 114,
-    "losses": 191,
-    "winRate": 37.37704918032787,
-    "totalGamesWon": 275,
-    "totalGamesLost": 418,
-    "gameWinRate": 39.682539682539684,
-    "straightGameWins": 87,
-    "straightGameLosses": 150,
-    "straightGameMatches": 237,
-    "straightGameWinRate": 36.708860759493675,
-    "decidingGameWins": 21,
-    "decidingGameLosses": 36,
-    "decidingGameMatches": 57,
-    "decidingGameWinRate": 36.84210526315789,
+    "matchesPlayed": 316,
+    "wins": 117,
+    "losses": 199,
+    "winRate": 37.0253164556962,
+    "totalGamesWon": 282,
+    "totalGamesLost": 435,
+    "gameWinRate": 39.33054393305439,
+    "straightGameWins": 89,
+    "straightGameLosses": 157,
+    "straightGameMatches": 246,
+    "straightGameWinRate": 36.17886178861789,
+    "decidingGameWins": 22,
+    "decidingGameLosses": 37,
+    "decidingGameMatches": 59,
+    "decidingGameWinRate": 37.28813559322034,
     "matches": [
       {
         "opponentName": "DSJ",
@@ -17793,21 +18233,109 @@
         "eventStartAt": 1726099200,
         "completedAt": 1726104701,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665023563,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665019504,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702243,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702698,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701051,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "meapz",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700399,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Kicks",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913684,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Apothos",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913528,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912642,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Kicks",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536505,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534754,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 68,
-        "wins": 26,
-        "winRate": 38.23529411764706
+        "matchesPlayed": 54,
+        "wins": 22,
+        "winRate": 40.74074074074074
       },
       "last1Month": {
-        "matchesPlayed": 10,
-        "wins": 4,
-        "winRate": 40
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       }
@@ -18803,21 +19331,21 @@
   },
   "TsunamiGod77": {
     "name": "TsunamiGod77",
-    "matchesPlayed": 209,
-    "wins": 57,
-    "losses": 152,
-    "winRate": 27.27272727272727,
-    "totalGamesWon": 131,
-    "totalGamesLost": 311,
-    "gameWinRate": 29.638009049773757,
-    "straightGameWins": 40,
-    "straightGameLosses": 119,
-    "straightGameMatches": 159,
-    "straightGameWinRate": 25.157232704402517,
-    "decidingGameWins": 13,
+    "matchesPlayed": 219,
+    "wins": 61,
+    "losses": 158,
+    "winRate": 27.85388127853881,
+    "totalGamesWon": 139,
+    "totalGamesLost": 325,
+    "gameWinRate": 29.95689655172414,
+    "straightGameWins": 42,
+    "straightGameLosses": 125,
+    "straightGameMatches": 167,
+    "straightGameWinRate": 25.149700598802394,
+    "decidingGameWins": 15,
     "decidingGameLosses": 24,
-    "decidingGameMatches": 37,
-    "decidingGameWinRate": 35.13513513513514,
+    "decidingGameMatches": 39,
+    "decidingGameWinRate": 38.46153846153847,
     "matches": [
       {
         "opponentName": "Siegfried",
@@ -20490,13 +21018,93 @@
         "eventStartAt": 1723075200,
         "completedAt": 1723080673,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665022793,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Rinzler",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665021286,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665020729,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913964,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "bearz",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912772,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Kicks",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910597,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679537231,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jota Jota",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536621,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535731,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pibb",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535242,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 16,
+        "matchesPlayed": 14,
         "wins": 4,
-        "winRate": 25
+        "winRate": 28.57142857142857
       },
       "last1Month": {
         "matchesPlayed": 0,
@@ -21528,21 +22136,21 @@
   },
   "Conman": {
     "name": "Conman",
-    "matchesPlayed": 29,
-    "wins": 24,
-    "losses": 5,
-    "winRate": 82.75862068965517,
-    "totalGamesWon": 64,
-    "totalGamesLost": 17,
-    "gameWinRate": 79.01234567901234,
-    "straightGameWins": 20,
-    "straightGameLosses": 2,
-    "straightGameMatches": 22,
-    "straightGameWinRate": 90.9090909090909,
-    "decidingGameWins": 2,
+    "matchesPlayed": 41,
+    "wins": 35,
+    "losses": 6,
+    "winRate": 85.36585365853658,
+    "totalGamesWon": 91,
+    "totalGamesLost": 24,
+    "gameWinRate": 79.13043478260869,
+    "straightGameWins": 28,
+    "straightGameLosses": 3,
+    "straightGameMatches": 31,
+    "straightGameWinRate": 90.32258064516128,
+    "decidingGameWins": 3,
     "decidingGameLosses": 2,
-    "decidingGameMatches": 4,
-    "decidingGameWinRate": 50,
+    "decidingGameMatches": 5,
+    "decidingGameWinRate": 60,
     "matches": [
       {
         "opponentName": "DD",
@@ -21774,6 +22382,102 @@
         "score": "2-0",
         "eventStartAt": 1678258800,
         "completedAt": 1678330150,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-3",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675920220,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "win",
+        "score": "3-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675920259,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "win",
+        "score": "3-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675916517,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675914788,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913378,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "MothersDay",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912602,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Smudge",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912326,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "win",
+        "score": "3-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679541961,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "win",
+        "score": "3-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679538982,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "win",
+        "score": "3-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536636,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535653,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "snatcher",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535296,
         "bestOf": "Best of 3"
       }
     ],
@@ -23720,21 +24424,21 @@
   },
   "Double": {
     "name": "Double",
-    "matchesPlayed": 93,
-    "wins": 48,
-    "losses": 45,
-    "winRate": 51.61290322580645,
-    "totalGamesWon": 101,
-    "totalGamesLost": 110,
-    "gameWinRate": 47.867298578199055,
-    "straightGameWins": 27,
-    "straightGameLosses": 37,
-    "straightGameMatches": 64,
-    "straightGameWinRate": 42.1875,
+    "matchesPlayed": 96,
+    "wins": 49,
+    "losses": 47,
+    "winRate": 51.041666666666664,
+    "totalGamesWon": 104,
+    "totalGamesLost": 114,
+    "gameWinRate": 47.706422018348626,
+    "straightGameWins": 28,
+    "straightGameLosses": 38,
+    "straightGameMatches": 66,
+    "straightGameWinRate": 42.42424242424242,
     "decidingGameWins": 19,
-    "decidingGameLosses": 7,
-    "decidingGameMatches": 26,
-    "decidingGameWinRate": 73.07692307692307,
+    "decidingGameLosses": 8,
+    "decidingGameMatches": 27,
+    "decidingGameWinRate": 70.37037037037037,
     "matches": [
       {
         "opponentName": "Conman",
@@ -24479,13 +25183,37 @@
         "eventStartAt": 1720051200,
         "completedAt": 1720058686,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702322,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703305,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Kicks",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701734,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 23,
-        "wins": 11,
-        "winRate": 47.82608695652174
+        "matchesPlayed": 14,
+        "wins": 6,
+        "winRate": 42.857142857142854
       },
       "last1Month": {
         "matchesPlayed": 0,
@@ -24501,21 +25229,21 @@
   },
   "Omegam": {
     "name": "Omegam",
-    "matchesPlayed": 496,
-    "wins": 298,
-    "losses": 198,
-    "winRate": 60.08064516129033,
-    "totalGamesWon": 814,
-    "totalGamesLost": 634,
-    "gameWinRate": 56.21546961325967,
-    "straightGameWins": 178,
-    "straightGameLosses": 92,
-    "straightGameMatches": 270,
-    "straightGameWinRate": 65.92592592592592,
-    "decidingGameWins": 81,
-    "decidingGameLosses": 62,
-    "decidingGameMatches": 143,
-    "decidingGameWinRate": 56.64335664335665,
+    "matchesPlayed": 514,
+    "wins": 308,
+    "losses": 206,
+    "winRate": 59.92217898832685,
+    "totalGamesWon": 842,
+    "totalGamesLost": 656,
+    "gameWinRate": 56.2082777036048,
+    "straightGameWins": 183,
+    "straightGameLosses": 94,
+    "straightGameMatches": 277,
+    "straightGameWinRate": 66.06498194945848,
+    "decidingGameWins": 85,
+    "decidingGameLosses": 68,
+    "decidingGameMatches": 153,
+    "decidingGameWinRate": 55.55555555555556,
     "matches": [
       {
         "opponentName": "Kiefer",
@@ -28484,43 +29212,187 @@
         "eventStartAt": 1726099200,
         "completedAt": 1726104798,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665022784,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665021476,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "honey!",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665021879,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Rinzler",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665020713,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Roylet",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703777,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Current",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703373,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Fuji",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701051,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "NIKE",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701532,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "DSJ",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675916184,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912555,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915477,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "blorppppp",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912103,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Blankets",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911150,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "loss",
+        "score": "2-3",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679539037,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "GetFoxy",
+        "result": "win",
+        "score": "3-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679537819,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535751,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "TsunamiGod77",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679537231,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Kicks",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535210,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 112,
-        "wins": 76,
-        "winRate": 67.85714285714286
+        "matchesPlayed": 80,
+        "wins": 56,
+        "winRate": 70
       },
       "last1Month": {
-        "matchesPlayed": 16,
-        "wins": 11,
-        "winRate": 68.75
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 6,
-        "wins": 4,
-        "winRate": 66.66666666666666
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       }
     }
   },
   "MothersDay": {
     "name": "MothersDay",
-    "matchesPlayed": 53,
-    "wins": 19,
-    "losses": 34,
-    "winRate": 35.84905660377358,
-    "totalGamesWon": 42,
-    "totalGamesLost": 73,
-    "gameWinRate": 36.52173913043478,
-    "straightGameWins": 12,
-    "straightGameLosses": 26,
-    "straightGameMatches": 38,
-    "straightGameWinRate": 31.57894736842105,
-    "decidingGameWins": 6,
+    "matchesPlayed": 57,
+    "wins": 21,
+    "losses": 36,
+    "winRate": 36.84210526315789,
+    "totalGamesWon": 46,
+    "totalGamesLost": 78,
+    "gameWinRate": 37.096774193548384,
+    "straightGameWins": 13,
+    "straightGameLosses": 28,
+    "straightGameMatches": 41,
+    "straightGameWinRate": 31.70731707317073,
+    "decidingGameWins": 7,
     "decidingGameLosses": 7,
-    "decidingGameMatches": 13,
-    "decidingGameWinRate": 46.15384615384615,
+    "decidingGameMatches": 14,
+    "decidingGameWinRate": 50,
     "matches": [
       {
         "opponentName": "Shinji iCarly",
@@ -28945,6 +29817,38 @@
         "eventStartAt": 1715752800,
         "completedAt": 1715823221,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "DSJ",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915012,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912602,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "NIKE",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913419,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Farf",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910965,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -29262,21 +30166,21 @@
   },
   "Rinzler": {
     "name": "Rinzler",
-    "matchesPlayed": 256,
-    "wins": 72,
-    "losses": 184,
-    "winRate": 28.125,
-    "totalGamesWon": 182,
-    "totalGamesLost": 392,
-    "gameWinRate": 31.70731707317073,
-    "straightGameWins": 51,
-    "straightGameLosses": 145,
-    "straightGameMatches": 196,
-    "straightGameWinRate": 26.02040816326531,
+    "matchesPlayed": 263,
+    "wins": 73,
+    "losses": 190,
+    "winRate": 27.756653992395435,
+    "totalGamesWon": 185,
+    "totalGamesLost": 404,
+    "gameWinRate": 31.40916808149406,
+    "straightGameWins": 52,
+    "straightGameLosses": 150,
+    "straightGameMatches": 202,
+    "straightGameWinRate": 25.742574257425744,
     "decidingGameWins": 18,
-    "decidingGameLosses": 36,
-    "decidingGameMatches": 54,
-    "decidingGameWinRate": 33.33333333333333,
+    "decidingGameLosses": 37,
+    "decidingGameMatches": 55,
+    "decidingGameWinRate": 32.72727272727273,
     "matches": [
       {
         "opponentName": "Neur0n",
@@ -31325,16 +32229,72 @@
         "eventStartAt": 1725494400,
         "completedAt": 1725500183,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "TsunamiGod77",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665021286,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665020713,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701685,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700702,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "blorppppp",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913467,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "moeznr",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912875,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910922,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 41,
-        "wins": 11,
-        "winRate": 26.82926829268293
+        "matchesPlayed": 32,
+        "wins": 8,
+        "winRate": 25
       },
       "last1Month": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       },
@@ -31597,17 +32557,17 @@
   },
   "Blankets": {
     "name": "Blankets",
-    "matchesPlayed": 21,
-    "wins": 9,
-    "losses": 12,
-    "winRate": 42.857142857142854,
-    "totalGamesWon": 21,
-    "totalGamesLost": 26,
-    "gameWinRate": 44.680851063829785,
-    "straightGameWins": 7,
-    "straightGameLosses": 9,
-    "straightGameMatches": 16,
-    "straightGameWinRate": 43.75,
+    "matchesPlayed": 24,
+    "wins": 10,
+    "losses": 14,
+    "winRate": 41.66666666666667,
+    "totalGamesWon": 23,
+    "totalGamesLost": 30,
+    "gameWinRate": 43.39622641509434,
+    "straightGameWins": 8,
+    "straightGameLosses": 11,
+    "straightGameMatches": 19,
+    "straightGameWinRate": 42.10526315789473,
     "decidingGameWins": 2,
     "decidingGameLosses": 3,
     "decidingGameMatches": 5,
@@ -31779,6 +32739,30 @@
         "score": "0-2",
         "eventStartAt": 1673294340,
         "completedAt": 1672885035,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Revenant",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912411,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911150,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "hollow",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911756,
         "bestOf": "Best of 3"
       }
     ],
@@ -34027,9 +35011,9 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 30,
-        "wins": 25,
-        "winRate": 83.33333333333334
+        "matchesPlayed": 16,
+        "wins": 13,
+        "winRate": 81.25
       },
       "last1Month": {
         "matchesPlayed": 0,
@@ -34429,9 +35413,9 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 18,
-        "wins": 7,
-        "winRate": 38.88888888888889
+        "matchesPlayed": 9,
+        "wins": 4,
+        "winRate": 44.44444444444444
       },
       "last1Month": {
         "matchesPlayed": 0,
@@ -35309,17 +36293,17 @@
   },
   "Jakan0id": {
     "name": "Jakan0id",
-    "matchesPlayed": 68,
-    "wins": 30,
-    "losses": 38,
-    "winRate": 44.11764705882353,
-    "totalGamesWon": 70,
-    "totalGamesLost": 84,
-    "gameWinRate": 45.45454545454545,
-    "straightGameWins": 22,
-    "straightGameLosses": 28,
-    "straightGameMatches": 50,
-    "straightGameWinRate": 44,
+    "matchesPlayed": 76,
+    "wins": 34,
+    "losses": 42,
+    "winRate": 44.73684210526316,
+    "totalGamesWon": 78,
+    "totalGamesLost": 92,
+    "gameWinRate": 45.88235294117647,
+    "straightGameWins": 26,
+    "straightGameLosses": 32,
+    "straightGameMatches": 58,
+    "straightGameWinRate": 44.827586206896555,
     "decidingGameWins": 8,
     "decidingGameLosses": 10,
     "decidingGameMatches": 18,
@@ -35867,6 +36851,70 @@
         "score": "2-0",
         "eventStartAt": 1697608800,
         "completedAt": 1697679993,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702594,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701256,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "meapz",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702129,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "NIKE",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700508,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "blorppppp",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913874,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911230,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Farf",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913241,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "NIKE",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910581,
         "bestOf": "Best of 3"
       }
     ],
@@ -37122,7 +38170,7 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       },
@@ -37246,21 +38294,21 @@
   },
   "Kicks": {
     "name": "Kicks",
-    "matchesPlayed": 242,
-    "wins": 100,
-    "losses": 142,
-    "winRate": 41.32231404958678,
-    "totalGamesWon": 227,
-    "totalGamesLost": 330,
-    "gameWinRate": 40.754039497307005,
-    "straightGameWins": 63,
-    "straightGameLosses": 112,
-    "straightGameMatches": 175,
-    "straightGameWinRate": 36,
+    "matchesPlayed": 252,
+    "wins": 104,
+    "losses": 148,
+    "winRate": 41.269841269841265,
+    "totalGamesWon": 237,
+    "totalGamesLost": 342,
+    "gameWinRate": 40.932642487046635,
+    "straightGameWins": 67,
+    "straightGameLosses": 116,
+    "straightGameMatches": 183,
+    "straightGameWinRate": 36.6120218579235,
     "decidingGameWins": 33,
-    "decidingGameLosses": 22,
-    "decidingGameMatches": 55,
-    "decidingGameWinRate": 60,
+    "decidingGameLosses": 24,
+    "decidingGameMatches": 57,
+    "decidingGameWinRate": 57.89473684210527,
     "matches": [
       {
         "opponentName": "Rinzler",
@@ -39197,18 +40245,98 @@
         "eventStartAt": 1725494400,
         "completedAt": 1725499556,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Double",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701734,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Walshy",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703083,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "SpecialK",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675914175,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912796,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Fuji",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913684,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "TsunamiGod77",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910597,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679537144,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Fuji",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536505,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535210,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "bearz",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536039,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 29,
-        "wins": 11,
-        "winRate": 37.93103448275862
+        "matchesPlayed": 23,
+        "wins": 9,
+        "winRate": 39.130434782608695
       },
       "last1Month": {
-        "matchesPlayed": 5,
-        "wins": 3,
-        "winRate": 60
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
         "matchesPlayed": 0,
@@ -39219,20 +40347,20 @@
   },
   "Pip": {
     "name": "Pip",
-    "matchesPlayed": 32,
-    "wins": 16,
-    "losses": 16,
-    "winRate": 50,
-    "totalGamesWon": 38,
-    "totalGamesLost": 39,
-    "gameWinRate": 49.35064935064935,
-    "straightGameWins": 10,
-    "straightGameLosses": 10,
-    "straightGameMatches": 20,
-    "straightGameWinRate": 50,
-    "decidingGameWins": 6,
-    "decidingGameLosses": 6,
-    "decidingGameMatches": 12,
+    "matchesPlayed": 47,
+    "wins": 25,
+    "losses": 22,
+    "winRate": 53.191489361702125,
+    "totalGamesWon": 60,
+    "totalGamesLost": 55,
+    "gameWinRate": 52.17391304347826,
+    "straightGameWins": 15,
+    "straightGameLosses": 12,
+    "straightGameMatches": 27,
+    "straightGameWinRate": 55.55555555555556,
+    "decidingGameWins": 10,
+    "decidingGameLosses": 10,
+    "decidingGameMatches": 20,
     "decidingGameWinRate": 50,
     "matches": [
       {
@@ -39490,6 +40618,126 @@
         "eventStartAt": 1678258800,
         "completedAt": 1678328679,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703810,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Double",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703305,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jakan0id",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702594,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701232,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Welcomehouse",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701835,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "EL PATRON",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700833,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915477,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915032,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913492,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "TsunamiGod77",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913964,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Fuji",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912642,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Datrooph",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536826,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "snatcher",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536240,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534508,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pibb",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535944,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -39512,21 +40760,21 @@
   },
   "GLEN": {
     "name": "GLEN",
-    "matchesPlayed": 283,
-    "wins": 108,
-    "losses": 175,
-    "winRate": 38.16254416961131,
-    "totalGamesWon": 262,
-    "totalGamesLost": 401,
-    "gameWinRate": 39.51734539969834,
-    "straightGameWins": 75,
-    "straightGameLosses": 137,
-    "straightGameMatches": 212,
-    "straightGameWinRate": 35.37735849056604,
-    "decidingGameWins": 28,
-    "decidingGameLosses": 33,
-    "decidingGameMatches": 61,
-    "decidingGameWinRate": 45.90163934426229,
+    "matchesPlayed": 296,
+    "wins": 113,
+    "losses": 183,
+    "winRate": 38.17567567567568,
+    "totalGamesWon": 272,
+    "totalGamesLost": 418,
+    "gameWinRate": 39.42028985507247,
+    "straightGameWins": 78,
+    "straightGameLosses": 143,
+    "straightGameMatches": 221,
+    "straightGameWinRate": 35.294117647058826,
+    "decidingGameWins": 30,
+    "decidingGameLosses": 34,
+    "decidingGameMatches": 64,
+    "decidingGameWinRate": 46.875,
     "matches": [
       {
         "opponentName": "Pip",
@@ -41791,6 +43039,110 @@
         "eventStartAt": 1726099200,
         "completedAt": 1726104746,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665021777,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "NIKE",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665021756,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665020757,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Walshy",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674704631,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701029,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "RAVN",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701568,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Rinzler",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700702,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911812,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "flapjack",
+        "result": "loss",
+        "score": "-1-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912040,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Datrooph",
+        "result": "loss",
+        "score": "0-3",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679537937,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536201,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Kicks",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679537144,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jota Jota",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534928,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -41800,14 +43152,14 @@
         "winRate": 43.58974358974359
       },
       "last1Month": {
-        "matchesPlayed": 3,
-        "wins": 1,
-        "winRate": 33.33333333333333
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 3,
-        "wins": 1,
-        "winRate": 33.33333333333333
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       }
     }
   },
@@ -42687,21 +44039,21 @@
   },
   "Cheunk": {
     "name": "Cheunk",
-    "matchesPlayed": 433,
-    "wins": 323,
-    "losses": 110,
-    "winRate": 74.5958429561201,
-    "totalGamesWon": 907,
-    "totalGamesLost": 470,
-    "gameWinRate": 65.86782861292664,
-    "straightGameWins": 198,
-    "straightGameLosses": 31,
-    "straightGameMatches": 229,
-    "straightGameWinRate": 86.46288209606988,
-    "decidingGameWins": 71,
-    "decidingGameLosses": 51,
-    "decidingGameMatches": 122,
-    "decidingGameWinRate": 58.19672131147541,
+    "matchesPlayed": 458,
+    "wins": 340,
+    "losses": 118,
+    "winRate": 74.235807860262,
+    "totalGamesWon": 953,
+    "totalGamesLost": 499,
+    "gameWinRate": 65.633608815427,
+    "straightGameWins": 211,
+    "straightGameLosses": 35,
+    "straightGameMatches": 246,
+    "straightGameWinRate": 85.77235772357723,
+    "decidingGameWins": 75,
+    "decidingGameLosses": 54,
+    "decidingGameMatches": 129,
+    "decidingGameWinRate": 58.139534883720934,
     "matches": [
       {
         "opponentName": "GetCrabby",
@@ -46166,43 +47518,243 @@
         "eventStartAt": 1726099200,
         "completedAt": 1726104653,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "win",
+        "score": "3-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665028879,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "loss",
+        "score": "2-3",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665030252,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "loss",
+        "score": "0-3",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665025040,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "win",
+        "score": "3-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665027510,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665023617,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665020295,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674713058,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703558,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674706625,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Double",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702322,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701029,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "win",
+        "score": "3-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675920220,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "loss",
+        "score": "1-3",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675920259,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "loss",
+        "score": "2-3",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675916517,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "win",
+        "score": "3-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675920205,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915391,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675914196,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Kicks",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912796,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "bearz",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912292,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "loss",
+        "score": "0-3",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679541961,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "loss",
+        "score": "0-3",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679538982,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "win",
+        "score": "3-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679540848,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "win",
+        "score": "3-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536982,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Datrooph",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535114,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "NIKE",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534651,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 65,
-        "wins": 54,
-        "winRate": 83.07692307692308
+        "matchesPlayed": 49,
+        "wins": 40,
+        "winRate": 81.63265306122449
       },
       "last1Month": {
-        "matchesPlayed": 16,
-        "wins": 12,
-        "winRate": 75
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 6,
-        "wins": 4,
-        "winRate": 66.66666666666666
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       }
     }
   },
   "NIKE": {
     "name": "NIKE",
-    "matchesPlayed": 82,
-    "wins": 29,
-    "losses": 53,
-    "winRate": 35.36585365853659,
-    "totalGamesWon": 69,
-    "totalGamesLost": 110,
-    "gameWinRate": 38.547486033519554,
-    "straightGameWins": 26,
-    "straightGameLosses": 43,
-    "straightGameMatches": 69,
-    "straightGameWinRate": 37.68115942028986,
+    "matchesPlayed": 92,
+    "wins": 31,
+    "losses": 61,
+    "winRate": 33.69565217391305,
+    "totalGamesWon": 74,
+    "totalGamesLost": 126,
+    "gameWinRate": 37,
+    "straightGameWins": 28,
+    "straightGameLosses": 50,
+    "straightGameMatches": 78,
+    "straightGameWinRate": 35.8974358974359,
     "decidingGameWins": 3,
-    "decidingGameLosses": 9,
-    "decidingGameMatches": 12,
-    "decidingGameWinRate": 25,
+    "decidingGameLosses": 10,
+    "decidingGameMatches": 13,
+    "decidingGameWinRate": 23.076923076923077,
     "matches": [
       {
         "opponentName": "CowboyDan",
@@ -46859,6 +48411,86 @@
         "eventStartAt": 1688536800,
         "completedAt": 1688607157,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665021756,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665020778,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701532,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jakan0id",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700508,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "MothersDay",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913419,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "RAVN",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911118,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jakan0id",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910581,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetFoxy",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535224,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534651,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "bearz",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534163,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -47423,21 +49055,21 @@
   },
   "Jota Jota": {
     "name": "Jota Jota",
-    "matchesPlayed": 49,
-    "wins": 23,
-    "losses": 26,
-    "winRate": 46.93877551020408,
-    "totalGamesWon": 53,
-    "totalGamesLost": 61,
-    "gameWinRate": 46.49122807017544,
-    "straightGameWins": 14,
+    "matchesPlayed": 52,
+    "wins": 24,
+    "losses": 28,
+    "winRate": 46.15384615384615,
+    "totalGamesWon": 57,
+    "totalGamesLost": 65,
+    "gameWinRate": 46.72131147540984,
+    "straightGameWins": 15,
     "straightGameLosses": 19,
-    "straightGameMatches": 33,
-    "straightGameWinRate": 42.42424242424242,
+    "straightGameMatches": 34,
+    "straightGameWinRate": 44.11764705882353,
     "decidingGameWins": 5,
-    "decidingGameLosses": 4,
-    "decidingGameMatches": 9,
-    "decidingGameWinRate": 55.55555555555556,
+    "decidingGameLosses": 6,
+    "decidingGameMatches": 11,
+    "decidingGameWinRate": 45.45454545454545,
     "matches": [
       {
         "opponentName": "Cheunk",
@@ -47830,6 +49462,30 @@
         "eventStartAt": 1715148000,
         "completedAt": 1715217858,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "TsunamiGod77",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536621,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534928,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Current",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535601,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -47974,21 +49630,21 @@
   },
   "moeznr": {
     "name": "moeznr",
-    "matchesPlayed": 115,
-    "wins": 34,
-    "losses": 81,
-    "winRate": 29.565217391304348,
-    "totalGamesWon": 83,
-    "totalGamesLost": 168,
-    "gameWinRate": 33.067729083665334,
-    "straightGameWins": 21,
-    "straightGameLosses": 58,
-    "straightGameMatches": 79,
-    "straightGameWinRate": 26.582278481012654,
-    "decidingGameWins": 11,
+    "matchesPlayed": 121,
+    "wins": 36,
+    "losses": 85,
+    "winRate": 29.75206611570248,
+    "totalGamesWon": 87,
+    "totalGamesLost": 177,
+    "gameWinRate": 32.95454545454545,
+    "straightGameWins": 22,
+    "straightGameLosses": 62,
+    "straightGameMatches": 84,
+    "straightGameWinRate": 26.190476190476193,
+    "decidingGameWins": 12,
     "decidingGameLosses": 20,
-    "decidingGameMatches": 31,
-    "decidingGameWinRate": 35.483870967741936,
+    "decidingGameMatches": 32,
+    "decidingGameWinRate": 37.5,
     "matches": [
       {
         "opponentName": "Conman",
@@ -48909,13 +50565,61 @@
         "eventStartAt": 1711519200,
         "completedAt": 1711588524,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702179,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701699,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Walshy",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701134,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Rinzler",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912875,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "DSJ",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911853,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "iLoveEmogirls",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912400,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 4,
-        "wins": 2,
-        "winRate": 50
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last1Month": {
         "matchesPlayed": 0,
@@ -48931,21 +50635,21 @@
   },
   "destinybond": {
     "name": "destinybond",
-    "matchesPlayed": 17,
-    "wins": 4,
-    "losses": 13,
-    "winRate": 23.52941176470588,
-    "totalGamesWon": 9,
-    "totalGamesLost": 27,
-    "gameWinRate": 25,
+    "matchesPlayed": 20,
+    "wins": 5,
+    "losses": 15,
+    "winRate": 25,
+    "totalGamesWon": 11,
+    "totalGamesLost": 32,
+    "gameWinRate": 25.581395348837212,
     "straightGameWins": 3,
-    "straightGameLosses": 12,
-    "straightGameMatches": 15,
-    "straightGameWinRate": 20,
-    "decidingGameWins": 1,
+    "straightGameLosses": 14,
+    "straightGameMatches": 17,
+    "straightGameWinRate": 17.647058823529413,
+    "decidingGameWins": 2,
     "decidingGameLosses": 1,
-    "decidingGameMatches": 2,
-    "decidingGameWinRate": 50,
+    "decidingGameMatches": 3,
+    "decidingGameWinRate": 66.66666666666666,
     "matches": [
       {
         "opponentName": "Omegam",
@@ -49081,6 +50785,30 @@
         "score": "2-1",
         "eventStartAt": 1720051200,
         "completedAt": 1720057485,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913931,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Bandit",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912667,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911733,
         "bestOf": "Best of 3"
       }
     ],
@@ -49570,21 +51298,21 @@
   },
   "Jab": {
     "name": "Jab",
-    "matchesPlayed": 213,
-    "wins": 128,
-    "losses": 85,
-    "winRate": 60.093896713615024,
-    "totalGamesWon": 346,
-    "totalGamesLost": 274,
-    "gameWinRate": 55.80645161290323,
-    "straightGameWins": 78,
-    "straightGameLosses": 44,
-    "straightGameMatches": 122,
-    "straightGameWinRate": 63.934426229508205,
-    "decidingGameWins": 36,
-    "decidingGameLosses": 23,
-    "decidingGameMatches": 59,
-    "decidingGameWinRate": 61.016949152542374,
+    "matchesPlayed": 233,
+    "wins": 140,
+    "losses": 93,
+    "winRate": 60.08583690987125,
+    "totalGamesWon": 375,
+    "totalGamesLost": 296,
+    "gameWinRate": 55.88673621460507,
+    "straightGameWins": 86,
+    "straightGameLosses": 50,
+    "straightGameMatches": 136,
+    "straightGameWinRate": 63.23529411764706,
+    "decidingGameWins": 39,
+    "decidingGameLosses": 24,
+    "decidingGameMatches": 63,
+    "decidingGameWinRate": 61.904761904761905,
     "matches": [
       {
         "opponentName": "DD",
@@ -51289,13 +53017,173 @@
         "eventStartAt": 1721865600,
         "completedAt": 1721872776,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665023881,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665019922,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "TsunamiGod77",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665022793,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "honey!",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665019856,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674706625,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Roylet",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674704959,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701758,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Walshy",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674704639,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701232,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "blorppppp",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915590,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913378,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "SpecialK",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675914574,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "DSJ",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912060,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Rinzler",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910922,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "2-3",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679540848,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "win",
+        "score": "3-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679540841,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "loss",
+        "score": "1-3",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536636,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Datrooph",
+        "result": "win",
+        "score": "3-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679538760,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535751,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Fuji",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534754,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 60,
-        "wins": 40,
-        "winRate": 66.66666666666666
+        "matchesPlayed": 43,
+        "wins": 29,
+        "winRate": 67.44186046511628
       },
       "last1Month": {
         "matchesPlayed": 0,
@@ -51577,17 +53465,17 @@
   },
   "SpecialK": {
     "name": "SpecialK",
-    "matchesPlayed": 52,
-    "wins": 28,
-    "losses": 24,
-    "winRate": 53.84615384615385,
-    "totalGamesWon": 69,
-    "totalGamesLost": 63,
-    "gameWinRate": 52.27272727272727,
-    "straightGameWins": 18,
-    "straightGameLosses": 11,
-    "straightGameMatches": 29,
-    "straightGameWinRate": 62.06896551724138,
+    "matchesPlayed": 57,
+    "wins": 31,
+    "losses": 26,
+    "winRate": 54.385964912280706,
+    "totalGamesWon": 75,
+    "totalGamesLost": 67,
+    "gameWinRate": 52.816901408450704,
+    "straightGameWins": 21,
+    "straightGameLosses": 13,
+    "straightGameMatches": 34,
+    "straightGameWinRate": 61.76470588235294,
     "decidingGameWins": 8,
     "decidingGameLosses": 9,
     "decidingGameMatches": 17,
@@ -52008,6 +53896,46 @@
         "eventStartAt": 1721260800,
         "completedAt": 1721265957,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675914574,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Kicks",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675914175,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913194,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Current",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913627,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Bandit",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911013,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -52336,17 +54264,17 @@
   },
   "Farf": {
     "name": "Farf",
-    "matchesPlayed": 56,
-    "wins": 16,
-    "losses": 40,
-    "winRate": 28.57142857142857,
-    "totalGamesWon": 41,
-    "totalGamesLost": 82,
+    "matchesPlayed": 59,
+    "wins": 17,
+    "losses": 42,
+    "winRate": 28.8135593220339,
+    "totalGamesWon": 43,
+    "totalGamesLost": 86,
     "gameWinRate": 33.33333333333333,
-    "straightGameWins": 10,
-    "straightGameLosses": 27,
-    "straightGameMatches": 37,
-    "straightGameWinRate": 27.027027027027028,
+    "straightGameWins": 11,
+    "straightGameLosses": 29,
+    "straightGameMatches": 40,
+    "straightGameWinRate": 27.500000000000004,
     "decidingGameWins": 6,
     "decidingGameLosses": 11,
     "decidingGameMatches": 17,
@@ -52799,6 +54727,30 @@
         "eventStartAt": 1721260800,
         "completedAt": 1721266675,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jakan0id",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913241,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Smudge",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912940,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "MothersDay",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910965,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -52821,21 +54773,21 @@
   },
   "Smudge": {
     "name": "Smudge",
-    "matchesPlayed": 16,
-    "wins": 0,
-    "losses": 16,
-    "winRate": 0,
-    "totalGamesWon": 0,
-    "totalGamesLost": 32,
-    "gameWinRate": 0,
+    "matchesPlayed": 19,
+    "wins": 1,
+    "losses": 18,
+    "winRate": 5.263157894736842,
+    "totalGamesWon": 2,
+    "totalGamesLost": 37,
+    "gameWinRate": 5.128205128205128,
     "straightGameWins": 0,
-    "straightGameLosses": 16,
-    "straightGameMatches": 16,
+    "straightGameLosses": 18,
+    "straightGameMatches": 18,
     "straightGameWinRate": 0,
-    "decidingGameWins": 0,
+    "decidingGameWins": 1,
     "decidingGameLosses": 0,
-    "decidingGameMatches": 0,
-    "decidingGameWinRate": 0,
+    "decidingGameMatches": 1,
+    "decidingGameWinRate": 100,
     "matches": [
       {
         "opponentName": "Trent",
@@ -52963,6 +54915,30 @@
         "score": "0-2",
         "eventStartAt": 1683698400,
         "completedAt": 1683768383,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Farf",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912940,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912326,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "meapz",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910856,
         "bestOf": "Best of 3"
       }
     ],
@@ -54364,21 +56340,21 @@
   },
   "Walshy": {
     "name": "Walshy",
-    "matchesPlayed": 11,
-    "wins": 3,
-    "losses": 8,
-    "winRate": 27.27272727272727,
-    "totalGamesWon": 4,
-    "totalGamesLost": 10,
-    "gameWinRate": 28.57142857142857,
-    "straightGameWins": 3,
-    "straightGameLosses": 4,
-    "straightGameMatches": 7,
-    "straightGameWinRate": 42.857142857142854,
-    "decidingGameWins": 0,
-    "decidingGameLosses": 1,
-    "decidingGameMatches": 1,
-    "decidingGameWinRate": 0,
+    "matchesPlayed": 15,
+    "wins": 5,
+    "losses": 10,
+    "winRate": 33.33333333333333,
+    "totalGamesWon": 9,
+    "totalGamesLost": 15,
+    "gameWinRate": 37.5,
+    "straightGameWins": 4,
+    "straightGameLosses": 5,
+    "straightGameMatches": 9,
+    "straightGameWinRate": 44.44444444444444,
+    "decidingGameWins": 1,
+    "decidingGameLosses": 2,
+    "decidingGameMatches": 3,
+    "decidingGameWinRate": 33.33333333333333,
     "matches": [
       {
         "opponentName": "Silkylaroux",
@@ -54466,6 +56442,38 @@
         "score": "0-2",
         "eventStartAt": 1701846000,
         "completedAt": 1701915919,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674704639,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674704631,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Kicks",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703083,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "moeznr",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701134,
         "bestOf": "Best of 3"
       }
     ],
@@ -54741,20 +56749,20 @@
   },
   "Pibb": {
     "name": "Pibb",
-    "matchesPlayed": 2,
+    "matchesPlayed": 4,
     "wins": 0,
-    "losses": 2,
+    "losses": 4,
     "winRate": 0,
-    "totalGamesWon": 0,
-    "totalGamesLost": 4,
-    "gameWinRate": 0,
+    "totalGamesWon": 1,
+    "totalGamesLost": 8,
+    "gameWinRate": 11.11111111111111,
     "straightGameWins": 0,
-    "straightGameLosses": 2,
-    "straightGameMatches": 2,
+    "straightGameLosses": 3,
+    "straightGameMatches": 3,
     "straightGameWinRate": 0,
     "decidingGameWins": 0,
-    "decidingGameLosses": 0,
-    "decidingGameMatches": 0,
+    "decidingGameLosses": 1,
+    "decidingGameMatches": 1,
     "decidingGameWinRate": 0,
     "matches": [
       {
@@ -54771,6 +56779,22 @@
         "score": "0-2",
         "eventStartAt": 1657753200,
         "completedAt": 1657761770,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535944,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "TsunamiGod77",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535242,
         "bestOf": "Best of 3"
       }
     ],
@@ -54954,7 +56978,7 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       },
@@ -55684,21 +57708,21 @@
   },
   "Neptune": {
     "name": "Neptune",
-    "matchesPlayed": 139,
-    "wins": 66,
-    "losses": 73,
-    "winRate": 47.482014388489205,
-    "totalGamesWon": 175,
-    "totalGamesLost": 174,
-    "gameWinRate": 50.1432664756447,
-    "straightGameWins": 52,
-    "straightGameLosses": 42,
-    "straightGameMatches": 94,
-    "straightGameWinRate": 55.319148936170215,
-    "decidingGameWins": 11,
-    "decidingGameLosses": 28,
-    "decidingGameMatches": 39,
-    "decidingGameWinRate": 28.205128205128204,
+    "matchesPlayed": 157,
+    "wins": 76,
+    "losses": 81,
+    "winRate": 48.40764331210191,
+    "totalGamesWon": 199,
+    "totalGamesLost": 193,
+    "gameWinRate": 50.76530612244898,
+    "straightGameWins": 59,
+    "straightGameLosses": 46,
+    "straightGameMatches": 105,
+    "straightGameWinRate": 56.19047619047619,
+    "decidingGameWins": 14,
+    "decidingGameLosses": 32,
+    "decidingGameMatches": 46,
+    "decidingGameWinRate": 30.434782608695656,
     "matches": [
       {
         "opponentName": "Tricolour",
@@ -56811,6 +58835,150 @@
         "eventStartAt": 1695189600,
         "completedAt": 1695260850,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665024737,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665022784,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665020295,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665021777,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Fuji",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665019504,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674705197,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703810,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Fuji",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702698,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "moeznr",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702179,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Roylet",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701158,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Rinzler",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701685,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915032,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913511,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "destinybond",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913931,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911812,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535653,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetFoxy",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536334,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534508,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -56894,21 +59062,21 @@
   },
   "Current": {
     "name": "Current",
-    "matchesPlayed": 88,
-    "wins": 17,
-    "losses": 71,
-    "winRate": 19.318181818181817,
-    "totalGamesWon": 33,
-    "totalGamesLost": 135,
-    "gameWinRate": 19.642857142857142,
-    "straightGameWins": 11,
-    "straightGameLosses": 58,
-    "straightGameMatches": 69,
-    "straightGameWinRate": 15.942028985507244,
-    "decidingGameWins": 3,
-    "decidingGameLosses": 9,
-    "decidingGameMatches": 12,
-    "decidingGameWinRate": 25,
+    "matchesPlayed": 99,
+    "wins": 20,
+    "losses": 79,
+    "winRate": 20.2020202020202,
+    "totalGamesWon": 40,
+    "totalGamesLost": 152,
+    "gameWinRate": 20.833333333333336,
+    "straightGameWins": 13,
+    "straightGameLosses": 65,
+    "straightGameMatches": 78,
+    "straightGameWinRate": 16.666666666666664,
+    "decidingGameWins": 4,
+    "decidingGameLosses": 10,
+    "decidingGameMatches": 14,
+    "decidingGameWinRate": 28.57142857142857,
     "matches": [
       {
         "opponentName": "Tricolour",
@@ -57613,13 +59781,101 @@
         "eventStartAt": 1712728800,
         "completedAt": 1712798485,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "honey!",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665019866,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665019287,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703373,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701639,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "EL PATRON",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702532,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Welcomehouse",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700863,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "SpecialK",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913627,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "flapjack",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912759,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910543,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jota Jota",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535601,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "snatcher",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534907,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 6,
-        "wins": 2,
-        "winRate": 33.33333333333333
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last1Month": {
         "matchesPlayed": 0,
@@ -57789,21 +60045,21 @@
   },
   "honey!": {
     "name": "honey!",
-    "matchesPlayed": 83,
-    "wins": 40,
-    "losses": 43,
-    "winRate": 48.19277108433735,
-    "totalGamesWon": 89,
-    "totalGamesLost": 96,
-    "gameWinRate": 48.10810810810811,
-    "straightGameWins": 33,
-    "straightGameLosses": 33,
-    "straightGameMatches": 66,
+    "matchesPlayed": 86,
+    "wins": 41,
+    "losses": 45,
+    "winRate": 47.674418604651166,
+    "totalGamesWon": 92,
+    "totalGamesLost": 100,
+    "gameWinRate": 47.91666666666667,
+    "straightGameWins": 34,
+    "straightGameLosses": 34,
+    "straightGameMatches": 68,
     "straightGameWinRate": 50,
     "decidingGameWins": 6,
-    "decidingGameLosses": 9,
-    "decidingGameMatches": 15,
-    "decidingGameWinRate": 40,
+    "decidingGameLosses": 10,
+    "decidingGameMatches": 16,
+    "decidingGameWinRate": 37.5,
     "matches": [
       {
         "opponentName": "Neptune",
@@ -58468,23 +60724,47 @@
         "eventStartAt": 1726099200,
         "completedAt": 1726104701,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665021879,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Current",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665019866,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665019856,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 9,
-        "wins": 3,
-        "winRate": 33.33333333333333
+        "matchesPlayed": 5,
+        "wins": 1,
+        "winRate": 20
       },
       "last1Month": {
-        "matchesPlayed": 3,
-        "wins": 1,
-        "winRate": 33.33333333333333
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 3,
-        "wins": 1,
-        "winRate": 33.33333333333333
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       }
     }
   },
@@ -59037,9 +61317,9 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 18,
-        "wins": 6,
-        "winRate": 33.33333333333333
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last1Month": {
         "matchesPlayed": 0,
@@ -59515,21 +61795,21 @@
   },
   "Datrooph": {
     "name": "Datrooph",
-    "matchesPlayed": 7,
-    "wins": 3,
-    "losses": 4,
-    "winRate": 42.857142857142854,
-    "totalGamesWon": 7,
-    "totalGamesLost": 9,
-    "gameWinRate": 43.75,
-    "straightGameWins": 2,
-    "straightGameLosses": 3,
-    "straightGameMatches": 5,
-    "straightGameWinRate": 40,
-    "decidingGameWins": 1,
+    "matchesPlayed": 12,
+    "wins": 6,
+    "losses": 6,
+    "winRate": 50,
+    "totalGamesWon": 14,
+    "totalGamesLost": 16,
+    "gameWinRate": 46.666666666666664,
+    "straightGameWins": 3,
+    "straightGameLosses": 5,
+    "straightGameMatches": 8,
+    "straightGameWinRate": 37.5,
+    "decidingGameWins": 3,
     "decidingGameLosses": 1,
-    "decidingGameMatches": 2,
-    "decidingGameWinRate": 50,
+    "decidingGameMatches": 4,
+    "decidingGameWinRate": 75,
     "matches": [
       {
         "opponentName": "Cheunk",
@@ -59585,6 +61865,46 @@
         "score": "2-1",
         "eventStartAt": 1717567200,
         "completedAt": 1717637776,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "0-3",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679538760,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "win",
+        "score": "3-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679537937,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535114,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536826,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetFoxy",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534691,
         "bestOf": "Best of 3"
       }
     ],
@@ -59661,21 +61981,21 @@
   },
   "Goomy": {
     "name": "Goomy",
-    "matchesPlayed": 71,
-    "wins": 47,
-    "losses": 24,
-    "winRate": 66.19718309859155,
-    "totalGamesWon": 114,
-    "totalGamesLost": 70,
-    "gameWinRate": 61.95652173913043,
-    "straightGameWins": 34,
-    "straightGameLosses": 14,
-    "straightGameMatches": 48,
-    "straightGameWinRate": 70.83333333333334,
-    "decidingGameWins": 11,
-    "decidingGameLosses": 9,
-    "decidingGameMatches": 20,
-    "decidingGameWinRate": 55.00000000000001,
+    "matchesPlayed": 88,
+    "wins": 60,
+    "losses": 28,
+    "winRate": 68.18181818181817,
+    "totalGamesWon": 144,
+    "totalGamesLost": 87,
+    "gameWinRate": 62.33766233766234,
+    "straightGameWins": 41,
+    "straightGameLosses": 16,
+    "straightGameMatches": 57,
+    "straightGameWinRate": 71.9298245614035,
+    "decidingGameWins": 17,
+    "decidingGameLosses": 11,
+    "decidingGameMatches": 28,
+    "decidingGameWinRate": 60.71428571428571,
     "matches": [
       {
         "opponentName": "GetCrabby",
@@ -60244,6 +62564,142 @@
         "eventStartAt": 1676444400,
         "completedAt": 1676515426,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-3",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665027510,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665026512,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665023617,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665026499,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665021476,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "TsunamiGod77",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1664949600,
+        "completedAt": 1665020729,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "win",
+        "score": "3-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674717092,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "win",
+        "score": "3-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674705328,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703591,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701758,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jakan0id",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701256,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675917519,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675914788,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "DSJ",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675916709,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675914268,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913492,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Apothos",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911252,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -60404,16 +62860,16 @@
   },
   "RAVN": {
     "name": "RAVN",
-    "matchesPlayed": 13,
-    "wins": 1,
-    "losses": 12,
-    "winRate": 7.6923076923076925,
+    "matchesPlayed": 18,
+    "wins": 2,
+    "losses": 16,
+    "winRate": 11.11111111111111,
     "totalGamesWon": 4,
-    "totalGamesLost": 25,
-    "gameWinRate": 13.793103448275861,
+    "totalGamesLost": 32,
+    "gameWinRate": 11.11111111111111,
     "straightGameWins": 0,
-    "straightGameLosses": 10,
-    "straightGameMatches": 10,
+    "straightGameLosses": 14,
+    "straightGameMatches": 14,
     "straightGameWinRate": 0,
     "decidingGameWins": 1,
     "decidingGameLosses": 2,
@@ -60522,6 +62978,46 @@
         "score": "1-2",
         "eventStartAt": 1697608800,
         "completedAt": 1697679859,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701568,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Roylet",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700582,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "NIKE",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911118,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910656,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "flapjack",
+        "result": "win",
+        "score": "0--1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675909928,
         "bestOf": "Best of 3"
       }
     ],
@@ -60800,21 +63296,21 @@
   },
   "meapz": {
     "name": "meapz",
-    "matchesPlayed": 74,
+    "matchesPlayed": 78,
     "wins": 1,
-    "losses": 73,
-    "winRate": 1.3513513513513513,
-    "totalGamesWon": 5,
-    "totalGamesLost": 153,
-    "gameWinRate": 3.1645569620253164,
+    "losses": 77,
+    "winRate": 1.282051282051282,
+    "totalGamesWon": 6,
+    "totalGamesLost": 161,
+    "gameWinRate": 3.592814371257485,
     "straightGameWins": 0,
-    "straightGameLosses": 70,
-    "straightGameMatches": 70,
+    "straightGameLosses": 73,
+    "straightGameMatches": 73,
     "straightGameWinRate": 0,
     "decidingGameWins": 1,
-    "decidingGameLosses": 3,
-    "decidingGameMatches": 4,
-    "decidingGameWinRate": 25,
+    "decidingGameLosses": 4,
+    "decidingGameMatches": 5,
+    "decidingGameWinRate": 20,
     "matches": [
       {
         "opponentName": "NIKE",
@@ -61407,11 +63903,43 @@
         "eventStartAt": 1718841600,
         "completedAt": 1718846229,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jakan0id",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702129,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Fuji",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700399,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Bandit",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911720,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Smudge",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910856,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 12,
+        "matchesPlayed": 8,
         "wins": 0,
         "winRate": 0
       },
@@ -61722,12 +64250,12 @@
         "winRate": 33.33333333333333
       },
       "last1Month": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       }
@@ -61979,21 +64507,21 @@
   },
   "Bandit": {
     "name": "Bandit",
-    "matchesPlayed": 36,
-    "wins": 8,
-    "losses": 28,
-    "winRate": 22.22222222222222,
-    "totalGamesWon": 24,
-    "totalGamesLost": 59,
-    "gameWinRate": 28.915662650602407,
-    "straightGameWins": 5,
-    "straightGameLosses": 20,
-    "straightGameMatches": 25,
-    "straightGameWinRate": 20,
+    "matchesPlayed": 39,
+    "wins": 9,
+    "losses": 30,
+    "winRate": 23.076923076923077,
+    "totalGamesWon": 27,
+    "totalGamesLost": 63,
+    "gameWinRate": 30,
+    "straightGameWins": 6,
+    "straightGameLosses": 21,
+    "straightGameMatches": 27,
+    "straightGameWinRate": 22.22222222222222,
     "decidingGameWins": 3,
-    "decidingGameLosses": 8,
-    "decidingGameMatches": 11,
-    "decidingGameWinRate": 27.27272727272727,
+    "decidingGameLosses": 9,
+    "decidingGameMatches": 12,
+    "decidingGameWinRate": 25,
     "matches": [
       {
         "opponentName": "GetCrabby",
@@ -62282,6 +64810,30 @@
         "eventStartAt": 1701241200,
         "completedAt": 1701310638,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "destinybond",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912667,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "SpecialK",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911013,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "meapz",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911720,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -62304,16 +64856,16 @@
   },
   "Welcomehouse": {
     "name": "Welcomehouse",
-    "matchesPlayed": 4,
+    "matchesPlayed": 6,
     "wins": 0,
-    "losses": 4,
+    "losses": 6,
     "winRate": 0,
     "totalGamesWon": 1,
-    "totalGamesLost": 8,
-    "gameWinRate": 11.11111111111111,
+    "totalGamesLost": 12,
+    "gameWinRate": 7.6923076923076925,
     "straightGameWins": 0,
-    "straightGameLosses": 3,
-    "straightGameMatches": 3,
+    "straightGameLosses": 5,
+    "straightGameMatches": 5,
     "straightGameWinRate": 0,
     "decidingGameWins": 0,
     "decidingGameLosses": 1,
@@ -62351,6 +64903,22 @@
         "eventStartAt": 1677657600,
         "completedAt": 1677724406,
         "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701835,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Current",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700863,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -62373,16 +64941,16 @@
   },
   "bearz": {
     "name": "bearz",
-    "matchesPlayed": 11,
-    "wins": 0,
-    "losses": 11,
-    "winRate": 0,
+    "matchesPlayed": 16,
+    "wins": 1,
+    "losses": 15,
+    "winRate": 6.25,
     "totalGamesWon": 0,
-    "totalGamesLost": 23,
+    "totalGamesLost": 30,
     "gameWinRate": 0,
     "straightGameWins": 0,
-    "straightGameLosses": 11,
-    "straightGameMatches": 11,
+    "straightGameLosses": 15,
+    "straightGameMatches": 15,
     "straightGameWinRate": 0,
     "decidingGameWins": 0,
     "decidingGameLosses": 0,
@@ -62475,6 +65043,46 @@
         "score": "0-2",
         "eventStartAt": 1697608800,
         "completedAt": 1697679231,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "TsunamiGod77",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912772,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Cheunk",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912292,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "iLoveEmogirls",
+        "result": "win",
+        "score": "0--1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675909953,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Kicks",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536039,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "NIKE",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534163,
         "bestOf": "Best of 3"
       }
     ],
@@ -62697,20 +65305,20 @@
   },
   "snatcher": {
     "name": "snatcher",
-    "matchesPlayed": 4,
-    "wins": 2,
-    "losses": 2,
-    "winRate": 50,
-    "totalGamesWon": 5,
-    "totalGamesLost": 4,
-    "gameWinRate": 55.55555555555556,
-    "straightGameWins": 2,
-    "straightGameLosses": 1,
-    "straightGameMatches": 3,
-    "straightGameWinRate": 66.66666666666666,
+    "matchesPlayed": 7,
+    "wins": 3,
+    "losses": 4,
+    "winRate": 42.857142857142854,
+    "totalGamesWon": 8,
+    "totalGamesLost": 8,
+    "gameWinRate": 50,
+    "straightGameWins": 3,
+    "straightGameLosses": 2,
+    "straightGameMatches": 5,
+    "straightGameWinRate": 60,
     "decidingGameWins": 0,
-    "decidingGameLosses": 1,
-    "decidingGameMatches": 1,
+    "decidingGameLosses": 2,
+    "decidingGameMatches": 2,
     "decidingGameWinRate": 0,
     "matches": [
       {
@@ -62743,6 +65351,30 @@
         "score": "2-0",
         "eventStartAt": 1678258800,
         "completedAt": 1678330003,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536240,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Conman",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535296,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Current",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534907,
         "bestOf": "Best of 3"
       }
     ],
@@ -64793,8 +67425,8 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 16,
-        "wins": 8,
+        "matchesPlayed": 12,
+        "wins": 6,
         "winRate": 50
       },
       "last1Month": {
@@ -67019,19 +69651,19 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 71,
-        "wins": 41,
-        "winRate": 57.74647887323944
+        "matchesPlayed": 48,
+        "wins": 28,
+        "winRate": 58.333333333333336
       },
       "last1Month": {
-        "matchesPlayed": 12,
-        "wins": 8,
-        "winRate": 66.66666666666666
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 5,
-        "wins": 3,
-        "winRate": 60
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       }
     }
   },
@@ -67686,20 +70318,20 @@
   },
   "blorppppp": {
     "name": "blorppppp",
-    "matchesPlayed": 4,
-    "wins": 2,
-    "losses": 2,
-    "winRate": 50,
-    "totalGamesWon": 6,
-    "totalGamesLost": 6,
-    "gameWinRate": 50,
-    "straightGameWins": 2,
-    "straightGameLosses": 1,
-    "straightGameMatches": 3,
-    "straightGameWinRate": 66.66666666666666,
+    "matchesPlayed": 11,
+    "wins": 7,
+    "losses": 4,
+    "winRate": 63.63636363636363,
+    "totalGamesWon": 17,
+    "totalGamesLost": 10,
+    "gameWinRate": 62.96296296296296,
+    "straightGameWins": 7,
+    "straightGameLosses": 2,
+    "straightGameMatches": 9,
+    "straightGameWinRate": 77.77777777777779,
     "decidingGameWins": 0,
-    "decidingGameLosses": 1,
-    "decidingGameMatches": 1,
+    "decidingGameLosses": 2,
+    "decidingGameMatches": 2,
     "decidingGameWinRate": 0,
     "matches": [
       {
@@ -67732,6 +70364,62 @@
         "score": "2-0",
         "eventStartAt": 1687932000,
         "completedAt": 1688003975,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GetCrabby",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675916415,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jab",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915590,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "WizP",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675915064,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Jakan0id",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913874,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912103,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Rinzler",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913467,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Revenant",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911294,
         "bestOf": "Best of 3"
       }
     ],
@@ -70839,19 +73527,19 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 44,
-        "wins": 18,
-        "winRate": 40.909090909090914
+        "matchesPlayed": 21,
+        "wins": 7,
+        "winRate": 33.33333333333333
       },
       "last1Month": {
-        "matchesPlayed": 10,
-        "wins": 4,
-        "winRate": 40
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 3,
-        "wins": 1,
-        "winRate": 33.33333333333333
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       }
     }
   },
@@ -71423,7 +74111,7 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 6,
+        "matchesPlayed": 2,
         "wins": 0,
         "winRate": 0
       },
@@ -72014,21 +74702,21 @@
   },
   "GetFoxy": {
     "name": "GetFoxy",
-    "matchesPlayed": 6,
-    "wins": 5,
-    "losses": 1,
-    "winRate": 83.33333333333334,
-    "totalGamesWon": 16,
-    "totalGamesLost": 9,
-    "gameWinRate": 64,
-    "straightGameWins": 1,
+    "matchesPlayed": 10,
+    "wins": 7,
+    "losses": 3,
+    "winRate": 70,
+    "totalGamesWon": 22,
+    "totalGamesLost": 15,
+    "gameWinRate": 59.45945945945946,
+    "straightGameWins": 2,
     "straightGameLosses": 0,
-    "straightGameMatches": 1,
+    "straightGameMatches": 2,
     "straightGameWinRate": 100,
-    "decidingGameWins": 2,
-    "decidingGameLosses": 0,
-    "decidingGameMatches": 2,
-    "decidingGameWinRate": 100,
+    "decidingGameWins": 3,
+    "decidingGameLosses": 1,
+    "decidingGameMatches": 4,
+    "decidingGameWinRate": 75,
     "matches": [
       {
         "opponentName": "DayNeptune930",
@@ -72077,6 +74765,38 @@
         "eventStartAt": 1702450800,
         "completedAt": 1702520744,
         "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "loss",
+        "score": "1-3",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679537819,
+        "bestOf": "Best of 5"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679536334,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "NIKE",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679535224,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Datrooph",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1679464800,
+        "completedAt": 1679534691,
+        "bestOf": "Best of 3"
       }
     ],
     "timeBasedStats": {
@@ -72344,7 +75064,7 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       },
@@ -72461,7 +75181,7 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       },
@@ -72724,7 +75444,7 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 4,
+        "matchesPlayed": 2,
         "wins": 0,
         "winRate": 0
       },
@@ -72870,9 +75590,9 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 5,
+        "matchesPlayed": 3,
         "wins": 1,
-        "winRate": 20
+        "winRate": 33.33333333333333
       },
       "last1Month": {
         "matchesPlayed": 0,
@@ -73024,9 +75744,9 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 5,
-        "wins": 3,
-        "winRate": 60
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last1Month": {
         "matchesPlayed": 0,
@@ -73245,12 +75965,12 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 23,
+        "matchesPlayed": 15,
         "wins": 3,
-        "winRate": 13.043478260869565
+        "winRate": 20
       },
       "last1Month": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       },
@@ -73298,7 +76018,7 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       },
@@ -73351,7 +76071,7 @@
     ],
     "timeBasedStats": {
       "last6Months": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       },
@@ -73641,12 +76361,12 @@
         "winRate": 9.67741935483871
       },
       "last1Month": {
-        "matchesPlayed": 7,
-        "wins": 1,
-        "winRate": 14.285714285714285
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       }
@@ -73902,12 +76622,12 @@
         "winRate": 0
       },
       "last1Month": {
-        "matchesPlayed": 6,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       }
@@ -74812,14 +77532,14 @@
         "winRate": 52.94117647058824
       },
       "last1Month": {
-        "matchesPlayed": 9,
-        "wins": 5,
-        "winRate": 55.55555555555556
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 4,
-        "wins": 2,
-        "winRate": 50
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       }
     }
   },
@@ -74969,14 +77689,14 @@
         "winRate": 46.666666666666664
       },
       "last1Month": {
-        "matchesPlayed": 12,
-        "wins": 6,
-        "winRate": 50
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       },
       "last10Days": {
-        "matchesPlayed": 4,
-        "wins": 2,
-        "winRate": 50
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
       }
     }
   },
@@ -75139,7 +77859,426 @@
         "winRate": 0
       },
       "last1Month": {
-        "matchesPlayed": 4,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last10Days": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      }
+    }
+  },
+  "Roylet": {
+    "name": "Roylet",
+    "matchesPlayed": 5,
+    "wins": 3,
+    "losses": 2,
+    "winRate": 60,
+    "totalGamesWon": 8,
+    "totalGamesLost": 5,
+    "gameWinRate": 61.53846153846154,
+    "straightGameWins": 2,
+    "straightGameLosses": 0,
+    "straightGameMatches": 2,
+    "straightGameWinRate": 100,
+    "decidingGameWins": 1,
+    "decidingGameLosses": 2,
+    "decidingGameMatches": 3,
+    "decidingGameWinRate": 33.33333333333333,
+    "matches": [
+      {
+        "opponentName": "Jab",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674704959,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "James Jr",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702404,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Omegam",
+        "result": "win",
+        "score": "2-1",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674703777,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Neptune",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674701158,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "RAVN",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700582,
+        "bestOf": "Best of 3"
+      }
+    ],
+    "timeBasedStats": {
+      "last6Months": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last1Month": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last10Days": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      }
+    }
+  },
+  "EL PATRON": {
+    "name": "EL PATRON",
+    "matchesPlayed": 2,
+    "wins": 0,
+    "losses": 2,
+    "winRate": 0,
+    "totalGamesWon": 1,
+    "totalGamesLost": 4,
+    "gameWinRate": 20,
+    "straightGameWins": 0,
+    "straightGameLosses": 1,
+    "straightGameMatches": 1,
+    "straightGameWinRate": 0,
+    "decidingGameWins": 0,
+    "decidingGameLosses": 1,
+    "decidingGameMatches": 1,
+    "decidingGameWinRate": 0,
+    "matches": [
+      {
+        "opponentName": "Current",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674702532,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Pip",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1674633600,
+        "completedAt": 1674700833,
+        "bestOf": "Best of 3"
+      }
+    ],
+    "timeBasedStats": {
+      "last6Months": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last1Month": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last10Days": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      }
+    }
+  },
+  "Revenant": {
+    "name": "Revenant",
+    "matchesPlayed": 3,
+    "wins": 1,
+    "losses": 2,
+    "winRate": 33.33333333333333,
+    "totalGamesWon": 3,
+    "totalGamesLost": 4,
+    "gameWinRate": 42.857142857142854,
+    "straightGameWins": 1,
+    "straightGameLosses": 1,
+    "straightGameMatches": 2,
+    "straightGameWinRate": 50,
+    "decidingGameWins": 0,
+    "decidingGameLosses": 1,
+    "decidingGameMatches": 1,
+    "decidingGameWinRate": 0,
+    "matches": [
+      {
+        "opponentName": "DSJ",
+        "result": "loss",
+        "score": "1-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913982,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Blankets",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912411,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "blorppppp",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911294,
+        "bestOf": "Best of 3"
+      }
+    ],
+    "timeBasedStats": {
+      "last6Months": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last1Month": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last10Days": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      }
+    }
+  },
+  "flapjack": {
+    "name": "flapjack",
+    "matchesPlayed": 3,
+    "wins": 1,
+    "losses": 2,
+    "winRate": 33.33333333333333,
+    "totalGamesWon": -1,
+    "totalGamesLost": 1,
+    "gameWinRate": 0,
+    "straightGameWins": 0,
+    "straightGameLosses": 1,
+    "straightGameMatches": 1,
+    "straightGameWinRate": 0,
+    "decidingGameWins": 0,
+    "decidingGameLosses": 0,
+    "decidingGameMatches": 0,
+    "decidingGameWinRate": 0,
+    "matches": [
+      {
+        "opponentName": "Current",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912759,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "GLEN",
+        "result": "win",
+        "score": "0--1",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912040,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "RAVN",
+        "result": "loss",
+        "score": "-1-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675909928,
+        "bestOf": "Best of 3"
+      }
+    ],
+    "timeBasedStats": {
+      "last6Months": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last1Month": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last10Days": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      }
+    }
+  },
+  "Apothos": {
+    "name": "Apothos",
+    "matchesPlayed": 3,
+    "wins": 1,
+    "losses": 2,
+    "winRate": 33.33333333333333,
+    "totalGamesWon": 2,
+    "totalGamesLost": 4,
+    "gameWinRate": 33.33333333333333,
+    "straightGameWins": 1,
+    "straightGameLosses": 2,
+    "straightGameMatches": 3,
+    "straightGameWinRate": 33.33333333333333,
+    "decidingGameWins": 0,
+    "decidingGameLosses": 0,
+    "decidingGameMatches": 0,
+    "decidingGameWinRate": 0,
+    "matches": [
+      {
+        "opponentName": "Fuji",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675913528,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Goomy",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911252,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "hollow",
+        "result": "win",
+        "score": "2-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910509,
+        "bestOf": "Best of 3"
+      }
+    ],
+    "timeBasedStats": {
+      "last6Months": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last1Month": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last10Days": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      }
+    }
+  },
+  "hollow": {
+    "name": "hollow",
+    "matchesPlayed": 2,
+    "wins": 0,
+    "losses": 2,
+    "winRate": 0,
+    "totalGamesWon": 0,
+    "totalGamesLost": 4,
+    "gameWinRate": 0,
+    "straightGameWins": 0,
+    "straightGameLosses": 2,
+    "straightGameMatches": 2,
+    "straightGameWinRate": 0,
+    "decidingGameWins": 0,
+    "decidingGameLosses": 0,
+    "decidingGameMatches": 0,
+    "decidingGameWinRate": 0,
+    "matches": [
+      {
+        "opponentName": "Blankets",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675911756,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "Apothos",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675910509,
+        "bestOf": "Best of 3"
+      }
+    ],
+    "timeBasedStats": {
+      "last6Months": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last1Month": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last10Days": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      }
+    }
+  },
+  "iLoveEmogirls": {
+    "name": "iLoveEmogirls",
+    "matchesPlayed": 2,
+    "wins": 0,
+    "losses": 2,
+    "winRate": 0,
+    "totalGamesWon": -1,
+    "totalGamesLost": 2,
+    "gameWinRate": -100,
+    "straightGameWins": 0,
+    "straightGameLosses": 1,
+    "straightGameMatches": 1,
+    "straightGameWinRate": 0,
+    "decidingGameWins": 0,
+    "decidingGameLosses": 0,
+    "decidingGameMatches": 0,
+    "decidingGameWinRate": 0,
+    "matches": [
+      {
+        "opponentName": "moeznr",
+        "result": "loss",
+        "score": "0-2",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675912400,
+        "bestOf": "Best of 3"
+      },
+      {
+        "opponentName": "bearz",
+        "result": "loss",
+        "score": "-1-0",
+        "eventStartAt": 1675839600,
+        "completedAt": 1675909953,
+        "bestOf": "Best of 3"
+      }
+    ],
+    "timeBasedStats": {
+      "last6Months": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "winRate": 0
+      },
+      "last1Month": {
+        "matchesPlayed": 0,
         "wins": 0,
         "winRate": 0
       },
